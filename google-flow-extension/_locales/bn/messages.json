@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Auto Flow: AI Video & Image Automation Tool",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "Google Flow অটোমেট করুন: একটি প্রম্পট তালিকা থেকে Veo 3, Omni Flash ও Nano Banana, সারি, রেফারেন্স ছবি ও অটো-ডাউনলোড সহ।",
+    "description": "Store/manifest description"
+  },
+  "actionTitle": {
+    "message": "Auto Flow খুলুন",
+    "description": "Toolbar button tooltip"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "extName": { "message": "Auto Flow: AI Video & Image Automation Tool", "description": "Extension name" },
+  "extDesc": { "message": "Automate Google Flow: Veo 3, Omni Flash and Nano Banana from one prompt list, with a run queue, reference images and auto-download.", "description": "Store/manifest description (≤132 chars)" },
+  "actionTitle": { "message": "Open Auto Flow", "description": "Toolbar button tooltip" }
+}

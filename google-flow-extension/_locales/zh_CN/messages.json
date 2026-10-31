@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Auto Flow: AI Video & Image Automation Tool",
+    "description": "Extension name"
+  },
+  "extDesc": {
+    "message": "自动化 Google Flow：用一份提示词列表批量运行 Veo 3、Omni Flash 和 Nano Banana，支持队列、参考图和自动下载。",
+    "description": "Store/manifest description"
+  },
+  "actionTitle": {
+    "message": "打开 Auto Flow",
+    "description": "Toolbar button tooltip"
+  }
+}

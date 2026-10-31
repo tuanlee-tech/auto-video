@@ -1,0 +1,20 @@
+Hướng dẫn cài đặt Extension Auto Flow Clone (Bản Mở Khóa Đầy Đủ)
+================================================================
+
+1. Mở trang quản lý tiện ích của Chrome:
+   Nhập vào thanh địa chỉ:
+       chrome://extensions/
+
+2. Bật chế độ nhà phát triển (Developer mode):
+   Gạt công tắc "Developer mode" ở góc TRÊN CÙNG BÊN PHẢI màn hình.
+
+3. Nạp Extension:
+   Bấm nút "Tải tiện ích đã giải nén" (Load unpacked) ở góc TRÊN CÙNG BÊN TRÁI.
+   Chọn thư mục:
+       E:\auto-video\google-flow-extension
+
+4. Sử dụng:
+   - Truy cập trang web chính thức của Flow: https://flow.google.com
+   - Đăng nhập tài khoản Google của bạn.
+   - Bấm icon Extension trên thanh công cụ trình duyệt (hoặc bấm nút tròn launcher nổi ở góc phải dưới trang web Flow) để mở bảng điều khiển Auto Flow.
+   - Thưởng thức toàn bộ tính năng Video (Veo 3.1, Omni), Ảnh (Nano Banana), Upscale, Tải tự động và Đa luồng không giới hạn!

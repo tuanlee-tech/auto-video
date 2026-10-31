@@ -1,0 +1,8 @@
+# Dependencies & caches
+node_modules/
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

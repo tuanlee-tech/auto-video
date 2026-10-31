@@ -1,0 +1,94 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Flow Studio - AI Video & Image Generator",
+  "version": "10.9.1",
+  "description": "Bộ công cụ tự động hóa sáng tạo video & ảnh trên Google Flow (Veo 3.1 & Nano Banana) không giới hạn: Hàng chờ Prompt, Batch, Auto Download.",
+  "default_locale": "en",
+  "icons": {
+    "16": "src/icons/16.png",
+    "32": "src/icons/32.png",
+    "48": "src/icons/48.png",
+    "128": "src/icons/128.png"
+  },
+  "action": {
+    "default_title": "__MSG_actionTitle__",
+    "default_icon": {
+      "16": "src/icons/16.png",
+      "32": "src/icons/32.png",
+      "48": "src/icons/48.png",
+      "128": "src/icons/128.png"
+    }
+  },
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://flow.google.com/*"
+      ],
+      "js": [
+        "interceptor.js",
+        "mainworld-bridge.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    },
+    {
+      "js": [
+        "assets/index.ts-loader-CmUGnRqI.js"
+      ],
+      "matches": [
+        "https://flow.google.com/*"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "alarms",
+    "downloads",
+    "downloads.open",
+    "identity",
+    "identity.email",
+    "sidePanel",
+    "activeTab",
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://flow.google.com/*",
+    "https://www.googleapis.com/*",
+    "https://*.googleusercontent.com/*"
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "https://flow.google.com/*"
+      ],
+      "resources": [
+        "src/content/mainworld-bridge.js",
+        "mainworld-bridge.js",
+        "src/icons/128.png"
+      ],
+      "use_dynamic_url": false
+    },
+    {
+      "matches": [
+        "https://flow.google.com/*"
+      ],
+      "resources": [
+        "assets/blobStore-D681W2yd.js",
+        "assets/adapter-CEOGdgvO.js",
+        "assets/policy-DpPJeO3m.js",
+        "assets/index.ts-B45OwTZr.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ],
+  "side_panel": {
+    "default_path": "src/ui/window.html"
+  }
+}
