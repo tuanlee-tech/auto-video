@@ -1,67 +1,132 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 89,
-  "abs_start_ms": 469560,
-  "abs_end_ms": 472000,
-  "duration_ms": 2440,
-  "word_count": 11,
+  "abs_start_ms": 469280,
+  "abs_end_ms": 474840,
+  "duration_ms": 5560,
+  "word_count": 24,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "\"Tại",
+      "word": "Thứ",
       "start_ms": 0,
-      "end_ms": 140
+      "end_ms": 220
     },
     {
-      "word": "sao",
-      "start_ms": 140,
-      "end_ms": 300
+      "word": "nhất,",
+      "start_ms": 220,
+      "end_ms": 400
     },
     {
-      "word": "hôm",
-      "start_ms": 300,
-      "end_ms": 440
+      "word": "vào",
+      "start_ms": 400,
+      "end_ms": 640
     },
     {
-      "word": "trước",
-      "start_ms": 440,
-      "end_ms": 660
+      "word": "ngay",
+      "start_ms": 640,
+      "end_ms": 900
     },
     {
-      "word": "mình",
-      "start_ms": 1260,
-      "end_ms": 1340
+      "word": "cài",
+      "start_ms": 900,
+      "end_ms": 980
     },
     {
-      "word": "lại",
-      "start_ms": 1340,
-      "end_ms": 1480
+      "word": "đặt",
+      "start_ms": 980,
+      "end_ms": 1220
     },
     {
-      "word": "muốn",
-      "start_ms": 1480,
+      "word": "của",
+      "start_ms": 1220,
       "end_ms": 1660
     },
     {
-      "word": "mua",
+      "word": "các",
       "start_ms": 1660,
-      "end_ms": 1880
+      "end_ms": 1900
     },
     {
-      "word": "thứ",
-      "start_ms": 1880,
-      "end_ms": 2040
+      "word": "ứng",
+      "start_ms": 1900,
+      "end_ms": 2120
     },
     {
-      "word": "này",
-      "start_ms": 2040,
+      "word": "dụng",
+      "start_ms": 2120,
       "end_ms": 2220
     },
     {
-      "word": "nhỉ?\".",
+      "word": "mua",
       "start_ms": 2220,
-      "end_ms": 2440
+      "end_ms": 2420
+    },
+    {
+      "word": "sắm",
+      "start_ms": 2420,
+      "end_ms": 2560
+    },
+    {
+      "word": "và",
+      "start_ms": 2560,
+      "end_ms": 2720
+    },
+    {
+      "word": "xóa",
+      "start_ms": 2720,
+      "end_ms": 2920
+    },
+    {
+      "word": "toàn",
+      "start_ms": 2920,
+      "end_ms": 3080
+    },
+    {
+      "word": "bộ",
+      "start_ms": 3080,
+      "end_ms": 3300
+    },
+    {
+      "word": "thông",
+      "start_ms": 3300,
+      "end_ms": 3480
+    },
+    {
+      "word": "tin",
+      "start_ms": 3480,
+      "end_ms": 3700
+    },
+    {
+      "word": "thẻ",
+      "start_ms": 4320,
+      "end_ms": 4400
+    },
+    {
+      "word": "ngân",
+      "start_ms": 4400,
+      "end_ms": 4580
+    },
+    {
+      "word": "hàng",
+      "start_ms": 4580,
+      "end_ms": 4700
+    },
+    {
+      "word": "đã",
+      "start_ms": 4700,
+      "end_ms": 4840
+    },
+    {
+      "word": "lưu",
+      "start_ms": 4840,
+      "end_ms": 5080
+    },
+    {
+      "word": "sẵn.",
+      "start_ms": 5460,
+      "end_ms": 5560
     }
   ],
   "aligned_with_script": true

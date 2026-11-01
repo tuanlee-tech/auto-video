@@ -94,7 +94,13 @@ Agent có thể linh hoạt chọn 1 trong 5 Option chuẩn dưới đây tùy t
 * **Câu chào mở màn (Intro Welcome)**: Đặt ở cuối phần Hook mở đầu:
   > *"Chào mừng bạn đến với Thói Quen Thịnh Vượng."*
 * **Khẩu hiệu kết thúc video (Outro)**: Đặt ở cuối video:
-  > *"Sự thịnh vượng không đến từ những bước nhảy vọt mơ hồ, mà tích lũy từ những thói quen nhỏ hàng ngày. Hãy chọn ra 1 thói quen bạn có thể làm ngay hôm nay. Until next time, keep learning, keep growing, and keep it simple."*
+  > *"Sự thịnh vượng không đến từ những bước nhảy vọt mơ hồ, mà tích lũy từ những thói quen nhỏ hàng ngày. Hãy chọn ra 1 thói quen bạn có thể làm ngay hôm nay. Hãy tiếp tục học hỏi, tiếp tục phát triển, và luôn giữ mọi thứ thật đơn giản."*
+
+* **Quy tắc về Văn phong & Ngôn từ (Language & Slang Policy)**:
+  * Văn phong chủ đạo: **Sâu sắc, đĩnh đạc, hiện đại, tự nhiên và tôn trọng thính giác người nghe**.
+  * **Sử dụng từ ngữ thông dụng**: Các thuật ngữ quốc tế phổ biến đã đi sâu vào đời sống hàng ngày (như `stress`, `logic`, `mindset`, `dopamine`...) hoàn toàn có thể sử dụng tự nhiên, không cần khiên cưỡng thuần Việt hóa.
+  * **Tránh "nửa nạc nửa mỡ"**: Tuyệt đối không chêm các cụm từ tiếng Anh nguyên câu hoặc thuật ngữ dài dòng làm đứt gãy mạch cảm xúc của giọng đọc (như chêm nguyên cụm *"The Scarcity Mindset"*, *"Baseline Living Number"*, *"Until next time..."*).
+  * **Quy tắc về từ lóng / Trend mạng**: Duy trì văn phong đĩnh đạc, chuẩn mực khoa học của kênh; chỉ đưa thêm từ lóng (slang)/trend mạng khi người dùng chủ động liệt kê danh sách từ vựng mong muốn trước bước tạo kịch bản.
 * **Nhạc nền (Smart Mood BGM)**:
   * Nửa đầu video (Phân tích nỗi đau / Áp lực): Nhạc trầm tư, chiêm nghiệm (`deep_contemplative`).
   * Nửa sau video (Giải pháp / Tự động hóa / Hy vọng): Nhạc bừng sáng, tích cực (`hopeful_awakening`), crossfade mượt mà 120 frames tại phân cảnh chuyển tiếp.

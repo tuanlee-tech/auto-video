@@ -24,6 +24,7 @@ Kích hoạt skill này khi:
 Kênh theo đuổi định dạng **Video Dài Chuyên Sâu (Longform Documentary / Essay)** với các quy chuẩn bắt buộc:
 * **Thời lượng mục tiêu**: **> 15 phút, trung bình ~20 phút, tối đa 30–35 phút** tùy thuộc vào chủ đề.
 * **Nguyên tắc "Sâu sắc, Tinh gọn, Không Lan Man"**: Video dài vì hàm lượng khoa học và thực chiến cao, tuyệt đối không chèn từ ngữ thừa thãi hay câu giờ để đạt số phút. Mọi phân tích phải đi thẳng vào cơ chế thần kinh học (Dopamine, Prefrontal Cortex), mô hình hành vi và quy trình thực hiện.
+* **Ngôn ngữ Hiện Đại & Văn Phong Tự Nhiên**: Kịch bản ưu tiên tiếng Việt tự nhiên, mạch lạc, đĩnh đạc. Các thuật ngữ quốc tế phổ thông (như `mindset`, `stress`, `logic`, `dopamine`) hoàn toàn được phép sử dụng linh hoạt. Tránh chèn các cụm từ tiếng Anh nguyên văn hoặc tên gọi rườm rà gây ngắc ngứ ngữ âm ("nửa nạc nửa mỡ"). Tuyệt đối không tự ý đổi văn phong hay chèn thêm từ lóng (slang)/trend mạng trừ khi người dùng chủ động liệt kê danh sách từ vựng trước bước tạo kịch bản.
 * **Quy mô kịch bản**:
   - Video ~20 phút: ~3.000 – 3.500 từ tiếng Việt (tốc độ đọc VieNeu-TTS ~150-160 từ/phút).
   - Video ~30 phút: ~4.500 – 5.000 từ tiếng Việt.

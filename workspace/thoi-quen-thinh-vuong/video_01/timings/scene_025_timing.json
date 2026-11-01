@@ -1,107 +1,117 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 25,
-  "abs_start_ms": 130420,
-  "abs_end_ms": 134880,
-  "duration_ms": 4460,
-  "word_count": 19,
+  "abs_start_ms": 133280,
+  "abs_end_ms": 137920,
+  "duration_ms": 4640,
+  "word_count": 21,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "bộ",
+      "word": "Lúc",
       "start_ms": 0,
-      "end_ms": 220
+      "end_ms": 180
     },
     {
-      "word": "não",
-      "start_ms": 660,
-      "end_ms": 940
+      "word": "này,",
+      "start_ms": 180,
+      "end_ms": 280
+    },
+    {
+      "word": "toàn",
+      "start_ms": 280,
+      "end_ms": 600
+    },
+    {
+      "word": "bộ",
+      "start_ms": 600,
+      "end_ms": 800
+    },
+    {
+      "word": "sự",
+      "start_ms": 800,
+      "end_ms": 1000
+    },
+    {
+      "word": "chú",
+      "start_ms": 1000,
+      "end_ms": 1200
+    },
+    {
+      "word": "ý",
+      "start_ms": 1740,
+      "end_ms": 1840
     },
     {
       "word": "của",
-      "start_ms": 940,
-      "end_ms": 1060
+      "start_ms": 1840,
+      "end_ms": 2040
     },
     {
-      "word": "họ",
-      "start_ms": 1060,
-      "end_ms": 1260
+      "word": "não",
+      "start_ms": 2420,
+      "end_ms": 2580
     },
     {
-      "word": "sẽ",
-      "start_ms": 1260,
-      "end_ms": 1360
-    },
-    {
-      "word": "tự",
-      "start_ms": 1360,
-      "end_ms": 1620
-    },
-    {
-      "word": "động",
-      "start_ms": 1620,
-      "end_ms": 1780
-    },
-    {
-      "word": "chuyển",
-      "start_ms": 1780,
-      "end_ms": 2020
-    },
-    {
-      "word": "sang",
-      "start_ms": 2020,
-      "end_ms": 2200
-    },
-    {
-      "word": "chế",
-      "start_ms": 2200,
-      "end_ms": 2520
-    },
-    {
-      "word": "độ",
-      "start_ms": 2520,
-      "end_ms": 2600
-    },
-    {
-      "word": "\"băng",
-      "start_ms": 2600,
-      "end_ms": 2800
-    },
-    {
-      "word": "thông",
-      "start_ms": 2800,
-      "end_ms": 2960
-    },
-    {
-      "word": "nhận",
-      "start_ms": 2960,
-      "end_ms": 3200
-    },
-    {
-      "word": "thức",
-      "start_ms": 3200,
-      "end_ms": 3620
+      "word": "bộ",
+      "start_ms": 2580,
+      "end_ms": 2700
     },
     {
       "word": "bị",
-      "start_ms": 3620,
-      "end_ms": 3800
+      "start_ms": 2700,
+      "end_ms": 2860
     },
     {
-      "word": "thu",
-      "start_ms": 3800,
-      "end_ms": 4000
+      "word": "hút",
+      "start_ms": 2860,
+      "end_ms": 3060
     },
     {
-      "word": "hẹp\"",
-      "start_ms": 4000,
+      "word": "chặt",
+      "start_ms": 3060,
+      "end_ms": 3200
+    },
+    {
+      "word": "vào",
+      "start_ms": 3200,
+      "end_ms": 3340
+    },
+    {
+      "word": "nỗi",
+      "start_ms": 3340,
+      "end_ms": 3500
+    },
+    {
+      "word": "sợ",
+      "start_ms": 3500,
+      "end_ms": 3660
+    },
+    {
+      "word": "hãi",
+      "start_ms": 3660,
+      "end_ms": 3900
+    },
+    {
+      "word": "thiếu",
+      "start_ms": 3900,
+      "end_ms": 4060
+    },
+    {
+      "word": "tiền",
+      "start_ms": 4060,
       "end_ms": 4240
     },
     {
-      "word": "(Tunneling).",
+      "word": "trước",
       "start_ms": 4240,
       "end_ms": 4460
+    },
+    {
+      "word": "mắt.",
+      "start_ms": 4460,
+      "end_ms": 4640
     }
   ],
   "aligned_with_script": true

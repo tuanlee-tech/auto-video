@@ -1,97 +1,82 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 34,
-  "abs_start_ms": 173040,
-  "abs_end_ms": 176200,
-  "duration_ms": 3160,
-  "word_count": 17,
+  "abs_start_ms": 178740,
+  "abs_end_ms": 181960,
+  "duration_ms": 3220,
+  "word_count": 14,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "bạn",
+      "word": "Tổ",
       "start_ms": 0,
-      "end_ms": 140
+      "end_ms": 280
     },
     {
-      "word": "lại",
-      "start_ms": 140,
-      "end_ms": 240
+      "word": "tiên",
+      "start_ms": 280,
+      "end_ms": 480
     },
     {
-      "word": "bùng",
-      "start_ms": 240,
-      "end_ms": 460
+      "word": "thời",
+      "start_ms": 480,
+      "end_ms": 640
     },
     {
-      "word": "nổ",
-      "start_ms": 460,
-      "end_ms": 580
+      "word": "nguyên",
+      "start_ms": 640,
+      "end_ms": 840
     },
     {
-      "word": "trong",
-      "start_ms": 580,
-      "end_ms": 780
+      "word": "thủy",
+      "start_ms": 840,
+      "end_ms": 1040
     },
     {
-      "word": "những",
-      "start_ms": 780,
-      "end_ms": 940
+      "word": "của",
+      "start_ms": 1040,
+      "end_ms": 1200
     },
     {
-      "word": "cơn",
-      "start_ms": 940,
-      "end_ms": 1080
+      "word": "chúng",
+      "start_ms": 1200,
+      "end_ms": 1440
     },
     {
-      "word": "mua",
-      "start_ms": 1080,
-      "end_ms": 1380
-    },
-    {
-      "word": "sắm",
-      "start_ms": 1380,
-      "end_ms": 1620
-    },
-    {
-      "word": "trả",
-      "start_ms": 1620,
-      "end_ms": 1740
-    },
-    {
-      "word": "đũa",
-      "start_ms": 1740,
-      "end_ms": 1900
-    },
-    {
-      "word": "(Revenge",
-      "start_ms": 1900,
-      "end_ms": 2140
-    },
-    {
-      "word": "Spending)",
-      "start_ms": 2140,
-      "end_ms": 2260
+      "word": "ta",
+      "start_ms": 1440,
+      "end_ms": 2200
     },
     {
       "word": "không",
-      "start_ms": 2260,
+      "start_ms": 2200,
+      "end_ms": 2380
+    },
+    {
+      "word": "có",
+      "start_ms": 2380,
       "end_ms": 2560
     },
     {
-      "word": "thể",
+      "word": "tài",
       "start_ms": 2560,
-      "end_ms": 2760
+      "end_ms": 2720
     },
     {
-      "word": "cưỡng",
-      "start_ms": 2760,
-      "end_ms": 2980
+      "word": "khoản",
+      "start_ms": 2720,
+      "end_ms": 2960
     },
     {
-      "word": "lại.",
-      "start_ms": 2980,
-      "end_ms": 3160
+      "word": "ngân",
+      "start_ms": 2960,
+      "end_ms": 3080
+    },
+    {
+      "word": "hàng.",
+      "start_ms": 3080,
+      "end_ms": 3220
     }
   ],
   "aligned_with_script": true

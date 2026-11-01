@@ -1,107 +1,147 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 155,
-  "abs_start_ms": 823440,
-  "abs_end_ms": 828240,
-  "duration_ms": 4800,
-  "word_count": 19,
+  "abs_start_ms": 811700,
+  "abs_end_ms": 818580,
+  "duration_ms": 6880,
+  "word_count": 27,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Điều",
+      "word": "Bây",
       "start_ms": 0,
       "end_ms": 240
     },
     {
-      "word": "thứ",
-      "start_ms": 240,
-      "end_ms": 460
+      "word": "giờ,",
+      "start_ms": 1080,
+      "end_ms": 1440
     },
     {
-      "word": "năm:",
-      "start_ms": 1100,
-      "end_ms": 1200
+      "word": "chúng",
+      "start_ms": 1440,
+      "end_ms": 1680
     },
     {
-      "word": "Thiết",
-      "start_ms": 1200,
-      "end_ms": 1320
-    },
-    {
-      "word": "lập",
-      "start_ms": 1320,
-      "end_ms": 1500
-    },
-    {
-      "word": "Cỗ",
-      "start_ms": 1500,
-      "end_ms": 1660
-    },
-    {
-      "word": "máy",
-      "start_ms": 1660,
+      "word": "ta",
+      "start_ms": 1680,
       "end_ms": 1860
     },
     {
-      "word": "Dòng",
-      "start_ms": 1860,
-      "end_ms": 2120
+      "word": "sẽ",
+      "start_ms": 2260,
+      "end_ms": 2340
     },
     {
-      "word": "tiền",
-      "start_ms": 2120,
-      "end_ms": 2280
+      "word": "ráp",
+      "start_ms": 2340,
+      "end_ms": 2500
     },
     {
-      "word": "Tự",
-      "start_ms": 2280,
-      "end_ms": 2520
+      "word": "nối",
+      "start_ms": 2500,
+      "end_ms": 2680
     },
     {
-      "word": "động",
-      "start_ms": 2520,
-      "end_ms": 2760
-    },
-    {
-      "word": "(Autopilot",
-      "start_ms": 2760,
+      "word": "toàn",
+      "start_ms": 2680,
       "end_ms": 2920
     },
     {
-      "word": "Engine)",
+      "word": "bộ",
       "start_ms": 2920,
-      "end_ms": 3300
+      "end_ms": 3080
     },
     {
-      "word": "và",
-      "start_ms": 3300,
-      "end_ms": 3560
+      "word": "các",
+      "start_ms": 3080,
+      "end_ms": 3400
     },
     {
-      "word": "quy",
-      "start_ms": 3560,
-      "end_ms": 3680
+      "word": "nguyên",
+      "start_ms": 3400,
+      "end_ms": 3580
     },
     {
       "word": "tắc",
-      "start_ms": 3680,
-      "end_ms": 3860
+      "start_ms": 3580,
+      "end_ms": 3760
     },
     {
-      "word": "phản",
-      "start_ms": 3860,
-      "end_ms": 4000
+      "word": "trên",
+      "start_ms": 3760,
+      "end_ms": 3940
     },
     {
-      "word": "xạ",
-      "start_ms": 4000,
-      "end_ms": 4240
+      "word": "thành",
+      "start_ms": 3940,
+      "end_ms": 4220
     },
     {
-      "word": "\"If-Then\".",
-      "start_ms": 4240,
-      "end_ms": 4800
+      "word": "một",
+      "start_ms": 4220,
+      "end_ms": 4440
+    },
+    {
+      "word": "cỗ",
+      "start_ms": 4440,
+      "end_ms": 4580
+    },
+    {
+      "word": "máy",
+      "start_ms": 4580,
+      "end_ms": 4740
+    },
+    {
+      "word": "kỹ",
+      "start_ms": 4740,
+      "end_ms": 4940
+    },
+    {
+      "word": "thuật",
+      "start_ms": 4940,
+      "end_ms": 5200
+    },
+    {
+      "word": "hoàn",
+      "start_ms": 5200,
+      "end_ms": 5340
+    },
+    {
+      "word": "chỉnh",
+      "start_ms": 5340,
+      "end_ms": 5500
+    },
+    {
+      "word": "tự",
+      "start_ms": 5500,
+      "end_ms": 5700
+    },
+    {
+      "word": "vận",
+      "start_ms": 5700,
+      "end_ms": 5960
+    },
+    {
+      "word": "hành",
+      "start_ms": 5960,
+      "end_ms": 6140
+    },
+    {
+      "word": "trong",
+      "start_ms": 6140,
+      "end_ms": 6340
+    },
+    {
+      "word": "thực",
+      "start_ms": 6340,
+      "end_ms": 6520
+    },
+    {
+      "word": "tế.",
+      "start_ms": 6520,
+      "end_ms": 6880
     }
   ],
   "aligned_with_script": true

@@ -1,162 +1,67 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 129,
-  "abs_start_ms": 690260,
-  "abs_end_ms": 697760,
-  "duration_ms": 7500,
-  "word_count": 30,
+  "abs_start_ms": 685520,
+  "abs_end_ms": 688400,
+  "duration_ms": 2880,
+  "word_count": 11,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Để",
+      "word": "Chiếc",
       "start_ms": 0,
       "end_ms": 160
     },
     {
-      "word": "chấm",
+      "word": "hộp",
       "start_ms": 160,
-      "end_ms": 420
+      "end_ms": 380
     },
     {
-      "word": "dứt",
-      "start_ms": 820,
-      "end_ms": 980
+      "word": "thứ",
+      "start_ms": 380,
+      "end_ms": 540
     },
     {
-      "word": "vĩnh",
-      "start_ms": 980,
-      "end_ms": 1100
+      "word": "nhất",
+      "start_ms": 540,
+      "end_ms": 740
     },
     {
-      "word": "viễn",
-      "start_ms": 1100,
-      "end_ms": 1300
+      "word": "mang",
+      "start_ms": 1340,
+      "end_ms": 1420
     },
     {
-      "word": "vòng",
-      "start_ms": 1300,
-      "end_ms": 1520
+      "word": "tên:",
+      "start_ms": 1400,
+      "end_ms": 1560
     },
     {
-      "word": "luẩn",
-      "start_ms": 1520,
-      "end_ms": 1760
+      "word": "Hộp",
+      "start_ms": 1560,
+      "end_ms": 1640
     },
     {
-      "word": "quẩn",
-      "start_ms": 2200,
+      "word": "tích",
+      "start_ms": 1640,
+      "end_ms": 1820
+    },
+    {
+      "word": "lũy",
+      "start_ms": 1820,
+      "end_ms": 2020
+    },
+    {
+      "word": "vô",
+      "start_ms": 2020,
       "end_ms": 2300
     },
     {
-      "word": "này,",
-      "start_ms": 2300,
-      "end_ms": 2420
-    },
-    {
-      "word": "bạn",
-      "start_ms": 2420,
-      "end_ms": 2700
-    },
-    {
-      "word": "cần",
-      "start_ms": 2700,
+      "word": "hình.",
+      "start_ms": 2740,
       "end_ms": 2880
-    },
-    {
-      "word": "phải",
-      "start_ms": 2880,
-      "end_ms": 3020
-    },
-    {
-      "word": "tách",
-      "start_ms": 3020,
-      "end_ms": 3180
-    },
-    {
-      "word": "bạch",
-      "start_ms": 3180,
-      "end_ms": 3420
-    },
-    {
-      "word": "rạch",
-      "start_ms": 3420,
-      "end_ms": 3600
-    },
-    {
-      "word": "ròi",
-      "start_ms": 3600,
-      "end_ms": 3860
-    },
-    {
-      "word": "cuộc",
-      "start_ms": 3860,
-      "end_ms": 4360
-    },
-    {
-      "word": "sống",
-      "start_ms": 4360,
-      "end_ms": 4580
-    },
-    {
-      "word": "tài",
-      "start_ms": 4580,
-      "end_ms": 4720
-    },
-    {
-      "word": "chính",
-      "start_ms": 4720,
-      "end_ms": 5060
-    },
-    {
-      "word": "của",
-      "start_ms": 5060,
-      "end_ms": 5220
-    },
-    {
-      "word": "mình",
-      "start_ms": 5220,
-      "end_ms": 5360
-    },
-    {
-      "word": "thành",
-      "start_ms": 5360,
-      "end_ms": 5660
-    },
-    {
-      "word": "hai",
-      "start_ms": 5660,
-      "end_ms": 5760
-    },
-    {
-      "word": "chiếc",
-      "start_ms": 5760,
-      "end_ms": 6000
-    },
-    {
-      "word": "hộp",
-      "start_ms": 6000,
-      "end_ms": 6260
-    },
-    {
-      "word": "hoàn",
-      "start_ms": 6260,
-      "end_ms": 6480
-    },
-    {
-      "word": "toàn",
-      "start_ms": 6480,
-      "end_ms": 6700
-    },
-    {
-      "word": "độc",
-      "start_ms": 6700,
-      "end_ms": 7000
-    },
-    {
-      "word": "lập.",
-      "start_ms": 7000,
-      "end_ms": 7500
     }
   ],
   "aligned_with_script": true

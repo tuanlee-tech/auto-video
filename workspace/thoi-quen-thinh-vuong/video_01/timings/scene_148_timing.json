@@ -1,122 +1,102 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 148,
-  "abs_start_ms": 789080,
-  "abs_end_ms": 793540,
-  "duration_ms": 4460,
-  "word_count": 22,
+  "abs_start_ms": 778680,
+  "abs_end_ms": 783040,
+  "duration_ms": 4360,
+  "word_count": 18,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Hãy",
+      "word": "Ông",
       "start_ms": 0,
-      "end_ms": 160
+      "end_ms": 200
     },
     {
-      "word": "nhớ",
-      "start_ms": 160,
-      "end_ms": 320
+      "word": "không",
+      "start_ms": 200,
+      "end_ms": 300
     },
     {
-      "word": "câu",
-      "start_ms": 320,
-      "end_ms": 460
+      "word": "có",
+      "start_ms": 300,
+      "end_ms": 480
     },
     {
-      "word": "chuyện",
-      "start_ms": 460,
-      "end_ms": 740
+      "word": "bằng",
+      "start_ms": 480,
+      "end_ms": 1160
     },
     {
-      "word": "về",
-      "start_ms": 740,
-      "end_ms": 900
+      "word": "đại",
+      "start_ms": 1160,
+      "end_ms": 1260
     },
     {
-      "word": "Ronald",
-      "start_ms": 900,
-      "end_ms": 1100
+      "word": "học,không",
+      "start_ms": 1260,
+      "end_ms": 1440
     },
     {
-      "word": "Read",
-      "start_ms": 1100,
-      "end_ms": 1240
+      "word": "có",
+      "start_ms": 1440,
+      "end_ms": 1600
     },
     {
-      "word": "—",
-      "start_ms": 1240,
-      "end_ms": 1380
+      "word": "thu",
+      "start_ms": 1600,
+      "end_ms": 1740
     },
     {
-      "word": "một",
-      "start_ms": 1380,
-      "end_ms": 1520
+      "word": "nhập",
+      "start_ms": 1740,
+      "end_ms": 1860
     },
     {
-      "word": "người",
-      "start_ms": 1520,
-      "end_ms": 1720
+      "word": "cao,nhưng",
+      "start_ms": 2220,
+      "end_ms": 2320
     },
     {
-      "word": "dọn",
-      "start_ms": 1720,
-      "end_ms": 2420
+      "word": "khi",
+      "start_ms": 2320,
+      "end_ms": 2540
     },
     {
-      "word": "dẹp",
-      "start_ms": 2420,
-      "end_ms": 2560
+      "word": "qua",
+      "start_ms": 2540,
+      "end_ms": 2760
     },
     {
-      "word": "vệ",
-      "start_ms": 2560,
-      "end_ms": 2720
+      "word": "đời",
+      "start_ms": 2760,
+      "end_ms": 2960
     },
     {
-      "word": "sinh",
-      "start_ms": 2720,
-      "end_ms": 2880
+      "word": "ở",
+      "start_ms": 2960,
+      "end_ms": 3280
     },
     {
-      "word": "bình",
-      "start_ms": 2880,
-      "end_ms": 3040
+      "word": "tuổi",
+      "start_ms": 3580,
+      "end_ms": 3760
     },
     {
-      "word": "dị",
-      "start_ms": 3040,
-      "end_ms": 3220
+      "word": "chín",
+      "start_ms": 3760,
+      "end_ms": 3940
     },
     {
-      "word": "tại",
-      "start_ms": 3220,
-      "end_ms": 3340
+      "word": "mươi",
+      "start_ms": 3940,
+      "end_ms": 4120
     },
     {
-      "word": "vùng",
-      "start_ms": 3340,
-      "end_ms": 3440
-    },
-    {
-      "word": "nông",
-      "start_ms": 3440,
-      "end_ms": 3980
-    },
-    {
-      "word": "thôn",
-      "start_ms": 3980,
-      "end_ms": 4100
-    },
-    {
-      "word": "nước",
-      "start_ms": 4100,
-      "end_ms": 4300
-    },
-    {
-      "word": "Mỹ.",
-      "start_ms": 4300,
-      "end_ms": 4460
+      "word": "hai",
+      "start_ms": 4120,
+      "end_ms": 4360
     }
   ],
   "aligned_with_script": true

@@ -1,32 +1,67 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 150,
-  "abs_start_ms": 802340,
-  "abs_end_ms": 803020,
-  "duration_ms": 680,
-  "word_count": 4,
+  "abs_start_ms": 788540,
+  "abs_end_ms": 790740,
+  "duration_ms": 2200,
+  "word_count": 11,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "thư",
+      "word": "Bí",
       "start_ms": 0,
-      "end_ms": 120
+      "end_ms": 200
     },
     {
-      "word": "viện",
-      "start_ms": 120,
-      "end_ms": 260
+      "word": "quyết",
+      "start_ms": 200,
+      "end_ms": 320
     },
     {
-      "word": "địa",
-      "start_ms": 260,
-      "end_ms": 440
+      "word": "duy",
+      "start_ms": 320,
+      "end_ms": 580
     },
     {
-      "word": "phương.",
-      "start_ms": 440,
-      "end_ms": 680
+      "word": "nhất",
+      "start_ms": 1160,
+      "end_ms": 1260
+    },
+    {
+      "word": "của",
+      "start_ms": 1260,
+      "end_ms": 1400
+    },
+    {
+      "word": "người",
+      "start_ms": 1400,
+      "end_ms": 1480
+    },
+    {
+      "word": "đàn",
+      "start_ms": 1480,
+      "end_ms": 1680
+    },
+    {
+      "word": "ông",
+      "start_ms": 1680,
+      "end_ms": 1800
+    },
+    {
+      "word": "này",
+      "start_ms": 1800,
+      "end_ms": 1920
+    },
+    {
+      "word": "là",
+      "start_ms": 1920,
+      "end_ms": 2020
+    },
+    {
+      "word": "gì?",
+      "start_ms": 2020,
+      "end_ms": 2200
     }
   ],
   "aligned_with_script": true

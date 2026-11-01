@@ -1,162 +1,127 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 23,
-  "abs_start_ms": 116980,
-  "abs_end_ms": 124340,
-  "duration_ms": 7360,
-  "word_count": 30,
+  "abs_start_ms": 123900,
+  "abs_end_ms": 129680,
+  "duration_ms": 5780,
+  "word_count": 23,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Eldar",
+      "word": "Họ",
       "start_ms": 0,
-      "end_ms": 360
+      "end_ms": 300
     },
     {
-      "word": "Shafir",
-      "start_ms": 360,
+      "word": "phát",
+      "start_ms": 300,
       "end_ms": 440
     },
     {
-      "word": "của",
+      "word": "hiện",
       "start_ms": 440,
-      "end_ms": 560
+      "end_ms": 680
     },
     {
-      "word": "Đại",
-      "start_ms": 560,
-      "end_ms": 720
+      "word": "ra",
+      "start_ms": 680,
+      "end_ms": 960
     },
     {
-      "word": "học",
-      "start_ms": 720,
-      "end_ms": 1120
-    },
-    {
-      "word": "Princeton",
-      "start_ms": 1120,
-      "end_ms": 1540
-    },
-    {
-      "word": "đã",
-      "start_ms": 1540,
-      "end_ms": 1880
-    },
-    {
-      "word": "tiến",
-      "start_ms": 1880,
-      "end_ms": 2260
-    },
-    {
-      "word": "hành",
-      "start_ms": 2260,
-      "end_ms": 2480
+      "word": "rằng:Khi",
+      "start_ms": 1380,
+      "end_ms": 1600
     },
     {
       "word": "một",
-      "start_ms": 2480,
-      "end_ms": 2600
+      "start_ms": 1600,
+      "end_ms": 1740
     },
     {
-      "word": "công",
-      "start_ms": 2600,
-      "end_ms": 2720
+      "word": "người",
+      "start_ms": 1740,
+      "end_ms": 1900
     },
     {
-      "word": "trình",
-      "start_ms": 2720,
-      "end_ms": 3100
+      "word": "liên",
+      "start_ms": 1900,
+      "end_ms": 2040
     },
     {
-      "word": "nghiên",
-      "start_ms": 3100,
-      "end_ms": 3740
+      "word": "tục",
+      "start_ms": 2040,
+      "end_ms": 2280
     },
     {
-      "word": "cứu",
-      "start_ms": 3740,
-      "end_ms": 3940
+      "word": "rơi",
+      "start_ms": 2280,
+      "end_ms": 2840
     },
     {
-      "word": "đột",
-      "start_ms": 3940,
-      "end_ms": 4080
+      "word": "vào",
+      "start_ms": 2840,
+      "end_ms": 2980
     },
     {
-      "word": "phá",
-      "start_ms": 4080,
-      "end_ms": 4220
+      "word": "trạng",
+      "start_ms": 2980,
+      "end_ms": 3200
     },
     {
-      "word": "về",
-      "start_ms": 4220,
-      "end_ms": 4360
+      "word": "thái",
+      "start_ms": 3200,
+      "end_ms": 3400
     },
     {
-      "word": "hiện",
-      "start_ms": 4360,
+      "word": "thiếu",
+      "start_ms": 3400,
+      "end_ms": 3660
+    },
+    {
+      "word": "thốn,dù",
+      "start_ms": 3660,
+      "end_ms": 3900
+    },
+    {
+      "word": "là",
+      "start_ms": 3900,
+      "end_ms": 4040
+    },
+    {
+      "word": "thiếu",
+      "start_ms": 4040,
+      "end_ms": 4280
+    },
+    {
+      "word": "thời",
+      "start_ms": 4280,
+      "end_ms": 4380
+    },
+    {
+      "word": "gian",
+      "start_ms": 4380,
       "end_ms": 4600
     },
     {
-      "word": "tượng",
+      "word": "hay",
       "start_ms": 4600,
-      "end_ms": 4760
+      "end_ms": 4800
     },
     {
-      "word": "mang",
-      "start_ms": 4760,
-      "end_ms": 5080
+      "word": "thiếu",
+      "start_ms": 4800,
+      "end_ms": 5400
     },
     {
-      "word": "tên:Tâm",
-      "start_ms": 5080,
-      "end_ms": 5280
+      "word": "tiền",
+      "start_ms": 5400,
+      "end_ms": 5540
     },
     {
-      "word": "lý",
-      "start_ms": 5280,
-      "end_ms": 5560
-    },
-    {
-      "word": "học",
-      "start_ms": 5560,
-      "end_ms": 5720
-    },
-    {
-      "word": "của",
-      "start_ms": 5720,
-      "end_ms": 5860
-    },
-    {
-      "word": "sự",
-      "start_ms": 5860,
-      "end_ms": 6040
-    },
-    {
-      "word": "khan",
-      "start_ms": 6040,
-      "end_ms": 6160
-    },
-    {
-      "word": "hiếm",
-      "start_ms": 6160,
-      "end_ms": 6400
-    },
-    {
-      "word": "(The",
-      "start_ms": 6800,
-      "end_ms": 7100
-    },
-    {
-      "word": "Scarcity",
-      "start_ms": 7100,
-      "end_ms": 7220
-    },
-    {
-      "word": "Mindset).",
-      "start_ms": 7220,
-      "end_ms": 7360
+      "word": "bạc",
+      "start_ms": 5540,
+      "end_ms": 5780
     }
   ],
   "aligned_with_script": true

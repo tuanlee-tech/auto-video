@@ -1,107 +1,117 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 178,
-  "abs_start_ms": 938680,
-  "abs_end_ms": 942420,
-  "duration_ms": 3740,
-  "word_count": 19,
+  "abs_start_ms": 928840,
+  "abs_end_ms": 934160,
+  "duration_ms": 5320,
+  "word_count": 21,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Và",
+      "word": "thì",
       "start_ms": 0,
-      "end_ms": 180
-    },
-    {
-      "word": "Quy",
-      "start_ms": 180,
-      "end_ms": 280
-    },
-    {
-      "word": "tắc",
-      "start_ms": 280,
-      "end_ms": 440
-    },
-    {
-      "word": "ba:NẾU",
-      "start_ms": 440,
-      "end_ms": 580
+      "end_ms": 220
     },
     {
       "word": "tôi",
-      "start_ms": 580,
-      "end_ms": 740
+      "start_ms": 220,
+      "end_ms": 400
     },
     {
-      "word": "nhìn",
-      "start_ms": 740,
-      "end_ms": 940
+      "word": "sẽ",
+      "start_ms": 400,
+      "end_ms": 540
     },
     {
-      "word": "thấy",
-      "start_ms": 940,
-      "end_ms": 1080
+      "word": "tự",
+      "start_ms": 540,
+      "end_ms": 700
     },
     {
-      "word": "một",
-      "start_ms": 1080,
-      "end_ms": 1340
+      "word": "động",
+      "start_ms": 700,
+      "end_ms": 980
     },
     {
-      "word": "món",
-      "start_ms": 1340,
-      "end_ms": 1480
+      "word": "kích",
+      "start_ms": 980,
+      "end_ms": 1280
     },
     {
-      "word": "đồ",
-      "start_ms": 1480,
+      "word": "hoạt",
+      "start_ms": 1280,
       "end_ms": 1700
     },
     {
-      "word": "giảm",
+      "word": "khoảng",
       "start_ms": 1700,
       "end_ms": 1920
     },
     {
-      "word": "giá",
+      "word": "dừng",
       "start_ms": 1920,
-      "end_ms": 2060
+      "end_ms": 2340
     },
     {
-      "word": "trên",
-      "start_ms": 2060,
-      "end_ms": 2240
+      "word": "bốn",
+      "start_ms": 2340,
+      "end_ms": 2820
     },
     {
-      "word": "mạng",
-      "start_ms": 2240,
-      "end_ms": 2420
-    },
-    {
-      "word": "kích",
-      "start_ms": 2420,
-      "end_ms": 2980
-    },
-    {
-      "word": "thích",
-      "start_ms": 2980,
-      "end_ms": 3140
-    },
-    {
-      "word": "sự",
+      "word": "mươi",
       "start_ms": 3140,
-      "end_ms": 3320
+      "end_ms": 3240
     },
     {
-      "word": "thèm",
-      "start_ms": 3320,
-      "end_ms": 3560
+      "word": "tám",
+      "start_ms": 3240,
+      "end_ms": 3440
     },
     {
-      "word": "muốn",
-      "start_ms": 3560,
-      "end_ms": 3740
+      "word": "giờ",
+      "start_ms": 3440,
+      "end_ms": 3600
+    },
+    {
+      "word": "trước",
+      "start_ms": 3600,
+      "end_ms": 3720
+    },
+    {
+      "word": "khi",
+      "start_ms": 3720,
+      "end_ms": 3960
+    },
+    {
+      "word": "đưa",
+      "start_ms": 3960,
+      "end_ms": 4080
+    },
+    {
+      "word": "ra",
+      "start_ms": 4080,
+      "end_ms": 4220
+    },
+    {
+      "word": "quyết",
+      "start_ms": 4220,
+      "end_ms": 4420
+    },
+    {
+      "word": "định",
+      "start_ms": 4420,
+      "end_ms": 5040
+    },
+    {
+      "word": "cuối",
+      "start_ms": 5040,
+      "end_ms": 5160
+    },
+    {
+      "word": "cùng.",
+      "start_ms": 5160,
+      "end_ms": 5320
     }
   ],
   "aligned_with_script": true

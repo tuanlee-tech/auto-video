@@ -1,77 +1,107 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 167,
-  "abs_start_ms": 881980,
-  "abs_end_ms": 884920,
-  "duration_ms": 2940,
-  "word_count": 13,
+  "abs_start_ms": 870260,
+  "abs_end_ms": 874900,
+  "duration_ms": 4640,
+  "word_count": 19,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Bước",
+      "word": "Đăng",
       "start_ms": 0,
-      "end_ms": 120
+      "end_ms": 180
     },
     {
-      "word": "3:",
-      "start_ms": 120,
-      "end_ms": 360
+      "word": "ký",
+      "start_ms": 180,
+      "end_ms": 400
     },
     {
-      "word": "Tự",
-      "start_ms": 360,
-      "end_ms": 580
+      "word": "trích",
+      "start_ms": 400,
+      "end_ms": 560
+    },
+    {
+      "word": "nợ",
+      "start_ms": 560,
+      "end_ms": 760
+    },
+    {
+      "word": "tự",
+      "start_ms": 760,
+      "end_ms": 920
     },
     {
       "word": "động",
-      "start_ms": 580,
-      "end_ms": 720
+      "start_ms": 920,
+      "end_ms": 1100
     },
     {
-      "word": "hóa",
-      "start_ms": 720,
-      "end_ms": 980
+      "word": "cho",
+      "start_ms": 1100,
+      "end_ms": 1320
     },
     {
-      "word": "việc",
-      "start_ms": 980,
-      "end_ms": 1120
+      "word": "toàn",
+      "start_ms": 1320,
+      "end_ms": 1480
     },
     {
-      "word": "thanh",
-      "start_ms": 1120,
-      "end_ms": 1360
-    },
-    {
-      "word": "toán",
-      "start_ms": 1360,
-      "end_ms": 1540
-    },
-    {
-      "word": "các",
-      "start_ms": 1540,
+      "word": "bộ",
+      "start_ms": 1480,
       "end_ms": 1700
     },
     {
-      "word": "hóa",
+      "word": "tiền",
       "start_ms": 1700,
-      "end_ms": 1860
+      "end_ms": 1920
     },
     {
-      "word": "đơn",
-      "start_ms": 1860,
-      "end_ms": 2000
+      "word": "điện,",
+      "start_ms": 2280,
+      "end_ms": 2360
     },
     {
-      "word": "cố",
-      "start_ms": 2000,
-      "end_ms": 2120
+      "word": "nước,",
+      "start_ms": 2700,
+      "end_ms": 2780
     },
     {
-      "word": "định.",
-      "start_ms": 2120,
-      "end_ms": 2440
+      "word": "tiền",
+      "start_ms": 2740,
+      "end_ms": 3080
+    },
+    {
+      "word": "mạng,",
+      "start_ms": 3320,
+      "end_ms": 3400
+    },
+    {
+      "word": "phí",
+      "start_ms": 3320,
+      "end_ms": 3480
+    },
+    {
+      "word": "dịch",
+      "start_ms": 3480,
+      "end_ms": 3580
+    },
+    {
+      "word": "vụ",
+      "start_ms": 3580,
+      "end_ms": 3820
+    },
+    {
+      "word": "sinh",
+      "start_ms": 3820,
+      "end_ms": 3980
+    },
+    {
+      "word": "hoạt.",
+      "start_ms": 4500,
+      "end_ms": 4640
     }
   ],
   "aligned_with_script": true

@@ -203,9 +203,12 @@ class ProjectManager:
         return beats
 
     def step_generate_voice(self, project_name: str, channel_id: Optional[str] = None) -> List[SceneBeat]:
-        beats = self.load_manifest(project_name, channel_id)
-        if not beats:
+        pdir = self.get_project_dir(project_name, channel_id)
+        script_path = os.path.join(pdir, "script.txt")
+        if os.path.exists(script_path):
             beats = self.step_parse_script(project_name, channel_id)
+        else:
+            beats = self.load_manifest(project_name, channel_id)
 
         cfg = self.load_config(project_name, channel_id)
         audio_dir = os.path.join(cfg.project_dir, "audio")

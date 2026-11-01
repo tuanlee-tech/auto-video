@@ -1,147 +1,137 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 61,
-  "abs_start_ms": 312080,
-  "abs_end_ms": 318040,
-  "duration_ms": 5960,
-  "word_count": 27,
+  "abs_start_ms": 315240,
+  "abs_end_ms": 320180,
+  "duration_ms": 4940,
+  "word_count": 25,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "não",
+      "word": "chúng",
       "start_ms": 0,
-      "end_ms": 120
+      "end_ms": 180
     },
     {
-      "word": "bộ",
-      "start_ms": 120,
+      "word": "ta",
+      "start_ms": 180,
       "end_ms": 360
     },
     {
-      "word": "của",
+      "word": "cảm",
       "start_ms": 360,
-      "end_ms": 540
+      "end_ms": 500
     },
     {
-      "word": "họ",
-      "start_ms": 540,
+      "word": "thấy",
+      "start_ms": 500,
       "end_ms": 660
     },
     {
-      "word": "kích",
+      "word": "số",
       "start_ms": 660,
-      "end_ms": 840
+      "end_ms": 860
     },
     {
-      "word": "hoạt",
-      "start_ms": 840,
-      "end_ms": 1060
+      "word": "tiền",
+      "start_ms": 860,
+      "end_ms": 1020
     },
     {
-      "word": "các",
-      "start_ms": 1060,
-      "end_ms": 1240
+      "word": "tiết",
+      "start_ms": 1020,
+      "end_ms": 1200
     },
     {
-      "word": "vùng",
-      "start_ms": 1640,
-      "end_ms": 1720
+      "word": "kiệm",
+      "start_ms": 1200,
+      "end_ms": 1360
     },
     {
-      "word": "thần",
-      "start_ms": 1700,
-      "end_ms": 1840
-    },
-    {
-      "word": "kinh",
-      "start_ms": 1840,
-      "end_ms": 2020
-    },
-    {
-      "word": "giống",
-      "start_ms": 2020,
-      "end_ms": 2220
-    },
-    {
-      "word": "hệt",
-      "start_ms": 2220,
-      "end_ms": 2440
-    },
-    {
-      "word": "như",
-      "start_ms": 2440,
-      "end_ms": 2640
-    },
-    {
-      "word": "khi",
-      "start_ms": 2640,
-      "end_ms": 2840
-    },
-    {
-      "word": "họ",
-      "start_ms": 2840,
-      "end_ms": 2960
+      "word": "đó",
+      "start_ms": 1360,
+      "end_ms": 1560
     },
     {
       "word": "đang",
-      "start_ms": 2960,
-      "end_ms": 3180
+      "start_ms": 1560,
+      "end_ms": 1720
     },
     {
-      "word": "nghĩ",
-      "start_ms": 3180,
-      "end_ms": 3600
+      "word": "được",
+      "start_ms": 1720,
+      "end_ms": 1920
     },
     {
-      "word": "về",
-      "start_ms": 3600,
-      "end_ms": 3800
+      "word": "chuyển",
+      "start_ms": 1920,
+      "end_ms": 2140
+    },
+    {
+      "word": "cho",
+      "start_ms": 2140,
+      "end_ms": 2380
     },
     {
       "word": "một",
-      "start_ms": 3800,
-      "end_ms": 4060
+      "start_ms": 2380,
+      "end_ms": 2500
     },
     {
-      "word": "người",
-      "start_ms": 4060,
-      "end_ms": 4280
-    },
-    {
-      "word": "hoàn",
-      "start_ms": 4280,
-      "end_ms": 4460
-    },
-    {
-      "word": "toàn",
-      "start_ms": 4460,
-      "end_ms": 4680
+      "word": "kẻ",
+      "start_ms": 2500,
+      "end_ms": 2820
     },
     {
       "word": "xa",
-      "start_ms": 4680,
-      "end_ms": 4820
+      "start_ms": 2820,
+      "end_ms": 3000
     },
     {
       "word": "lạ",
-      "start_ms": 4820,
-      "end_ms": 5000
+      "start_ms": 3000,
+      "end_ms": 3140
     },
     {
-      "word": "trên",
-      "start_ms": 5000,
-      "end_ms": 5180
+      "word": "nào",
+      "start_ms": 3140,
+      "end_ms": 3340
     },
     {
-      "word": "đường",
-      "start_ms": 5180,
-      "end_ms": 5400
+      "word": "đó",
+      "start_ms": 3340,
+      "end_ms": 3540
     },
     {
-      "word": "phố.",
-      "start_ms": 5400,
-      "end_ms": 5960
+      "word": "chứ",
+      "start_ms": 3540,
+      "end_ms": 3640
+    },
+    {
+      "word": "không",
+      "start_ms": 3640,
+      "end_ms": 3840
+    },
+    {
+      "word": "phải",
+      "start_ms": 3840,
+      "end_ms": 4100
+    },
+    {
+      "word": "cho",
+      "start_ms": 4500,
+      "end_ms": 4620
+    },
+    {
+      "word": "chính",
+      "start_ms": 4620,
+      "end_ms": 4760
+    },
+    {
+      "word": "mình.",
+      "start_ms": 4760,
+      "end_ms": 4940
     }
   ],
   "aligned_with_script": true

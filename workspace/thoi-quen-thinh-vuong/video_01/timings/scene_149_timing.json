@@ -1,187 +1,127 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 149,
-  "abs_start_ms": 793540,
-  "abs_end_ms": 802340,
-  "duration_ms": 8800,
-  "word_count": 35,
+  "abs_start_ms": 783040,
+  "abs_end_ms": 788540,
+  "duration_ms": 5500,
+  "word_count": 23,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Ông",
+      "word": "ông",
       "start_ms": 0,
-      "end_ms": 222
-    },
-    {
-      "word": "không",
-      "start_ms": 222,
-      "end_ms": 592
-    },
-    {
-      "word": "có",
-      "start_ms": 592,
-      "end_ms": 739
-    },
-    {
-      "word": "bằng",
-      "start_ms": 739,
-      "end_ms": 1035
-    },
-    {
-      "word": "đại",
-      "start_ms": 1035,
-      "end_ms": 1257
-    },
-    {
-      "word": "học,không",
-      "start_ms": 1257,
-      "end_ms": 1849
-    },
-    {
-      "word": "có",
-      "start_ms": 1849,
-      "end_ms": 1997
-    },
-    {
-      "word": "thu",
-      "start_ms": 1997,
-      "end_ms": 2218
-    },
-    {
-      "word": "nhập",
-      "start_ms": 2218,
-      "end_ms": 2514
-    },
-    {
-      "word": "cao,nhưng",
-      "start_ms": 2514,
-      "end_ms": 3106
-    },
-    {
-      "word": "khi",
-      "start_ms": 3106,
-      "end_ms": 3328
-    },
-    {
-      "word": "qua",
-      "start_ms": 3328,
-      "end_ms": 3550
-    },
-    {
-      "word": "đời",
-      "start_ms": 3550,
-      "end_ms": 3771
-    },
-    {
-      "word": "ở",
-      "start_ms": 3771,
-      "end_ms": 3919
-    },
-    {
-      "word": "tuổi",
-      "start_ms": 3919,
-      "end_ms": 4215
-    },
-    {
-      "word": "92,ông",
-      "start_ms": 4215,
-      "end_ms": 4585
+      "end_ms": 140
     },
     {
       "word": "đã",
-      "start_ms": 4585,
-      "end_ms": 4733
+      "start_ms": 140,
+      "end_ms": 560
     },
     {
       "word": "để",
-      "start_ms": 4733,
-      "end_ms": 4881
+      "start_ms": 560,
+      "end_ms": 1060
     },
     {
       "word": "lại",
-      "start_ms": 4881,
-      "end_ms": 5103
+      "start_ms": 1420,
+      "end_ms": 1500
     },
     {
       "word": "một",
-      "start_ms": 5103,
-      "end_ms": 5324
+      "start_ms": 1480,
+      "end_ms": 1620
     },
     {
       "word": "khối",
-      "start_ms": 5324,
-      "end_ms": 5620
+      "start_ms": 1620,
+      "end_ms": 1780
     },
     {
       "word": "tài",
-      "start_ms": 5620,
-      "end_ms": 5842
+      "start_ms": 1780,
+      "end_ms": 1960
     },
     {
       "word": "sản",
-      "start_ms": 5842,
-      "end_ms": 6064
+      "start_ms": 1960,
+      "end_ms": 2200
     },
     {
       "word": "ròng",
-      "start_ms": 6064,
-      "end_ms": 6360
+      "start_ms": 2200,
+      "end_ms": 2360
     },
     {
       "word": "trị",
-      "start_ms": 6360,
-      "end_ms": 6582
+      "start_ms": 2360,
+      "end_ms": 2620
     },
     {
       "word": "giá",
-      "start_ms": 6582,
-      "end_ms": 6803
+      "start_ms": 2620,
+      "end_ms": 2860
     },
     {
       "word": "hơn",
-      "start_ms": 6803,
-      "end_ms": 7025
+      "start_ms": 2860,
+      "end_ms": 3040
     },
     {
-      "word": "8",
-      "start_ms": 7025,
-      "end_ms": 7173
+      "word": "tám",
+      "start_ms": 3040,
+      "end_ms": 3300
     },
     {
       "word": "triệu",
-      "start_ms": 7173,
-      "end_ms": 7543
+      "start_ms": 3300,
+      "end_ms": 3480
     },
     {
       "word": "đô",
-      "start_ms": 7543,
-      "end_ms": 7691
+      "start_ms": 3480,
+      "end_ms": 3720
     },
     {
       "word": "la",
-      "start_ms": 7691,
-      "end_ms": 7839
+      "start_ms": 3720,
+      "end_ms": 4000
     },
     {
       "word": "cho",
-      "start_ms": 7839,
-      "end_ms": 8061
+      "start_ms": 4000,
+      "end_ms": 4140
     },
     {
       "word": "bệnh",
-      "start_ms": 8061,
-      "end_ms": 8356
+      "start_ms": 4140,
+      "end_ms": 4320
     },
     {
       "word": "viện",
-      "start_ms": 8356,
-      "end_ms": 8652
+      "start_ms": 4320,
+      "end_ms": 4520
     },
     {
-      "word": "và",
-      "start_ms": 8652,
-      "end_ms": 8800
+      "word": "vàthư",
+      "start_ms": 4520,
+      "end_ms": 4700
+    },
+    {
+      "word": "viện",
+      "start_ms": 4700,
+      "end_ms": 4900
+    },
+    {
+      "word": "địa",
+      "start_ms": 4900,
+      "end_ms": 5340
+    },
+    {
+      "word": "phương.",
+      "start_ms": 5340,
+      "end_ms": 5500
     }
   ],
   "aligned_with_script": true

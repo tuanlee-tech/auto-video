@@ -1,87 +1,97 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 39,
-  "abs_start_ms": 198320,
-  "abs_end_ms": 201760,
-  "duration_ms": 3440,
-  "word_count": 15,
+  "abs_start_ms": 204580,
+  "abs_end_ms": 208340,
+  "duration_ms": 3760,
+  "word_count": 17,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Và",
+      "word": "Một",
       "start_ms": 0,
-      "end_ms": 300
+      "end_ms": 220
     },
     {
-      "word": "trong",
-      "start_ms": 300,
-      "end_ms": 500
+      "word": "hệ",
+      "start_ms": 220,
+      "end_ms": 440
     },
     {
-      "word": "cuộc",
-      "start_ms": 960,
-      "end_ms": 1040
+      "word": "thống",
+      "start_ms": 440,
+      "end_ms": 720
     },
     {
-      "word": "chiến",
-      "start_ms": 1020,
-      "end_ms": 1180
+      "word": "tự",
+      "start_ms": 720,
+      "end_ms": 860
     },
     {
-      "word": "đó,",
-      "start_ms": 1180,
-      "end_ms": 1420
+      "word": "động",
+      "start_ms": 860,
+      "end_ms": 1080
     },
     {
-      "word": "ý",
-      "start_ms": 1420,
-      "end_ms": 1540
+      "word": "loại",
+      "start_ms": 1080,
+      "end_ms": 1340
     },
     {
-      "word": "chí",
-      "start_ms": 1540,
-      "end_ms": 1800
+      "word": "bỏ",
+      "start_ms": 1340,
+      "end_ms": 1980
     },
     {
-      "word": "của",
-      "start_ms": 1800,
+      "word": "con",
+      "start_ms": 1980,
       "end_ms": 2080
     },
     {
-      "word": "bạn",
+      "word": "người",
       "start_ms": 2080,
-      "end_ms": 2240
+      "end_ms": 2280
     },
     {
-      "word": "chắc",
-      "start_ms": 2240,
-      "end_ms": 2400
+      "word": "bạn",
+      "start_ms": 2280,
+      "end_ms": 2480
     },
     {
-      "word": "chắn",
-      "start_ms": 2400,
-      "end_ms": 2660
+      "word": "ra",
+      "start_ms": 2480,
+      "end_ms": 2560
     },
     {
-      "word": "là",
-      "start_ms": 2660,
-      "end_ms": 2800
+      "word": "khỏi",
+      "start_ms": 2560,
+      "end_ms": 2880
     },
     {
-      "word": "bên",
-      "start_ms": 2800,
-      "end_ms": 3000
+      "word": "các",
+      "start_ms": 2880,
+      "end_ms": 3020
     },
     {
-      "word": "thất",
-      "start_ms": 3000,
-      "end_ms": 3200
+      "word": "quyết",
+      "start_ms": 3020,
+      "end_ms": 3220
     },
     {
-      "word": "bại.",
-      "start_ms": 3200,
-      "end_ms": 3440
+      "word": "định",
+      "start_ms": 3220,
+      "end_ms": 3400
+    },
+    {
+      "word": "hàng",
+      "start_ms": 3400,
+      "end_ms": 3540
+    },
+    {
+      "word": "ngày.",
+      "start_ms": 3540,
+      "end_ms": 3760
     }
   ],
   "aligned_with_script": true

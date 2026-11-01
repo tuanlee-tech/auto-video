@@ -1,127 +1,67 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 43,
-  "abs_start_ms": 216720,
-  "abs_end_ms": 221880,
-  "duration_ms": 5160,
-  "word_count": 23,
+  "abs_start_ms": 224100,
+  "abs_end_ms": 226860,
+  "duration_ms": 2760,
+  "word_count": 11,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Điều",
+      "word": "Thu",
       "start_ms": 0,
-      "end_ms": 160
-    },
-    {
-      "word": "thứ",
-      "start_ms": 160,
       "end_ms": 320
     },
     {
-      "word": "nhất:",
-      "start_ms": 320,
-      "end_ms": 440
+      "word": "nhập,",
+      "start_ms": 640,
+      "end_ms": 720
     },
     {
-      "word": "Thay",
-      "start_ms": 440,
-      "end_ms": 620
+      "word": "trừ",
+      "start_ms": 720,
+      "end_ms": 880
     },
     {
-      "word": "đổi",
-      "start_ms": 620,
-      "end_ms": 1100
+      "word": "đi",
+      "start_ms": 880,
+      "end_ms": 1080
     },
     {
-      "word": "hoàn",
-      "start_ms": 1100,
-      "end_ms": 1280
+      "word": "Chi",
+      "start_ms": 1080,
+      "end_ms": 1220
     },
     {
-      "word": "toàn",
-      "start_ms": 1280,
-      "end_ms": 1480
+      "word": "tiêu",
+      "start_ms": 1220,
+      "end_ms": 1520
     },
     {
-      "word": "phương",
-      "start_ms": 1480,
-      "end_ms": 1680
+      "word": "hàng",
+      "start_ms": 1940,
+      "end_ms": 2020
     },
     {
-      "word": "trình",
-      "start_ms": 1680,
-      "end_ms": 1840
-    },
-    {
-      "word": "tài",
-      "start_ms": 1840,
-      "end_ms": 1980
-    },
-    {
-      "word": "chính",
-      "start_ms": 1980,
-      "end_ms": 2180
+      "word": "ngày,",
+      "start_ms": 1960,
+      "end_ms": 2200
     },
     {
       "word": "bằng",
-      "start_ms": 2180,
-      "end_ms": 2340
+      "start_ms": 2420,
+      "end_ms": 2500
     },
     {
-      "word": "nguyên",
-      "start_ms": 2340,
-      "end_ms": 2460
+      "word": "Tiết",
+      "start_ms": 2480,
+      "end_ms": 2620
     },
     {
-      "word": "tắc",
-      "start_ms": 2460,
-      "end_ms": 2680
-    },
-    {
-      "word": "\"Tự",
-      "start_ms": 2680,
-      "end_ms": 2840
-    },
-    {
-      "word": "trả",
-      "start_ms": 2840,
-      "end_ms": 3060
-    },
-    {
-      "word": "cho",
-      "start_ms": 3060,
-      "end_ms": 3260
-    },
-    {
-      "word": "bản",
-      "start_ms": 3860,
-      "end_ms": 3980
-    },
-    {
-      "word": "thân",
-      "start_ms": 3980,
-      "end_ms": 4060
-    },
-    {
-      "word": "trước\"",
-      "start_ms": 4060,
-      "end_ms": 4240
-    },
-    {
-      "word": "(Pay",
-      "start_ms": 4580,
-      "end_ms": 4700
-    },
-    {
-      "word": "Yourself",
-      "start_ms": 4700,
-      "end_ms": 4900
-    },
-    {
-      "word": "First).",
-      "start_ms": 4900,
-      "end_ms": 5160
+      "word": "kiệm.",
+      "start_ms": 2620,
+      "end_ms": 2760
     }
   ],
   "aligned_with_script": true

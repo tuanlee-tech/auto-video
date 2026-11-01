@@ -1,142 +1,112 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 50,
-  "abs_start_ms": 249600,
-  "abs_end_ms": 255080,
-  "duration_ms": 5480,
-  "word_count": 26,
+  "abs_start_ms": 258480,
+  "abs_end_ms": 262680,
+  "duration_ms": 4200,
+  "word_count": 20,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Bởi",
+      "word": "Nếu",
       "start_ms": 0,
-      "end_ms": 140
+      "end_ms": 100
     },
     {
-      "word": "vì",
-      "start_ms": 140,
-      "end_ms": 340
+      "word": "thu",
+      "start_ms": 100,
+      "end_ms": 280
     },
     {
-      "word": "dòng",
-      "start_ms": 340,
-      "end_ms": 560
-    },
-    {
-      "word": "tiền",
-      "start_ms": 560,
-      "end_ms": 780
+      "word": "nhập",
+      "start_ms": 280,
+      "end_ms": 500
     },
     {
       "word": "của",
-      "start_ms": 780,
-      "end_ms": 940
+      "start_ms": 500,
+      "end_ms": 700
     },
     {
       "word": "bạn",
-      "start_ms": 940,
-      "end_ms": 1140
+      "start_ms": 700,
+      "end_ms": 860
     },
     {
-      "word": "đang",
+      "word": "là",
+      "start_ms": 1280,
+      "end_ms": 1640
+    },
+    {
+      "word": "mười",
+      "start_ms": 1640,
+      "end_ms": 1840
+    },
+    {
+      "word": "triệu",
+      "start_ms": 1840,
+      "end_ms": 1920
+    },
+    {
+      "word": "đồng",
       "start_ms": 1860,
-      "end_ms": 2000
-    },
-    {
-      "word": "bị",
-      "start_ms": 2000,
-      "end_ms": 2140
-    },
-    {
-      "word": "chi",
-      "start_ms": 2140,
-      "end_ms": 2360
-    },
-    {
-      "word": "phối",
-      "start_ms": 2360,
-      "end_ms": 2500
-    },
-    {
-      "word": "bởi",
-      "start_ms": 2500,
-      "end_ms": 2640
+      "end_ms": 2020
     },
     {
       "word": "một",
-      "start_ms": 2640,
-      "end_ms": 2820
+      "start_ms": 2020,
+      "end_ms": 2160
     },
     {
-      "word": "quy",
-      "start_ms": 2820,
-      "end_ms": 2920
+      "word": "tháng,",
+      "start_ms": 2160,
+      "end_ms": 2360
     },
     {
-      "word": "luật",
-      "start_ms": 2920,
-      "end_ms": 3080
+      "word": "bạn",
+      "start_ms": 2360,
+      "end_ms": 2520
     },
     {
-      "word": "kinh",
-      "start_ms": 3080,
-      "end_ms": 3220
+      "word": "sẽ",
+      "start_ms": 2520,
+      "end_ms": 2700
     },
     {
-      "word": "tế",
-      "start_ms": 3220,
-      "end_ms": 3400
+      "word": "tìm",
+      "start_ms": 2700,
+      "end_ms": 2780
     },
     {
-      "word": "học",
-      "start_ms": 3400,
-      "end_ms": 3520
+      "word": "cách",
+      "start_ms": 2780,
+      "end_ms": 2960
     },
     {
-      "word": "nổi",
-      "start_ms": 3520,
-      "end_ms": 3660
+      "word": "sống",
+      "start_ms": 2960,
+      "end_ms": 3200
     },
     {
-      "word": "tiếng",
-      "start_ms": 4280,
-      "end_ms": 4380
+      "word": "hết",
+      "start_ms": 3640,
+      "end_ms": 3720
     },
     {
-      "word": "mang",
-      "start_ms": 4380,
-      "end_ms": 4500
+      "word": "mười",
+      "start_ms": 3720,
+      "end_ms": 3900
     },
     {
-      "word": "tên:",
-      "start_ms": 4500,
-      "end_ms": 4660
+      "word": "triệu",
+      "start_ms": 3900,
+      "end_ms": 4080
     },
     {
-      "word": "Định",
-      "start_ms": 4660,
-      "end_ms": 4860
-    },
-    {
-      "word": "luật",
-      "start_ms": 4860,
-      "end_ms": 5000
-    },
-    {
-      "word": "Parkinson",
-      "start_ms": 5000,
-      "end_ms": 5200
-    },
-    {
-      "word": "(Parkinson's",
-      "start_ms": 5200,
-      "end_ms": 5360
-    },
-    {
-      "word": "Law).",
-      "start_ms": 5360,
-      "end_ms": 5480
+      "word": "đồng.",
+      "start_ms": 4080,
+      "end_ms": 4200
     }
   ],
   "aligned_with_script": true

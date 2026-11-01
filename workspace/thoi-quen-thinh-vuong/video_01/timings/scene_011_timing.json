@@ -1,9 +1,9 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 11,
-  "abs_start_ms": 49660,
-  "abs_end_ms": 56540,
-  "duration_ms": 6880,
+  "abs_start_ms": 49260,
+  "abs_end_ms": 55520,
+  "duration_ms": 6260,
   "word_count": 30,
   "model": "base",
   "engine": "faster-whisper",
@@ -11,152 +11,152 @@
     {
       "word": "Nhưng",
       "start_ms": 0,
-      "end_ms": 180
+      "end_ms": 120
     },
     {
       "word": "sự",
-      "start_ms": 180,
-      "end_ms": 360
+      "start_ms": 120,
+      "end_ms": 280
     },
     {
       "word": "thật",
-      "start_ms": 940,
-      "end_ms": 1080
+      "start_ms": 280,
+      "end_ms": 480
     },
     {
       "word": "khoa",
-      "start_ms": 1080,
-      "end_ms": 1260
+      "start_ms": 1040,
+      "end_ms": 1200
     },
     {
       "word": "học",
-      "start_ms": 1260,
+      "start_ms": 1200,
       "end_ms": 1360
     },
     {
       "word": "sẽ",
       "start_ms": 1360,
-      "end_ms": 1580
+      "end_ms": 1540
     },
     {
       "word": "làm",
-      "start_ms": 1580,
-      "end_ms": 1720
+      "start_ms": 1540,
+      "end_ms": 1780
     },
     {
       "word": "bạn",
-      "start_ms": 1720,
-      "end_ms": 1960
+      "start_ms": 1780,
+      "end_ms": 1880
     },
     {
       "word": "bất",
-      "start_ms": 1960,
-      "end_ms": 2100
+      "start_ms": 1880,
+      "end_ms": 2120
     },
     {
       "word": "ngờ:",
-      "start_ms": 2100,
-      "end_ms": 2320
+      "start_ms": 2120,
+      "end_ms": 2280
     },
     {
       "word": "Thất",
-      "start_ms": 2320,
-      "end_ms": 2520
+      "start_ms": 2280,
+      "end_ms": 2460
     },
     {
       "word": "bại",
-      "start_ms": 2520,
-      "end_ms": 2820
+      "start_ms": 2460,
+      "end_ms": 2660
     },
     {
       "word": "tài",
-      "start_ms": 3200,
-      "end_ms": 3320
+      "start_ms": 2660,
+      "end_ms": 2920
     },
     {
       "word": "chính",
-      "start_ms": 3320,
-      "end_ms": 3480
+      "start_ms": 2920,
+      "end_ms": 3420
     },
     {
       "word": "của",
-      "start_ms": 3480,
-      "end_ms": 3640
+      "start_ms": 3420,
+      "end_ms": 3560
     },
     {
       "word": "bạn",
-      "start_ms": 3640,
-      "end_ms": 3820
+      "start_ms": 3560,
+      "end_ms": 3720
     },
     {
       "word": "chưa",
-      "start_ms": 3820,
-      "end_ms": 3980
+      "start_ms": 3720,
+      "end_ms": 3860
     },
     {
       "word": "bao",
-      "start_ms": 3980,
-      "end_ms": 4200
+      "start_ms": 3860,
+      "end_ms": 4020
     },
     {
       "word": "giờ",
+      "start_ms": 4020,
+      "end_ms": 4200
+    },
+    {
+      "word": "bắt",
       "start_ms": 4200,
       "end_ms": 4380
     },
     {
-      "word": "bắt",
-      "start_ms": 4380,
-      "end_ms": 4500
-    },
-    {
       "word": "nguồn",
-      "start_ms": 4500,
-      "end_ms": 4640
+      "start_ms": 4380,
+      "end_ms": 4540
     },
     {
       "word": "từ",
-      "start_ms": 4640,
-      "end_ms": 4820
+      "start_ms": 4540,
+      "end_ms": 4640
     },
     {
       "word": "việc",
-      "start_ms": 4820,
-      "end_ms": 5040
+      "start_ms": 4640,
+      "end_ms": 4880
     },
     {
       "word": "bạn",
-      "start_ms": 5040,
-      "end_ms": 5260
+      "start_ms": 4880,
+      "end_ms": 5060
     },
     {
       "word": "thiếu",
-      "start_ms": 5260,
-      "end_ms": 5500
+      "start_ms": 5060,
+      "end_ms": 5200
     },
     {
       "word": "ý",
-      "start_ms": 5880,
-      "end_ms": 6000
+      "start_ms": 5200,
+      "end_ms": 5380
     },
     {
       "word": "chí",
-      "start_ms": 6000,
-      "end_ms": 6280
+      "start_ms": 5380,
+      "end_ms": 5640
     },
     {
       "word": "hay",
-      "start_ms": 6280,
-      "end_ms": 6400
+      "start_ms": 5640,
+      "end_ms": 5820
     },
     {
       "word": "lười",
-      "start_ms": 6400,
-      "end_ms": 6680
+      "start_ms": 5820,
+      "end_ms": 6020
     },
     {
       "word": "biếng.",
-      "start_ms": 6680,
-      "end_ms": 6880
+      "start_ms": 6020,
+      "end_ms": 6260
     }
   ],
   "aligned_with_script": true
