@@ -1,0 +1,188 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 92,
+  "abs_start_ms": 483340,
+  "abs_end_ms": 490800,
+  "duration_ms": 7460,
+  "word_count": 35,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Mỗi",
+      "start_ms": 0,
+      "end_ms": 186
+    },
+    {
+      "word": "lần",
+      "start_ms": 186,
+      "end_ms": 373
+    },
+    {
+      "word": "muốn",
+      "start_ms": 373,
+      "end_ms": 622
+    },
+    {
+      "word": "mua",
+      "start_ms": 622,
+      "end_ms": 808
+    },
+    {
+      "word": "hàng,việc",
+      "start_ms": 808,
+      "end_ms": 1306
+    },
+    {
+      "word": "phải",
+      "start_ms": 1306,
+      "end_ms": 1554
+    },
+    {
+      "word": "đứng",
+      "start_ms": 1554,
+      "end_ms": 1803
+    },
+    {
+      "word": "dậy,đi",
+      "start_ms": 1803,
+      "end_ms": 2114
+    },
+    {
+      "word": "tìm",
+      "start_ms": 2114,
+      "end_ms": 2300
+    },
+    {
+      "word": "chiếc",
+      "start_ms": 2300,
+      "end_ms": 2611
+    },
+    {
+      "word": "ví,rút",
+      "start_ms": 2611,
+      "end_ms": 2922
+    },
+    {
+      "word": "thẻ",
+      "start_ms": 2922,
+      "end_ms": 3108
+    },
+    {
+      "word": "ra",
+      "start_ms": 3108,
+      "end_ms": 3233
+    },
+    {
+      "word": "vànhập",
+      "start_ms": 3233,
+      "end_ms": 3606
+    },
+    {
+      "word": "từng",
+      "start_ms": 3606,
+      "end_ms": 3854
+    },
+    {
+      "word": "con",
+      "start_ms": 3854,
+      "end_ms": 4041
+    },
+    {
+      "word": "số",
+      "start_ms": 4041,
+      "end_ms": 4165
+    },
+    {
+      "word": "bằng",
+      "start_ms": 4165,
+      "end_ms": 4414
+    },
+    {
+      "word": "tay",
+      "start_ms": 4414,
+      "end_ms": 4600
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 4600,
+      "end_ms": 4725
+    },
+    {
+      "word": "tạo",
+      "start_ms": 4725,
+      "end_ms": 4911
+    },
+    {
+      "word": "ra",
+      "start_ms": 4911,
+      "end_ms": 5036
+    },
+    {
+      "word": "đủ",
+      "start_ms": 5036,
+      "end_ms": 5160
+    },
+    {
+      "word": "thời",
+      "start_ms": 5160,
+      "end_ms": 5408
+    },
+    {
+      "word": "gian",
+      "start_ms": 5408,
+      "end_ms": 5657
+    },
+    {
+      "word": "ma",
+      "start_ms": 5657,
+      "end_ms": 5782
+    },
+    {
+      "word": "sát",
+      "start_ms": 5782,
+      "end_ms": 5968
+    },
+    {
+      "word": "để",
+      "start_ms": 5968,
+      "end_ms": 6092
+    },
+    {
+      "word": "não",
+      "start_ms": 6092,
+      "end_ms": 6279
+    },
+    {
+      "word": "bộ",
+      "start_ms": 6279,
+      "end_ms": 6403
+    },
+    {
+      "word": "của",
+      "start_ms": 6403,
+      "end_ms": 6590
+    },
+    {
+      "word": "bạn",
+      "start_ms": 6590,
+      "end_ms": 6776
+    },
+    {
+      "word": "kịp",
+      "start_ms": 6776,
+      "end_ms": 6963
+    },
+    {
+      "word": "thức",
+      "start_ms": 6963,
+      "end_ms": 7211
+    },
+    {
+      "word": "tỉnh.",
+      "start_ms": 7211,
+      "end_ms": 7460
+    }
+  ],
+  "aligned_with_script": true
+}

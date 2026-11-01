@@ -1,0 +1,173 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 32,
+  "abs_start_ms": 161340,
+  "abs_end_ms": 168780,
+  "duration_ms": 7440,
+  "word_count": 32,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Và",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "để",
+      "start_ms": 140,
+      "end_ms": 320
+    },
+    {
+      "word": "giải",
+      "start_ms": 940,
+      "end_ms": 1240
+    },
+    {
+      "word": "tỏa",
+      "start_ms": 1240,
+      "end_ms": 1460
+    },
+    {
+      "word": "sự",
+      "start_ms": 1460,
+      "end_ms": 1580
+    },
+    {
+      "word": "căng",
+      "start_ms": 1580,
+      "end_ms": 1760
+    },
+    {
+      "word": "thẳng",
+      "start_ms": 1760,
+      "end_ms": 1920
+    },
+    {
+      "word": "tột",
+      "start_ms": 1920,
+      "end_ms": 2100
+    },
+    {
+      "word": "độ",
+      "start_ms": 2100,
+      "end_ms": 2420
+    },
+    {
+      "word": "đó,",
+      "start_ms": 2420,
+      "end_ms": 2600
+    },
+    {
+      "word": "hạch",
+      "start_ms": 2600,
+      "end_ms": 2720
+    },
+    {
+      "word": "nền",
+      "start_ms": 2720,
+      "end_ms": 2940
+    },
+    {
+      "word": "của",
+      "start_ms": 2940,
+      "end_ms": 3160
+    },
+    {
+      "word": "não",
+      "start_ms": 3160,
+      "end_ms": 3420
+    },
+    {
+      "word": "bộ",
+      "start_ms": 3420,
+      "end_ms": 3720
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 3720,
+      "end_ms": 4260
+    },
+    {
+      "word": "thúc",
+      "start_ms": 4260,
+      "end_ms": 4380
+    },
+    {
+      "word": "giục",
+      "start_ms": 4380,
+      "end_ms": 4620
+    },
+    {
+      "word": "bạn",
+      "start_ms": 4620,
+      "end_ms": 4900
+    },
+    {
+      "word": "đi",
+      "start_ms": 4900,
+      "end_ms": 5060
+    },
+    {
+      "word": "tìm",
+      "start_ms": 5060,
+      "end_ms": 5240
+    },
+    {
+      "word": "kiếm",
+      "start_ms": 5240,
+      "end_ms": 5380
+    },
+    {
+      "word": "những",
+      "start_ms": 5380,
+      "end_ms": 5560
+    },
+    {
+      "word": "liều",
+      "start_ms": 5560,
+      "end_ms": 5700
+    },
+    {
+      "word": "dopamine",
+      "start_ms": 5700,
+      "end_ms": 6040
+    },
+    {
+      "word": "tức",
+      "start_ms": 6420,
+      "end_ms": 6520
+    },
+    {
+      "word": "thì",
+      "start_ms": 6520,
+      "end_ms": 6640
+    },
+    {
+      "word": "để",
+      "start_ms": 6640,
+      "end_ms": 6800
+    },
+    {
+      "word": "xoa",
+      "start_ms": 6800,
+      "end_ms": 6920
+    },
+    {
+      "word": "dịu",
+      "start_ms": 6920,
+      "end_ms": 7060
+    },
+    {
+      "word": "cảm",
+      "start_ms": 7060,
+      "end_ms": 7260
+    },
+    {
+      "word": "xúc.",
+      "start_ms": 7260,
+      "end_ms": 7440
+    }
+  ],
+  "aligned_with_script": true
+}

@@ -1,0 +1,93 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 173,
+  "abs_start_ms": 912580,
+  "abs_end_ms": 917780,
+  "duration_ms": 5200,
+  "word_count": 16,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Hãy",
+      "start_ms": 0,
+      "end_ms": 100
+    },
+    {
+      "word": "viết",
+      "start_ms": 100,
+      "end_ms": 220
+    },
+    {
+      "word": "ra",
+      "start_ms": 220,
+      "end_ms": 380
+    },
+    {
+      "word": "sổ",
+      "start_ms": 380,
+      "end_ms": 600
+    },
+    {
+      "word": "tay",
+      "start_ms": 1120,
+      "end_ms": 1740
+    },
+    {
+      "word": "3",
+      "start_ms": 1740,
+      "end_ms": 2500
+    },
+    {
+      "word": "quy",
+      "start_ms": 2500,
+      "end_ms": 3220
+    },
+    {
+      "word": "tắc",
+      "start_ms": 3220,
+      "end_ms": 3300
+    },
+    {
+      "word": "If-Then",
+      "start_ms": 3300,
+      "end_ms": 3500
+    },
+    {
+      "word": "căn",
+      "start_ms": 3500,
+      "end_ms": 3640
+    },
+    {
+      "word": "bản",
+      "start_ms": 3640,
+      "end_ms": 3800
+    },
+    {
+      "word": "cho",
+      "start_ms": 3800,
+      "end_ms": 4000
+    },
+    {
+      "word": "tài",
+      "start_ms": 4000,
+      "end_ms": 4200
+    },
+    {
+      "word": "chính",
+      "start_ms": 4200,
+      "end_ms": 4340
+    },
+    {
+      "word": "của",
+      "start_ms": 4340,
+      "end_ms": 4520
+    },
+    {
+      "word": "bạn:",
+      "start_ms": 4520,
+      "end_ms": 4760
+    }
+  ],
+  "aligned_with_script": true
+}

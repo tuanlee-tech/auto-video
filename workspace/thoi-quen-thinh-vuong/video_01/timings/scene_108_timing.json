@@ -1,0 +1,113 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 108,
+  "abs_start_ms": 575000,
+  "abs_end_ms": 579580,
+  "duration_ms": 4580,
+  "word_count": 20,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Thứ",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "hai",
+      "start_ms": 140,
+      "end_ms": 280
+    },
+    {
+      "word": "là",
+      "start_ms": 280,
+      "end_ms": 460
+    },
+    {
+      "word": "chi",
+      "start_ms": 460,
+      "end_ms": 720
+    },
+    {
+      "word": "phí",
+      "start_ms": 1020,
+      "end_ms": 1160
+    },
+    {
+      "word": "ăn",
+      "start_ms": 1160,
+      "end_ms": 1300
+    },
+    {
+      "word": "uống",
+      "start_ms": 1300,
+      "end_ms": 1660
+    },
+    {
+      "word": "dinh",
+      "start_ms": 1660,
+      "end_ms": 1820
+    },
+    {
+      "word": "dưỡng",
+      "start_ms": 1820,
+      "end_ms": 2040
+    },
+    {
+      "word": "nấu",
+      "start_ms": 2040,
+      "end_ms": 2280
+    },
+    {
+      "word": "tại",
+      "start_ms": 2280,
+      "end_ms": 2400
+    },
+    {
+      "word": "nhà,",
+      "start_ms": 2400,
+      "end_ms": 2580
+    },
+    {
+      "word": "đủ",
+      "start_ms": 2580,
+      "end_ms": 2840
+    },
+    {
+      "word": "để",
+      "start_ms": 3300,
+      "end_ms": 3440
+    },
+    {
+      "word": "đảm",
+      "start_ms": 3440,
+      "end_ms": 3700
+    },
+    {
+      "word": "bảo",
+      "start_ms": 3700,
+      "end_ms": 3800
+    },
+    {
+      "word": "sức",
+      "start_ms": 3800,
+      "end_ms": 4020
+    },
+    {
+      "word": "khỏe",
+      "start_ms": 4020,
+      "end_ms": 4160
+    },
+    {
+      "word": "lao",
+      "start_ms": 4160,
+      "end_ms": 4420
+    },
+    {
+      "word": "động.",
+      "start_ms": 4420,
+      "end_ms": 4580
+    }
+  ],
+  "aligned_with_script": true
+}

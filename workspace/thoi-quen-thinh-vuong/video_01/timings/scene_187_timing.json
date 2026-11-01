@@ -1,0 +1,128 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 187,
+  "abs_start_ms": 985320,
+  "abs_end_ms": 991120,
+  "duration_ms": 5800,
+  "word_count": 23,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Đó",
+      "start_ms": 0,
+      "end_ms": 100
+    },
+    {
+      "word": "là",
+      "start_ms": 100,
+      "end_ms": 420
+    },
+    {
+      "word": "sự",
+      "start_ms": 920,
+      "end_ms": 1100
+    },
+    {
+      "word": "tự",
+      "start_ms": 1100,
+      "end_ms": 1360
+    },
+    {
+      "word": "do",
+      "start_ms": 1360,
+      "end_ms": 1480
+    },
+    {
+      "word": "được",
+      "start_ms": 1480,
+      "end_ms": 1600
+    },
+    {
+      "word": "lựa",
+      "start_ms": 1600,
+      "end_ms": 1740
+    },
+    {
+      "word": "chọn",
+      "start_ms": 1740,
+      "end_ms": 1940
+    },
+    {
+      "word": "công",
+      "start_ms": 1940,
+      "end_ms": 2180
+    },
+    {
+      "word": "việc",
+      "start_ms": 2180,
+      "end_ms": 2400
+    },
+    {
+      "word": "bạn",
+      "start_ms": 2400,
+      "end_ms": 2600
+    },
+    {
+      "word": "yêu",
+      "start_ms": 2600,
+      "end_ms": 2840
+    },
+    {
+      "word": "thích,được",
+      "start_ms": 2840,
+      "end_ms": 3080
+    },
+    {
+      "word": "dành",
+      "start_ms": 3080,
+      "end_ms": 3220
+    },
+    {
+      "word": "thời",
+      "start_ms": 3220,
+      "end_ms": 3440
+    },
+    {
+      "word": "gian",
+      "start_ms": 3440,
+      "end_ms": 3560
+    },
+    {
+      "word": "trọn",
+      "start_ms": 3560,
+      "end_ms": 3820
+    },
+    {
+      "word": "vẹn",
+      "start_ms": 3820,
+      "end_ms": 4080
+    },
+    {
+      "word": "cho",
+      "start_ms": 4340,
+      "end_ms": 4540
+    },
+    {
+      "word": "những",
+      "start_ms": 4540,
+      "end_ms": 4980
+    },
+    {
+      "word": "người",
+      "start_ms": 5460,
+      "end_ms": 5580
+    },
+    {
+      "word": "thân",
+      "start_ms": 5580,
+      "end_ms": 5680
+    },
+    {
+      "word": "yêu",
+      "start_ms": 5680,
+      "end_ms": 5800
+    }
+  ],
+  "aligned_with_script": true
+}

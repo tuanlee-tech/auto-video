@@ -1,0 +1,108 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 179,
+  "abs_start_ms": 942420,
+  "abs_end_ms": 946920,
+  "duration_ms": 4500,
+  "word_count": 19,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "THÌ",
+      "start_ms": 0,
+      "end_ms": 220
+    },
+    {
+      "word": "tôi",
+      "start_ms": 220,
+      "end_ms": 380
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 380,
+      "end_ms": 500
+    },
+    {
+      "word": "tự",
+      "start_ms": 500,
+      "end_ms": 660
+    },
+    {
+      "word": "động",
+      "start_ms": 660,
+      "end_ms": 840
+    },
+    {
+      "word": "kích",
+      "start_ms": 840,
+      "end_ms": 1080
+    },
+    {
+      "word": "hoạt",
+      "start_ms": 1080,
+      "end_ms": 1240
+    },
+    {
+      "word": "Khoảng",
+      "start_ms": 1240,
+      "end_ms": 1520
+    },
+    {
+      "word": "dừng",
+      "start_ms": 1520,
+      "end_ms": 1780
+    },
+    {
+      "word": "48",
+      "start_ms": 1780,
+      "end_ms": 2280
+    },
+    {
+      "word": "giờ",
+      "start_ms": 2280,
+      "end_ms": 2540
+    },
+    {
+      "word": "trước",
+      "start_ms": 2540,
+      "end_ms": 2720
+    },
+    {
+      "word": "khi",
+      "start_ms": 2720,
+      "end_ms": 2920
+    },
+    {
+      "word": "đưa",
+      "start_ms": 2920,
+      "end_ms": 3180
+    },
+    {
+      "word": "ra",
+      "start_ms": 3180,
+      "end_ms": 3320
+    },
+    {
+      "word": "quyết",
+      "start_ms": 3320,
+      "end_ms": 3580
+    },
+    {
+      "word": "định",
+      "start_ms": 3580,
+      "end_ms": 4140
+    },
+    {
+      "word": "cuối",
+      "start_ms": 4140,
+      "end_ms": 4280
+    },
+    {
+      "word": "cùng.",
+      "start_ms": 4280,
+      "end_ms": 4500
+    }
+  ],
+  "aligned_with_script": true
+}

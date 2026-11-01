@@ -1,0 +1,133 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 16,
+  "abs_start_ms": 81800,
+  "abs_end_ms": 87320,
+  "duration_ms": 5520,
+  "word_count": 24,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Và",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "bất",
+      "start_ms": 140,
+      "end_ms": 320
+    },
+    {
+      "word": "kỳ",
+      "start_ms": 740,
+      "end_ms": 1100
+    },
+    {
+      "word": "phương",
+      "start_ms": 1100,
+      "end_ms": 1260
+    },
+    {
+      "word": "pháp",
+      "start_ms": 1260,
+      "end_ms": 1420
+    },
+    {
+      "word": "nào",
+      "start_ms": 1420,
+      "end_ms": 1560
+    },
+    {
+      "word": "chống",
+      "start_ms": 1560,
+      "end_ms": 1780
+    },
+    {
+      "word": "lại",
+      "start_ms": 1780,
+      "end_ms": 2040
+    },
+    {
+      "word": "bản",
+      "start_ms": 2040,
+      "end_ms": 2260
+    },
+    {
+      "word": "năng",
+      "start_ms": 2260,
+      "end_ms": 2400
+    },
+    {
+      "word": "tự",
+      "start_ms": 2400,
+      "end_ms": 2640
+    },
+    {
+      "word": "nhiên",
+      "start_ms": 2640,
+      "end_ms": 2820
+    },
+    {
+      "word": "của",
+      "start_ms": 2820,
+      "end_ms": 2960
+    },
+    {
+      "word": "não",
+      "start_ms": 2960,
+      "end_ms": 3180
+    },
+    {
+      "word": "bộ",
+      "start_ms": 3180,
+      "end_ms": 3320
+    },
+    {
+      "word": "đều",
+      "start_ms": 3320,
+      "end_ms": 3460
+    },
+    {
+      "word": "chắc",
+      "start_ms": 3460,
+      "end_ms": 3640
+    },
+    {
+      "word": "chắn",
+      "start_ms": 4060,
+      "end_ms": 4160
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 4160,
+      "end_ms": 4360
+    },
+    {
+      "word": "dẫn",
+      "start_ms": 4360,
+      "end_ms": 4580
+    },
+    {
+      "word": "đến",
+      "start_ms": 4580,
+      "end_ms": 4980
+    },
+    {
+      "word": "sự",
+      "start_ms": 4980,
+      "end_ms": 5180
+    },
+    {
+      "word": "sụp",
+      "start_ms": 5180,
+      "end_ms": 5280
+    },
+    {
+      "word": "đổ.",
+      "start_ms": 5280,
+      "end_ms": 5520
+    }
+  ],
+  "aligned_with_script": true
+}

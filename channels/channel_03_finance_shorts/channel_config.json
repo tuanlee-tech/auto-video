@@ -1,0 +1,19 @@
+{
+  "channel_id": "channel_03_finance_shorts",
+  "name": "Tài Chính 60 Giây (Shorts & TikTok)",
+  "description": "Video ngắn dọc 9:16 giải thích nhanh kiến thức tài chính, đầu tư trong 60 giây",
+  "aspect_ratio": "9:16",
+  "width": 1080,
+  "height": 1920,
+  "fps": 60,
+  "default_voice": "Hải Đăng",
+  "character_tag": "@stickman",
+  "lighting_style": "High-contrast dynamic neon and clean studio lighting optimized for mobile screens",
+  "prohibitions": {
+    "silent_video": true,
+    "no_character_speech": true,
+    "no_background_music": true,
+    "no_watermarks": true,
+    "no_text_overlays": true
+  }
+}

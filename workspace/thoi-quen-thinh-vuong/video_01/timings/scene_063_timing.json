@@ -1,0 +1,138 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 63,
+  "abs_start_ms": 323380,
+  "abs_end_ms": 328940,
+  "duration_ms": 5560,
+  "word_count": 25,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "chúng",
+      "start_ms": 0,
+      "end_ms": 120
+    },
+    {
+      "word": "ta",
+      "start_ms": 120,
+      "end_ms": 280
+    },
+    {
+      "word": "cảm",
+      "start_ms": 280,
+      "end_ms": 420
+    },
+    {
+      "word": "thấy",
+      "start_ms": 420,
+      "end_ms": 600
+    },
+    {
+      "word": "số",
+      "start_ms": 600,
+      "end_ms": 860
+    },
+    {
+      "word": "tiền",
+      "start_ms": 860,
+      "end_ms": 1080
+    },
+    {
+      "word": "tiết",
+      "start_ms": 1080,
+      "end_ms": 1300
+    },
+    {
+      "word": "kiệm",
+      "start_ms": 1300,
+      "end_ms": 1580
+    },
+    {
+      "word": "đó",
+      "start_ms": 1580,
+      "end_ms": 1720
+    },
+    {
+      "word": "đang",
+      "start_ms": 1720,
+      "end_ms": 2000
+    },
+    {
+      "word": "được",
+      "start_ms": 2000,
+      "end_ms": 2240
+    },
+    {
+      "word": "chuyển",
+      "start_ms": 2240,
+      "end_ms": 2500
+    },
+    {
+      "word": "cho",
+      "start_ms": 2500,
+      "end_ms": 2800
+    },
+    {
+      "word": "một",
+      "start_ms": 2800,
+      "end_ms": 2920
+    },
+    {
+      "word": "kẻ",
+      "start_ms": 2920,
+      "end_ms": 3140
+    },
+    {
+      "word": "xa",
+      "start_ms": 3140,
+      "end_ms": 3360
+    },
+    {
+      "word": "lạ",
+      "start_ms": 3360,
+      "end_ms": 3500
+    },
+    {
+      "word": "nào",
+      "start_ms": 3500,
+      "end_ms": 3700
+    },
+    {
+      "word": "đó",
+      "start_ms": 4300,
+      "end_ms": 4500
+    },
+    {
+      "word": "chứ",
+      "start_ms": 4500,
+      "end_ms": 4680
+    },
+    {
+      "word": "không",
+      "start_ms": 4680,
+      "end_ms": 4840
+    },
+    {
+      "word": "phải",
+      "start_ms": 4840,
+      "end_ms": 4980
+    },
+    {
+      "word": "cho",
+      "start_ms": 4980,
+      "end_ms": 5140
+    },
+    {
+      "word": "chính",
+      "start_ms": 5140,
+      "end_ms": 5380
+    },
+    {
+      "word": "mình.",
+      "start_ms": 5380,
+      "end_ms": 5560
+    }
+  ],
+  "aligned_with_script": true
+}

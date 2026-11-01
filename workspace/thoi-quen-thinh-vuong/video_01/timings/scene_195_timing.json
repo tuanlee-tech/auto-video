@@ -1,0 +1,123 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 195,
+  "abs_start_ms": 1018060,
+  "abs_end_ms": 1023280,
+  "duration_ms": 5220,
+  "word_count": 22,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Hoặc",
+      "start_ms": 0,
+      "end_ms": 220
+    },
+    {
+      "word": "mở",
+      "start_ms": 220,
+      "end_ms": 440
+    },
+    {
+      "word": "ứng",
+      "start_ms": 440,
+      "end_ms": 580
+    },
+    {
+      "word": "dụng",
+      "start_ms": 580,
+      "end_ms": 720
+    },
+    {
+      "word": "ngân",
+      "start_ms": 720,
+      "end_ms": 900
+    },
+    {
+      "word": "hàng",
+      "start_ms": 1620,
+      "end_ms": 1840
+    },
+    {
+      "word": "lên",
+      "start_ms": 1840,
+      "end_ms": 2040
+    },
+    {
+      "word": "và",
+      "start_ms": 2040,
+      "end_ms": 2160
+    },
+    {
+      "word": "cài",
+      "start_ms": 2160,
+      "end_ms": 2360
+    },
+    {
+      "word": "đặt",
+      "start_ms": 2360,
+      "end_ms": 2560
+    },
+    {
+      "word": "một",
+      "start_ms": 2560,
+      "end_ms": 2820
+    },
+    {
+      "word": "lệnh",
+      "start_ms": 2820,
+      "end_ms": 2920
+    },
+    {
+      "word": "chuyển",
+      "start_ms": 2920,
+      "end_ms": 3180
+    },
+    {
+      "word": "tiền",
+      "start_ms": 3180,
+      "end_ms": 3380
+    },
+    {
+      "word": "tự",
+      "start_ms": 3380,
+      "end_ms": 3520
+    },
+    {
+      "word": "động",
+      "start_ms": 3520,
+      "end_ms": 3700
+    },
+    {
+      "word": "đầu",
+      "start_ms": 3700,
+      "end_ms": 3920
+    },
+    {
+      "word": "tiên",
+      "start_ms": 3920,
+      "end_ms": 4060
+    },
+    {
+      "word": "cho",
+      "start_ms": 4060,
+      "end_ms": 4240
+    },
+    {
+      "word": "kỳ",
+      "start_ms": 4800,
+      "end_ms": 4900
+    },
+    {
+      "word": "lương",
+      "start_ms": 4900,
+      "end_ms": 5040
+    },
+    {
+      "word": "tới.",
+      "start_ms": 5040,
+      "end_ms": 5220
+    }
+  ],
+  "aligned_with_script": true
+}

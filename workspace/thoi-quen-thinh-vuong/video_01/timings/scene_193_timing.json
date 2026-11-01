@@ -1,0 +1,103 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 193,
+  "abs_start_ms": 1011880,
+  "abs_end_ms": 1015240,
+  "duration_ms": 3360,
+  "word_count": 18,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Hãy",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "chọn",
+      "start_ms": 200,
+      "end_ms": 360
+    },
+    {
+      "word": "ra",
+      "start_ms": 360,
+      "end_ms": 600
+    },
+    {
+      "word": "đúng",
+      "start_ms": 600,
+      "end_ms": 740
+    },
+    {
+      "word": "một",
+      "start_ms": 740,
+      "end_ms": 920
+    },
+    {
+      "word": "hành",
+      "start_ms": 920,
+      "end_ms": 1120
+    },
+    {
+      "word": "động",
+      "start_ms": 1120,
+      "end_ms": 1360
+    },
+    {
+      "word": "đơn",
+      "start_ms": 1360,
+      "end_ms": 1540
+    },
+    {
+      "word": "giản",
+      "start_ms": 1540,
+      "end_ms": 1860
+    },
+    {
+      "word": "nhất",
+      "start_ms": 1860,
+      "end_ms": 2040
+    },
+    {
+      "word": "trong",
+      "start_ms": 2040,
+      "end_ms": 2280
+    },
+    {
+      "word": "5",
+      "start_ms": 2280,
+      "end_ms": 2460
+    },
+    {
+      "word": "điều",
+      "start_ms": 2460,
+      "end_ms": 2560
+    },
+    {
+      "word": "chúng",
+      "start_ms": 2560,
+      "end_ms": 2700
+    },
+    {
+      "word": "ta",
+      "start_ms": 2700,
+      "end_ms": 2900
+    },
+    {
+      "word": "vừa",
+      "start_ms": 2900,
+      "end_ms": 3080
+    },
+    {
+      "word": "thảo",
+      "start_ms": 3080,
+      "end_ms": 3260
+    },
+    {
+      "word": "luận:",
+      "start_ms": 3260,
+      "end_ms": 3360
+    }
+  ],
+  "aligned_with_script": true
+}

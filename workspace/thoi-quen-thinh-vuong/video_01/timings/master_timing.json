@@ -1,0 +1,1585 @@
+{
+  "audio_file": "master_narration.wav",
+  "total_duration_ms": 1043300,
+  "total_frames": 62599,
+  "fps": 60,
+  "scene_count": 197,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "abs_start_ms": 0,
+      "abs_end_ms": 5480,
+      "duration_sec": 5.48,
+      "duration_frames": 329,
+      "word_count": 23
+    },
+    {
+      "scene_id": 2,
+      "abs_start_ms": 5480,
+      "abs_end_ms": 9060,
+      "duration_sec": 3.58,
+      "duration_frames": 215,
+      "word_count": 17
+    },
+    {
+      "scene_id": 3,
+      "abs_start_ms": 9060,
+      "abs_end_ms": 15640,
+      "duration_sec": 6.58,
+      "duration_frames": 395,
+      "word_count": 30
+    },
+    {
+      "scene_id": 4,
+      "abs_start_ms": 15640,
+      "abs_end_ms": 19860,
+      "duration_sec": 4.22,
+      "duration_frames": 253,
+      "word_count": 19
+    },
+    {
+      "scene_id": 5,
+      "abs_start_ms": 19860,
+      "abs_end_ms": 26240,
+      "duration_sec": 6.38,
+      "duration_frames": 383,
+      "word_count": 27
+    },
+    {
+      "scene_id": 6,
+      "abs_start_ms": 26240,
+      "abs_end_ms": 28100,
+      "duration_sec": 1.86,
+      "duration_frames": 112,
+      "word_count": 8
+    },
+    {
+      "scene_id": 7,
+      "abs_start_ms": 28100,
+      "abs_end_ms": 35280,
+      "duration_sec": 7.18,
+      "duration_frames": 431,
+      "word_count": 32
+    },
+    {
+      "scene_id": 8,
+      "abs_start_ms": 35280,
+      "abs_end_ms": 37620,
+      "duration_sec": 2.34,
+      "duration_frames": 140,
+      "word_count": 10
+    },
+    {
+      "scene_id": 9,
+      "abs_start_ms": 37620,
+      "abs_end_ms": 42700,
+      "duration_sec": 5.08,
+      "duration_frames": 305,
+      "word_count": 22
+    },
+    {
+      "scene_id": 10,
+      "abs_start_ms": 42700,
+      "abs_end_ms": 49660,
+      "duration_sec": 6.96,
+      "duration_frames": 418,
+      "word_count": 31
+    },
+    {
+      "scene_id": 11,
+      "abs_start_ms": 49660,
+      "abs_end_ms": 56540,
+      "duration_sec": 6.88,
+      "duration_frames": 413,
+      "word_count": 30
+    },
+    {
+      "scene_id": 12,
+      "abs_start_ms": 56540,
+      "abs_end_ms": 61660,
+      "duration_sec": 5.12,
+      "duration_frames": 307,
+      "word_count": 22
+    },
+    {
+      "scene_id": 13,
+      "abs_start_ms": 61660,
+      "abs_end_ms": 69900,
+      "duration_sec": 8.24,
+      "duration_frames": 494,
+      "word_count": 34
+    },
+    {
+      "scene_id": 14,
+      "abs_start_ms": 69900,
+      "abs_end_ms": 76400,
+      "duration_sec": 6.5,
+      "duration_frames": 390,
+      "word_count": 30
+    },
+    {
+      "scene_id": 15,
+      "abs_start_ms": 76400,
+      "abs_end_ms": 81800,
+      "duration_sec": 5.4,
+      "duration_frames": 324,
+      "word_count": 27
+    },
+    {
+      "scene_id": 16,
+      "abs_start_ms": 81800,
+      "abs_end_ms": 87320,
+      "duration_sec": 5.52,
+      "duration_frames": 331,
+      "word_count": 24
+    },
+    {
+      "scene_id": 17,
+      "abs_start_ms": 87320,
+      "abs_end_ms": 91940,
+      "duration_sec": 4.62,
+      "duration_frames": 277,
+      "word_count": 19
+    },
+    {
+      "scene_id": 18,
+      "abs_start_ms": 91940,
+      "abs_end_ms": 98780,
+      "duration_sec": 6.84,
+      "duration_frames": 410,
+      "word_count": 30
+    },
+    {
+      "scene_id": 19,
+      "abs_start_ms": 98780,
+      "abs_end_ms": 104260,
+      "duration_sec": 5.48,
+      "duration_frames": 329,
+      "word_count": 25
+    },
+    {
+      "scene_id": 20,
+      "abs_start_ms": 104260,
+      "abs_end_ms": 106260,
+      "duration_sec": 2.0,
+      "duration_frames": 120,
+      "word_count": 9
+    },
+    {
+      "scene_id": 21,
+      "abs_start_ms": 106260,
+      "abs_end_ms": 112040,
+      "duration_sec": 5.78,
+      "duration_frames": 347,
+      "word_count": 28
+    },
+    {
+      "scene_id": 22,
+      "abs_start_ms": 112040,
+      "abs_end_ms": 116980,
+      "duration_sec": 4.94,
+      "duration_frames": 296,
+      "word_count": 21
+    },
+    {
+      "scene_id": 23,
+      "abs_start_ms": 116980,
+      "abs_end_ms": 124340,
+      "duration_sec": 7.36,
+      "duration_frames": 442,
+      "word_count": 30
+    },
+    {
+      "scene_id": 24,
+      "abs_start_ms": 124340,
+      "abs_end_ms": 130420,
+      "duration_sec": 6.08,
+      "duration_frames": 365,
+      "word_count": 23
+    },
+    {
+      "scene_id": 25,
+      "abs_start_ms": 130420,
+      "abs_end_ms": 134880,
+      "duration_sec": 4.46,
+      "duration_frames": 268,
+      "word_count": 19
+    },
+    {
+      "scene_id": 26,
+      "abs_start_ms": 134880,
+      "abs_end_ms": 140500,
+      "duration_sec": 5.62,
+      "duration_frames": 337,
+      "word_count": 21
+    },
+    {
+      "scene_id": 27,
+      "abs_start_ms": 140500,
+      "abs_end_ms": 146720,
+      "duration_sec": 6.22,
+      "duration_frames": 373,
+      "word_count": 29
+    },
+    {
+      "scene_id": 28,
+      "abs_start_ms": 146720,
+      "abs_end_ms": 150640,
+      "duration_sec": 3.92,
+      "duration_frames": 235,
+      "word_count": 15
+    },
+    {
+      "scene_id": 29,
+      "abs_start_ms": 150640,
+      "abs_end_ms": 156480,
+      "duration_sec": 5.84,
+      "duration_frames": 350,
+      "word_count": 28
+    },
+    {
+      "scene_id": 30,
+      "abs_start_ms": 156480,
+      "abs_end_ms": 158380,
+      "duration_sec": 1.9,
+      "duration_frames": 114,
+      "word_count": 10
+    },
+    {
+      "scene_id": 31,
+      "abs_start_ms": 158380,
+      "abs_end_ms": 161340,
+      "duration_sec": 2.96,
+      "duration_frames": 178,
+      "word_count": 13
+    },
+    {
+      "scene_id": 32,
+      "abs_start_ms": 161340,
+      "abs_end_ms": 168780,
+      "duration_sec": 7.44,
+      "duration_frames": 446,
+      "word_count": 32
+    },
+    {
+      "scene_id": 33,
+      "abs_start_ms": 168780,
+      "abs_end_ms": 173040,
+      "duration_sec": 4.26,
+      "duration_frames": 256,
+      "word_count": 20
+    },
+    {
+      "scene_id": 34,
+      "abs_start_ms": 173040,
+      "abs_end_ms": 176200,
+      "duration_sec": 3.16,
+      "duration_frames": 190,
+      "word_count": 17
+    },
+    {
+      "scene_id": 35,
+      "abs_start_ms": 176200,
+      "abs_end_ms": 183220,
+      "duration_sec": 7.02,
+      "duration_frames": 421,
+      "word_count": 26
+    },
+    {
+      "scene_id": 36,
+      "abs_start_ms": 183220,
+      "abs_end_ms": 185860,
+      "duration_sec": 2.64,
+      "duration_frames": 158,
+      "word_count": 14
+    },
+    {
+      "scene_id": 37,
+      "abs_start_ms": 185860,
+      "abs_end_ms": 192420,
+      "duration_sec": 6.56,
+      "duration_frames": 394,
+      "word_count": 27
+    },
+    {
+      "scene_id": 38,
+      "abs_start_ms": 192420,
+      "abs_end_ms": 198320,
+      "duration_sec": 5.9,
+      "duration_frames": 354,
+      "word_count": 26
+    },
+    {
+      "scene_id": 39,
+      "abs_start_ms": 198320,
+      "abs_end_ms": 201760,
+      "duration_sec": 3.44,
+      "duration_frames": 206,
+      "word_count": 15
+    },
+    {
+      "scene_id": 40,
+      "abs_start_ms": 201760,
+      "abs_end_ms": 207840,
+      "duration_sec": 6.08,
+      "duration_frames": 365,
+      "word_count": 30
+    },
+    {
+      "scene_id": 41,
+      "abs_start_ms": 207840,
+      "abs_end_ms": 211560,
+      "duration_sec": 3.72,
+      "duration_frames": 223,
+      "word_count": 17
+    },
+    {
+      "scene_id": 42,
+      "abs_start_ms": 211560,
+      "abs_end_ms": 216720,
+      "duration_sec": 5.16,
+      "duration_frames": 310,
+      "word_count": 25
+    },
+    {
+      "scene_id": 43,
+      "abs_start_ms": 216720,
+      "abs_end_ms": 221880,
+      "duration_sec": 5.16,
+      "duration_frames": 310,
+      "word_count": 23
+    },
+    {
+      "scene_id": 44,
+      "abs_start_ms": 221880,
+      "abs_end_ms": 227640,
+      "duration_sec": 5.76,
+      "duration_frames": 346,
+      "word_count": 26
+    },
+    {
+      "scene_id": 45,
+      "abs_start_ms": 227640,
+      "abs_end_ms": 229460,
+      "duration_sec": 1.82,
+      "duration_frames": 109,
+      "word_count": 11
+    },
+    {
+      "scene_id": 46,
+      "abs_start_ms": 229460,
+      "abs_end_ms": 231240,
+      "duration_sec": 1.78,
+      "duration_frames": 107,
+      "word_count": 7
+    },
+    {
+      "scene_id": 47,
+      "abs_start_ms": 231240,
+      "abs_end_ms": 239020,
+      "duration_sec": 7.78,
+      "duration_frames": 467,
+      "word_count": 31
+    },
+    {
+      "scene_id": 48,
+      "abs_start_ms": 239020,
+      "abs_end_ms": 245680,
+      "duration_sec": 6.66,
+      "duration_frames": 400,
+      "word_count": 28
+    },
+    {
+      "scene_id": 49,
+      "abs_start_ms": 245680,
+      "abs_end_ms": 249600,
+      "duration_sec": 3.92,
+      "duration_frames": 235,
+      "word_count": 19
+    },
+    {
+      "scene_id": 50,
+      "abs_start_ms": 249600,
+      "abs_end_ms": 255080,
+      "duration_sec": 5.48,
+      "duration_frames": 329,
+      "word_count": 26
+    },
+    {
+      "scene_id": 51,
+      "abs_start_ms": 255080,
+      "abs_end_ms": 263180,
+      "duration_sec": 8.1,
+      "duration_frames": 486,
+      "word_count": 28
+    },
+    {
+      "scene_id": 52,
+      "abs_start_ms": 263180,
+      "abs_end_ms": 267700,
+      "duration_sec": 4.52,
+      "duration_frames": 271,
+      "word_count": 20
+    },
+    {
+      "scene_id": 53,
+      "abs_start_ms": 267700,
+      "abs_end_ms": 274080,
+      "duration_sec": 6.38,
+      "duration_frames": 383,
+      "word_count": 28
+    },
+    {
+      "scene_id": 54,
+      "abs_start_ms": 274080,
+      "abs_end_ms": 279000,
+      "duration_sec": 4.92,
+      "duration_frames": 295,
+      "word_count": 20
+    },
+    {
+      "scene_id": 55,
+      "abs_start_ms": 279000,
+      "abs_end_ms": 283140,
+      "duration_sec": 4.14,
+      "duration_frames": 248,
+      "word_count": 20
+    },
+    {
+      "scene_id": 56,
+      "abs_start_ms": 283140,
+      "abs_end_ms": 286240,
+      "duration_sec": 3.1,
+      "duration_frames": 186,
+      "word_count": 12
+    },
+    {
+      "scene_id": 57,
+      "abs_start_ms": 286240,
+      "abs_end_ms": 293240,
+      "duration_sec": 7.0,
+      "duration_frames": 420,
+      "word_count": 29
+    },
+    {
+      "scene_id": 58,
+      "abs_start_ms": 293240,
+      "abs_end_ms": 299040,
+      "duration_sec": 5.8,
+      "duration_frames": 348,
+      "word_count": 24
+    },
+    {
+      "scene_id": 59,
+      "abs_start_ms": 299040,
+      "abs_end_ms": 306480,
+      "duration_sec": 7.44,
+      "duration_frames": 446,
+      "word_count": 29
+    },
+    {
+      "scene_id": 60,
+      "abs_start_ms": 306480,
+      "abs_end_ms": 312080,
+      "duration_sec": 5.6,
+      "duration_frames": 336,
+      "word_count": 23
+    },
+    {
+      "scene_id": 61,
+      "abs_start_ms": 312080,
+      "abs_end_ms": 318040,
+      "duration_sec": 5.96,
+      "duration_frames": 358,
+      "word_count": 27
+    },
+    {
+      "scene_id": 62,
+      "abs_start_ms": 318040,
+      "abs_end_ms": 323380,
+      "duration_sec": 5.34,
+      "duration_frames": 320,
+      "word_count": 22
+    },
+    {
+      "scene_id": 63,
+      "abs_start_ms": 323380,
+      "abs_end_ms": 328940,
+      "duration_sec": 5.56,
+      "duration_frames": 334,
+      "word_count": 25
+    },
+    {
+      "scene_id": 64,
+      "abs_start_ms": 328940,
+      "abs_end_ms": 334760,
+      "duration_sec": 5.82,
+      "duration_frames": 349,
+      "word_count": 25
+    },
+    {
+      "scene_id": 65,
+      "abs_start_ms": 334760,
+      "abs_end_ms": 338400,
+      "duration_sec": 3.64,
+      "duration_frames": 218,
+      "word_count": 19
+    },
+    {
+      "scene_id": 66,
+      "abs_start_ms": 338400,
+      "abs_end_ms": 346040,
+      "duration_sec": 7.64,
+      "duration_frames": 458,
+      "word_count": 29
+    },
+    {
+      "scene_id": 67,
+      "abs_start_ms": 346040,
+      "abs_end_ms": 348720,
+      "duration_sec": 2.68,
+      "duration_frames": 161,
+      "word_count": 12
+    },
+    {
+      "scene_id": 68,
+      "abs_start_ms": 348720,
+      "abs_end_ms": 354160,
+      "duration_sec": 5.44,
+      "duration_frames": 326,
+      "word_count": 25
+    },
+    {
+      "scene_id": 69,
+      "abs_start_ms": 354160,
+      "abs_end_ms": 361820,
+      "duration_sec": 7.66,
+      "duration_frames": 460,
+      "word_count": 32
+    },
+    {
+      "scene_id": 70,
+      "abs_start_ms": 361820,
+      "abs_end_ms": 366500,
+      "duration_sec": 4.68,
+      "duration_frames": 281,
+      "word_count": 21
+    },
+    {
+      "scene_id": 71,
+      "abs_start_ms": 366500,
+      "abs_end_ms": 375360,
+      "duration_sec": 8.86,
+      "duration_frames": 532,
+      "word_count": 36
+    },
+    {
+      "scene_id": 72,
+      "abs_start_ms": 375360,
+      "abs_end_ms": 383000,
+      "duration_sec": 7.64,
+      "duration_frames": 458,
+      "word_count": 35
+    },
+    {
+      "scene_id": 73,
+      "abs_start_ms": 383000,
+      "abs_end_ms": 383760,
+      "duration_sec": 0.76,
+      "duration_frames": 46,
+      "word_count": 4
+    },
+    {
+      "scene_id": 74,
+      "abs_start_ms": 383760,
+      "abs_end_ms": 390400,
+      "duration_sec": 6.64,
+      "duration_frames": 398,
+      "word_count": 30
+    },
+    {
+      "scene_id": 75,
+      "abs_start_ms": 390400,
+      "abs_end_ms": 392140,
+      "duration_sec": 1.74,
+      "duration_frames": 104,
+      "word_count": 7
+    },
+    {
+      "scene_id": 76,
+      "abs_start_ms": 392140,
+      "abs_end_ms": 397140,
+      "duration_sec": 5.0,
+      "duration_frames": 300,
+      "word_count": 22
+    },
+    {
+      "scene_id": 77,
+      "abs_start_ms": 397140,
+      "abs_end_ms": 401300,
+      "duration_sec": 4.16,
+      "duration_frames": 250,
+      "word_count": 20
+    },
+    {
+      "scene_id": 78,
+      "abs_start_ms": 401300,
+      "abs_end_ms": 408280,
+      "duration_sec": 6.98,
+      "duration_frames": 419,
+      "word_count": 30
+    },
+    {
+      "scene_id": 79,
+      "abs_start_ms": 408280,
+      "abs_end_ms": 412500,
+      "duration_sec": 4.22,
+      "duration_frames": 253,
+      "word_count": 15
+    },
+    {
+      "scene_id": 80,
+      "abs_start_ms": 412500,
+      "abs_end_ms": 418960,
+      "duration_sec": 6.46,
+      "duration_frames": 388,
+      "word_count": 29
+    },
+    {
+      "scene_id": 81,
+      "abs_start_ms": 418960,
+      "abs_end_ms": 425260,
+      "duration_sec": 6.3,
+      "duration_frames": 378,
+      "word_count": 28
+    },
+    {
+      "scene_id": 82,
+      "abs_start_ms": 425260,
+      "abs_end_ms": 432400,
+      "duration_sec": 7.14,
+      "duration_frames": 428,
+      "word_count": 32
+    },
+    {
+      "scene_id": 83,
+      "abs_start_ms": 432400,
+      "abs_end_ms": 435400,
+      "duration_sec": 3.0,
+      "duration_frames": 180,
+      "word_count": 13
+    },
+    {
+      "scene_id": 84,
+      "abs_start_ms": 435400,
+      "abs_end_ms": 441840,
+      "duration_sec": 6.44,
+      "duration_frames": 386,
+      "word_count": 32
+    },
+    {
+      "scene_id": 85,
+      "abs_start_ms": 441840,
+      "abs_end_ms": 448600,
+      "duration_sec": 6.76,
+      "duration_frames": 406,
+      "word_count": 30
+    },
+    {
+      "scene_id": 86,
+      "abs_start_ms": 448600,
+      "abs_end_ms": 456020,
+      "duration_sec": 7.42,
+      "duration_frames": 445,
+      "word_count": 32
+    },
+    {
+      "scene_id": 87,
+      "abs_start_ms": 456020,
+      "abs_end_ms": 461500,
+      "duration_sec": 5.48,
+      "duration_frames": 329,
+      "word_count": 22
+    },
+    {
+      "scene_id": 88,
+      "abs_start_ms": 461500,
+      "abs_end_ms": 469560,
+      "duration_sec": 8.06,
+      "duration_frames": 484,
+      "word_count": 29
+    },
+    {
+      "scene_id": 89,
+      "abs_start_ms": 469560,
+      "abs_end_ms": 472000,
+      "duration_sec": 2.44,
+      "duration_frames": 146,
+      "word_count": 11
+    },
+    {
+      "scene_id": 90,
+      "abs_start_ms": 472000,
+      "abs_end_ms": 478400,
+      "duration_sec": 6.4,
+      "duration_frames": 384,
+      "word_count": 24
+    },
+    {
+      "scene_id": 91,
+      "abs_start_ms": 478400,
+      "abs_end_ms": 483340,
+      "duration_sec": 4.94,
+      "duration_frames": 296,
+      "word_count": 24
+    },
+    {
+      "scene_id": 92,
+      "abs_start_ms": 483340,
+      "abs_end_ms": 490800,
+      "duration_sec": 7.46,
+      "duration_frames": 448,
+      "word_count": 35
+    },
+    {
+      "scene_id": 93,
+      "abs_start_ms": 490800,
+      "abs_end_ms": 498000,
+      "duration_sec": 7.2,
+      "duration_frames": 432,
+      "word_count": 31
+    },
+    {
+      "scene_id": 94,
+      "abs_start_ms": 498000,
+      "abs_end_ms": 505560,
+      "duration_sec": 7.56,
+      "duration_frames": 454,
+      "word_count": 33
+    },
+    {
+      "scene_id": 95,
+      "abs_start_ms": 505560,
+      "abs_end_ms": 511140,
+      "duration_sec": 5.58,
+      "duration_frames": 335,
+      "word_count": 25
+    },
+    {
+      "scene_id": 96,
+      "abs_start_ms": 511140,
+      "abs_end_ms": 516260,
+      "duration_sec": 5.12,
+      "duration_frames": 307,
+      "word_count": 24
+    },
+    {
+      "scene_id": 97,
+      "abs_start_ms": 516260,
+      "abs_end_ms": 521200,
+      "duration_sec": 4.94,
+      "duration_frames": 296,
+      "word_count": 23
+    },
+    {
+      "scene_id": 98,
+      "abs_start_ms": 521200,
+      "abs_end_ms": 526580,
+      "duration_sec": 5.38,
+      "duration_frames": 323,
+      "word_count": 26
+    },
+    {
+      "scene_id": 99,
+      "abs_start_ms": 526580,
+      "abs_end_ms": 535180,
+      "duration_sec": 8.6,
+      "duration_frames": 516,
+      "word_count": 34
+    },
+    {
+      "scene_id": 100,
+      "abs_start_ms": 535180,
+      "abs_end_ms": 542420,
+      "duration_sec": 7.24,
+      "duration_frames": 434,
+      "word_count": 33
+    },
+    {
+      "scene_id": 101,
+      "abs_start_ms": 542420,
+      "abs_end_ms": 547760,
+      "duration_sec": 5.34,
+      "duration_frames": 320,
+      "word_count": 23
+    },
+    {
+      "scene_id": 102,
+      "abs_start_ms": 547760,
+      "abs_end_ms": 551380,
+      "duration_sec": 3.62,
+      "duration_frames": 217,
+      "word_count": 17
+    },
+    {
+      "scene_id": 103,
+      "abs_start_ms": 551380,
+      "abs_end_ms": 559280,
+      "duration_sec": 7.9,
+      "duration_frames": 474,
+      "word_count": 33
+    },
+    {
+      "scene_id": 104,
+      "abs_start_ms": 559280,
+      "abs_end_ms": 567300,
+      "duration_sec": 8.02,
+      "duration_frames": 481,
+      "word_count": 35
+    },
+    {
+      "scene_id": 105,
+      "abs_start_ms": 567300,
+      "abs_end_ms": 569660,
+      "duration_sec": 2.36,
+      "duration_frames": 142,
+      "word_count": 12
+    },
+    {
+      "scene_id": 106,
+      "abs_start_ms": 569660,
+      "abs_end_ms": 572140,
+      "duration_sec": 2.48,
+      "duration_frames": 149,
+      "word_count": 11
+    },
+    {
+      "scene_id": 107,
+      "abs_start_ms": 572140,
+      "abs_end_ms": 575000,
+      "duration_sec": 2.86,
+      "duration_frames": 172,
+      "word_count": 13
+    },
+    {
+      "scene_id": 108,
+      "abs_start_ms": 575000,
+      "abs_end_ms": 579580,
+      "duration_sec": 4.58,
+      "duration_frames": 275,
+      "word_count": 20
+    },
+    {
+      "scene_id": 109,
+      "abs_start_ms": 579580,
+      "abs_end_ms": 583580,
+      "duration_sec": 4.0,
+      "duration_frames": 240,
+      "word_count": 18
+    },
+    {
+      "scene_id": 110,
+      "abs_start_ms": 583580,
+      "abs_end_ms": 586460,
+      "duration_sec": 2.88,
+      "duration_frames": 173,
+      "word_count": 12
+    },
+    {
+      "scene_id": 111,
+      "abs_start_ms": 586460,
+      "abs_end_ms": 589920,
+      "duration_sec": 3.46,
+      "duration_frames": 208,
+      "word_count": 17
+    },
+    {
+      "scene_id": 112,
+      "abs_start_ms": 589920,
+      "abs_end_ms": 597840,
+      "duration_sec": 7.92,
+      "duration_frames": 475,
+      "word_count": 34
+    },
+    {
+      "scene_id": 113,
+      "abs_start_ms": 597840,
+      "abs_end_ms": 604180,
+      "duration_sec": 6.34,
+      "duration_frames": 380,
+      "word_count": 28
+    },
+    {
+      "scene_id": 114,
+      "abs_start_ms": 604180,
+      "abs_end_ms": 611700,
+      "duration_sec": 7.52,
+      "duration_frames": 451,
+      "word_count": 31
+    },
+    {
+      "scene_id": 115,
+      "abs_start_ms": 611700,
+      "abs_end_ms": 616600,
+      "duration_sec": 4.9,
+      "duration_frames": 294,
+      "word_count": 22
+    },
+    {
+      "scene_id": 116,
+      "abs_start_ms": 616600,
+      "abs_end_ms": 619780,
+      "duration_sec": 3.18,
+      "duration_frames": 191,
+      "word_count": 15
+    },
+    {
+      "scene_id": 117,
+      "abs_start_ms": 619780,
+      "abs_end_ms": 625440,
+      "duration_sec": 5.66,
+      "duration_frames": 340,
+      "word_count": 26
+    },
+    {
+      "scene_id": 118,
+      "abs_start_ms": 625440,
+      "abs_end_ms": 627540,
+      "duration_sec": 2.1,
+      "duration_frames": 126,
+      "word_count": 10
+    },
+    {
+      "scene_id": 119,
+      "abs_start_ms": 627540,
+      "abs_end_ms": 635320,
+      "duration_sec": 7.78,
+      "duration_frames": 467,
+      "word_count": 35
+    },
+    {
+      "scene_id": 120,
+      "abs_start_ms": 635320,
+      "abs_end_ms": 641440,
+      "duration_sec": 6.12,
+      "duration_frames": 367,
+      "word_count": 28
+    },
+    {
+      "scene_id": 121,
+      "abs_start_ms": 641440,
+      "abs_end_ms": 644640,
+      "duration_sec": 3.2,
+      "duration_frames": 192,
+      "word_count": 15
+    },
+    {
+      "scene_id": 122,
+      "abs_start_ms": 644640,
+      "abs_end_ms": 653440,
+      "duration_sec": 8.8,
+      "duration_frames": 528,
+      "word_count": 33
+    },
+    {
+      "scene_id": 123,
+      "abs_start_ms": 653440,
+      "abs_end_ms": 660040,
+      "duration_sec": 6.6,
+      "duration_frames": 396,
+      "word_count": 30
+    },
+    {
+      "scene_id": 124,
+      "abs_start_ms": 660040,
+      "abs_end_ms": 665020,
+      "duration_sec": 4.98,
+      "duration_frames": 299,
+      "word_count": 24
+    },
+    {
+      "scene_id": 125,
+      "abs_start_ms": 665020,
+      "abs_end_ms": 672040,
+      "duration_sec": 7.02,
+      "duration_frames": 421,
+      "word_count": 32
+    },
+    {
+      "scene_id": 126,
+      "abs_start_ms": 672040,
+      "abs_end_ms": 675340,
+      "duration_sec": 3.3,
+      "duration_frames": 198,
+      "word_count": 12
+    },
+    {
+      "scene_id": 127,
+      "abs_start_ms": 675340,
+      "abs_end_ms": 679500,
+      "duration_sec": 4.16,
+      "duration_frames": 250,
+      "word_count": 18
+    },
+    {
+      "scene_id": 128,
+      "abs_start_ms": 679500,
+      "abs_end_ms": 690260,
+      "duration_sec": 10.76,
+      "duration_frames": 646,
+      "word_count": 33
+    },
+    {
+      "scene_id": 129,
+      "abs_start_ms": 690260,
+      "abs_end_ms": 697760,
+      "duration_sec": 7.5,
+      "duration_frames": 450,
+      "word_count": 30
+    },
+    {
+      "scene_id": 130,
+      "abs_start_ms": 697760,
+      "abs_end_ms": 701320,
+      "duration_sec": 3.56,
+      "duration_frames": 214,
+      "word_count": 14
+    },
+    {
+      "scene_id": 131,
+      "abs_start_ms": 701320,
+      "abs_end_ms": 704400,
+      "duration_sec": 3.08,
+      "duration_frames": 185,
+      "word_count": 15
+    },
+    {
+      "scene_id": 132,
+      "abs_start_ms": 704400,
+      "abs_end_ms": 713840,
+      "duration_sec": 9.44,
+      "duration_frames": 566,
+      "word_count": 35
+    },
+    {
+      "scene_id": 133,
+      "abs_start_ms": 713840,
+      "abs_end_ms": 719780,
+      "duration_sec": 5.94,
+      "duration_frames": 356,
+      "word_count": 23
+    },
+    {
+      "scene_id": 134,
+      "abs_start_ms": 719780,
+      "abs_end_ms": 725920,
+      "duration_sec": 6.14,
+      "duration_frames": 368,
+      "word_count": 29
+    },
+    {
+      "scene_id": 135,
+      "abs_start_ms": 725920,
+      "abs_end_ms": 727680,
+      "duration_sec": 1.76,
+      "duration_frames": 106,
+      "word_count": 8
+    },
+    {
+      "scene_id": 136,
+      "abs_start_ms": 727680,
+      "abs_end_ms": 733920,
+      "duration_sec": 6.24,
+      "duration_frames": 374,
+      "word_count": 32
+    },
+    {
+      "scene_id": 137,
+      "abs_start_ms": 733920,
+      "abs_end_ms": 741960,
+      "duration_sec": 8.04,
+      "duration_frames": 482,
+      "word_count": 34
+    },
+    {
+      "scene_id": 138,
+      "abs_start_ms": 741960,
+      "abs_end_ms": 745360,
+      "duration_sec": 3.4,
+      "duration_frames": 204,
+      "word_count": 16
+    },
+    {
+      "scene_id": 139,
+      "abs_start_ms": 745360,
+      "abs_end_ms": 752880,
+      "duration_sec": 7.52,
+      "duration_frames": 451,
+      "word_count": 31
+    },
+    {
+      "scene_id": 140,
+      "abs_start_ms": 752880,
+      "abs_end_ms": 757500,
+      "duration_sec": 4.62,
+      "duration_frames": 277,
+      "word_count": 20
+    },
+    {
+      "scene_id": 141,
+      "abs_start_ms": 757500,
+      "abs_end_ms": 763400,
+      "duration_sec": 5.9,
+      "duration_frames": 354,
+      "word_count": 26
+    },
+    {
+      "scene_id": 142,
+      "abs_start_ms": 763400,
+      "abs_end_ms": 766460,
+      "duration_sec": 3.06,
+      "duration_frames": 184,
+      "word_count": 16
+    },
+    {
+      "scene_id": 143,
+      "abs_start_ms": 766460,
+      "abs_end_ms": 770520,
+      "duration_sec": 4.06,
+      "duration_frames": 244,
+      "word_count": 19
+    },
+    {
+      "scene_id": 144,
+      "abs_start_ms": 770520,
+      "abs_end_ms": 777620,
+      "duration_sec": 7.1,
+      "duration_frames": 426,
+      "word_count": 30
+    },
+    {
+      "scene_id": 145,
+      "abs_start_ms": 777620,
+      "abs_end_ms": 779940,
+      "duration_sec": 2.32,
+      "duration_frames": 139,
+      "word_count": 11
+    },
+    {
+      "scene_id": 146,
+      "abs_start_ms": 779940,
+      "abs_end_ms": 783380,
+      "duration_sec": 3.44,
+      "duration_frames": 206,
+      "word_count": 18
+    },
+    {
+      "scene_id": 147,
+      "abs_start_ms": 783380,
+      "abs_end_ms": 789080,
+      "duration_sec": 5.7,
+      "duration_frames": 342,
+      "word_count": 27
+    },
+    {
+      "scene_id": 148,
+      "abs_start_ms": 789080,
+      "abs_end_ms": 793540,
+      "duration_sec": 4.46,
+      "duration_frames": 268,
+      "word_count": 22
+    },
+    {
+      "scene_id": 149,
+      "abs_start_ms": 793540,
+      "abs_end_ms": 802340,
+      "duration_sec": 8.8,
+      "duration_frames": 528,
+      "word_count": 35
+    },
+    {
+      "scene_id": 150,
+      "abs_start_ms": 802340,
+      "abs_end_ms": 803020,
+      "duration_sec": 0.68,
+      "duration_frames": 41,
+      "word_count": 4
+    },
+    {
+      "scene_id": 151,
+      "abs_start_ms": 803020,
+      "abs_end_ms": 805260,
+      "duration_sec": 2.24,
+      "duration_frames": 134,
+      "word_count": 9
+    },
+    {
+      "scene_id": 152,
+      "abs_start_ms": 805260,
+      "abs_end_ms": 808280,
+      "duration_sec": 3.02,
+      "duration_frames": 181,
+      "word_count": 13
+    },
+    {
+      "scene_id": 153,
+      "abs_start_ms": 808280,
+      "abs_end_ms": 815580,
+      "duration_sec": 7.3,
+      "duration_frames": 438,
+      "word_count": 32
+    },
+    {
+      "scene_id": 154,
+      "abs_start_ms": 815580,
+      "abs_end_ms": 823440,
+      "duration_sec": 7.86,
+      "duration_frames": 472,
+      "word_count": 35
+    },
+    {
+      "scene_id": 155,
+      "abs_start_ms": 823440,
+      "abs_end_ms": 828240,
+      "duration_sec": 4.8,
+      "duration_frames": 288,
+      "word_count": 19
+    },
+    {
+      "scene_id": 156,
+      "abs_start_ms": 828240,
+      "abs_end_ms": 833900,
+      "duration_sec": 5.66,
+      "duration_frames": 340,
+      "word_count": 27
+    },
+    {
+      "scene_id": 157,
+      "abs_start_ms": 833900,
+      "abs_end_ms": 836740,
+      "duration_sec": 2.84,
+      "duration_frames": 170,
+      "word_count": 8
+    },
+    {
+      "scene_id": 158,
+      "abs_start_ms": 836740,
+      "abs_end_ms": 843600,
+      "duration_sec": 6.86,
+      "duration_frames": 412,
+      "word_count": 29
+    },
+    {
+      "scene_id": 159,
+      "abs_start_ms": 843600,
+      "abs_end_ms": 850660,
+      "duration_sec": 7.06,
+      "duration_frames": 424,
+      "word_count": 34
+    },
+    {
+      "scene_id": 160,
+      "abs_start_ms": 850660,
+      "abs_end_ms": 853180,
+      "duration_sec": 2.52,
+      "duration_frames": 151,
+      "word_count": 12
+    },
+    {
+      "scene_id": 161,
+      "abs_start_ms": 853180,
+      "abs_end_ms": 856140,
+      "duration_sec": 2.96,
+      "duration_frames": 178,
+      "word_count": 14
+    },
+    {
+      "scene_id": 162,
+      "abs_start_ms": 856140,
+      "abs_end_ms": 861920,
+      "duration_sec": 5.78,
+      "duration_frames": 347,
+      "word_count": 25
+    },
+    {
+      "scene_id": 163,
+      "abs_start_ms": 861920,
+      "abs_end_ms": 865660,
+      "duration_sec": 3.74,
+      "duration_frames": 224,
+      "word_count": 17
+    },
+    {
+      "scene_id": 164,
+      "abs_start_ms": 865660,
+      "abs_end_ms": 869800,
+      "duration_sec": 4.14,
+      "duration_frames": 248,
+      "word_count": 20
+    },
+    {
+      "scene_id": 165,
+      "abs_start_ms": 869800,
+      "abs_end_ms": 876120,
+      "duration_sec": 6.32,
+      "duration_frames": 379,
+      "word_count": 27
+    },
+    {
+      "scene_id": 166,
+      "abs_start_ms": 876120,
+      "abs_end_ms": 881980,
+      "duration_sec": 5.86,
+      "duration_frames": 352,
+      "word_count": 26
+    },
+    {
+      "scene_id": 167,
+      "abs_start_ms": 881980,
+      "abs_end_ms": 884920,
+      "duration_sec": 2.94,
+      "duration_frames": 176,
+      "word_count": 13
+    },
+    {
+      "scene_id": 168,
+      "abs_start_ms": 884920,
+      "abs_end_ms": 888200,
+      "duration_sec": 3.28,
+      "duration_frames": 197,
+      "word_count": 18
+    },
+    {
+      "scene_id": 169,
+      "abs_start_ms": 888200,
+      "abs_end_ms": 893760,
+      "duration_sec": 5.56,
+      "duration_frames": 334,
+      "word_count": 23
+    },
+    {
+      "scene_id": 170,
+      "abs_start_ms": 893760,
+      "abs_end_ms": 899100,
+      "duration_sec": 5.34,
+      "duration_frames": 320,
+      "word_count": 21
+    },
+    {
+      "scene_id": 171,
+      "abs_start_ms": 899100,
+      "abs_end_ms": 905660,
+      "duration_sec": 6.56,
+      "duration_frames": 394,
+      "word_count": 29
+    },
+    {
+      "scene_id": 172,
+      "abs_start_ms": 905660,
+      "abs_end_ms": 912580,
+      "duration_sec": 6.92,
+      "duration_frames": 415,
+      "word_count": 29
+    },
+    {
+      "scene_id": 173,
+      "abs_start_ms": 912580,
+      "abs_end_ms": 917780,
+      "duration_sec": 5.2,
+      "duration_frames": 312,
+      "word_count": 16
+    },
+    {
+      "scene_id": 174,
+      "abs_start_ms": 917780,
+      "abs_end_ms": 924600,
+      "duration_sec": 6.82,
+      "duration_frames": 409,
+      "word_count": 31
+    },
+    {
+      "scene_id": 175,
+      "abs_start_ms": 924600,
+      "abs_end_ms": 926100,
+      "duration_sec": 1.5,
+      "duration_frames": 90,
+      "word_count": 9
+    },
+    {
+      "scene_id": 176,
+      "abs_start_ms": 926100,
+      "abs_end_ms": 930140,
+      "duration_sec": 4.04,
+      "duration_frames": 242,
+      "word_count": 17
+    },
+    {
+      "scene_id": 177,
+      "abs_start_ms": 930140,
+      "abs_end_ms": 938680,
+      "duration_sec": 8.54,
+      "duration_frames": 512,
+      "word_count": 33
+    },
+    {
+      "scene_id": 178,
+      "abs_start_ms": 938680,
+      "abs_end_ms": 942420,
+      "duration_sec": 3.74,
+      "duration_frames": 224,
+      "word_count": 19
+    },
+    {
+      "scene_id": 179,
+      "abs_start_ms": 942420,
+      "abs_end_ms": 946920,
+      "duration_sec": 4.5,
+      "duration_frames": 270,
+      "word_count": 19
+    },
+    {
+      "scene_id": 180,
+      "abs_start_ms": 946920,
+      "abs_end_ms": 954780,
+      "duration_sec": 7.86,
+      "duration_frames": 472,
+      "word_count": 31
+    },
+    {
+      "scene_id": 181,
+      "abs_start_ms": 954780,
+      "abs_end_ms": 959720,
+      "duration_sec": 4.94,
+      "duration_frames": 296,
+      "word_count": 23
+    },
+    {
+      "scene_id": 182,
+      "abs_start_ms": 959720,
+      "abs_end_ms": 962540,
+      "duration_sec": 2.82,
+      "duration_frames": 169,
+      "word_count": 15
+    },
+    {
+      "scene_id": 183,
+      "abs_start_ms": 962540,
+      "abs_end_ms": 971400,
+      "duration_sec": 8.86,
+      "duration_frames": 532,
+      "word_count": 39
+    },
+    {
+      "scene_id": 184,
+      "abs_start_ms": 971400,
+      "abs_end_ms": 975940,
+      "duration_sec": 4.54,
+      "duration_frames": 272,
+      "word_count": 21
+    },
+    {
+      "scene_id": 185,
+      "abs_start_ms": 975940,
+      "abs_end_ms": 979360,
+      "duration_sec": 3.42,
+      "duration_frames": 205,
+      "word_count": 18
+    },
+    {
+      "scene_id": 186,
+      "abs_start_ms": 979360,
+      "abs_end_ms": 985320,
+      "duration_sec": 5.96,
+      "duration_frames": 358,
+      "word_count": 30
+    },
+    {
+      "scene_id": 187,
+      "abs_start_ms": 985320,
+      "abs_end_ms": 991120,
+      "duration_sec": 5.8,
+      "duration_frames": 348,
+      "word_count": 23
+    },
+    {
+      "scene_id": 188,
+      "abs_start_ms": 991120,
+      "abs_end_ms": 995320,
+      "duration_sec": 4.2,
+      "duration_frames": 252,
+      "word_count": 21
+    },
+    {
+      "scene_id": 189,
+      "abs_start_ms": 995320,
+      "abs_end_ms": 1001000,
+      "duration_sec": 5.68,
+      "duration_frames": 341,
+      "word_count": 25
+    },
+    {
+      "scene_id": 190,
+      "abs_start_ms": 1001000,
+      "abs_end_ms": 1004780,
+      "duration_sec": 3.78,
+      "duration_frames": 227,
+      "word_count": 19
+    },
+    {
+      "scene_id": 191,
+      "abs_start_ms": 1004780,
+      "abs_end_ms": 1008480,
+      "duration_sec": 3.7,
+      "duration_frames": 222,
+      "word_count": 18
+    },
+    {
+      "scene_id": 192,
+      "abs_start_ms": 1008480,
+      "abs_end_ms": 1011880,
+      "duration_sec": 3.4,
+      "duration_frames": 204,
+      "word_count": 14
+    },
+    {
+      "scene_id": 193,
+      "abs_start_ms": 1011880,
+      "abs_end_ms": 1015240,
+      "duration_sec": 3.36,
+      "duration_frames": 202,
+      "word_count": 18
+    },
+    {
+      "scene_id": 194,
+      "abs_start_ms": 1015240,
+      "abs_end_ms": 1018060,
+      "duration_sec": 2.82,
+      "duration_frames": 169,
+      "word_count": 13
+    },
+    {
+      "scene_id": 195,
+      "abs_start_ms": 1018060,
+      "abs_end_ms": 1023280,
+      "duration_sec": 5.22,
+      "duration_frames": 313,
+      "word_count": 22
+    },
+    {
+      "scene_id": 196,
+      "abs_start_ms": 1023280,
+      "abs_end_ms": 1028400,
+      "duration_sec": 5.12,
+      "duration_frames": 307,
+      "word_count": 26
+    },
+    {
+      "scene_id": 197,
+      "abs_start_ms": 1028400,
+      "abs_end_ms": 1043300,
+      "duration_sec": 14.9,
+      "duration_frames": 894,
+      "word_count": 11
+    }
+  ]
+}

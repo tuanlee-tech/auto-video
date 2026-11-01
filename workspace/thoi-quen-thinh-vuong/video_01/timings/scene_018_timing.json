@@ -1,0 +1,163 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 18,
+  "abs_start_ms": 91940,
+  "abs_end_ms": 98780,
+  "duration_ms": 6840,
+  "word_count": 30,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Và",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "quan",
+      "start_ms": 140,
+      "end_ms": 320
+    },
+    {
+      "word": "trọng",
+      "start_ms": 860,
+      "end_ms": 960
+    },
+    {
+      "word": "hơn,tôi",
+      "start_ms": 960,
+      "end_ms": 1100
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 1100,
+      "end_ms": 1320
+    },
+    {
+      "word": "chia",
+      "start_ms": 1320,
+      "end_ms": 1520
+    },
+    {
+      "word": "sẻ",
+      "start_ms": 1960,
+      "end_ms": 2040
+    },
+    {
+      "word": "với",
+      "start_ms": 2040,
+      "end_ms": 2200
+    },
+    {
+      "word": "bạn",
+      "start_ms": 2200,
+      "end_ms": 2340
+    },
+    {
+      "word": "5",
+      "start_ms": 2340,
+      "end_ms": 2580
+    },
+    {
+      "word": "nguyên",
+      "start_ms": 2580,
+      "end_ms": 2700
+    },
+    {
+      "word": "tắc",
+      "start_ms": 2700,
+      "end_ms": 2900
+    },
+    {
+      "word": "hệ",
+      "start_ms": 2900,
+      "end_ms": 3120
+    },
+    {
+      "word": "thống",
+      "start_ms": 3120,
+      "end_ms": 3260
+    },
+    {
+      "word": "chuẩn",
+      "start_ms": 3260,
+      "end_ms": 3520
+    },
+    {
+      "word": "khoa",
+      "start_ms": 3520,
+      "end_ms": 3620
+    },
+    {
+      "word": "học,giúp",
+      "start_ms": 3620,
+      "end_ms": 3800
+    },
+    {
+      "word": "bạn",
+      "start_ms": 3800,
+      "end_ms": 3980
+    },
+    {
+      "word": "thiết",
+      "start_ms": 3980,
+      "end_ms": 4260
+    },
+    {
+      "word": "lập",
+      "start_ms": 4260,
+      "end_ms": 4440
+    },
+    {
+      "word": "một",
+      "start_ms": 5000,
+      "end_ms": 5120
+    },
+    {
+      "word": "chế",
+      "start_ms": 5120,
+      "end_ms": 5280
+    },
+    {
+      "word": "độ",
+      "start_ms": 5280,
+      "end_ms": 5480
+    },
+    {
+      "word": "tự",
+      "start_ms": 5480,
+      "end_ms": 5660
+    },
+    {
+      "word": "động",
+      "start_ms": 5660,
+      "end_ms": 5820
+    },
+    {
+      "word": "hóa",
+      "start_ms": 5820,
+      "end_ms": 5980
+    },
+    {
+      "word": "dòng",
+      "start_ms": 5980,
+      "end_ms": 6100
+    },
+    {
+      "word": "tiền",
+      "start_ms": 6100,
+      "end_ms": 6340
+    },
+    {
+      "word": "hoàn",
+      "start_ms": 6340,
+      "end_ms": 6500
+    },
+    {
+      "word": "toàn",
+      "start_ms": 6500,
+      "end_ms": 6840
+    }
+  ],
+  "aligned_with_script": true
+}

@@ -1,0 +1,143 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 141,
+  "abs_start_ms": 757500,
+  "abs_end_ms": 763400,
+  "duration_ms": 5900,
+  "word_count": 26,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "bạn",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "CÓ",
+      "start_ms": 200,
+      "end_ms": 280
+    },
+    {
+      "word": "TOÀN",
+      "start_ms": 280,
+      "end_ms": 440
+    },
+    {
+      "word": "QUYỀN",
+      "start_ms": 440,
+      "end_ms": 940
+    },
+    {
+      "word": "TIÊU",
+      "start_ms": 940,
+      "end_ms": 1060
+    },
+    {
+      "word": "SẠCH",
+      "start_ms": 1060,
+      "end_ms": 1200
+    },
+    {
+      "word": "ĐẾN",
+      "start_ms": 1200,
+      "end_ms": 1440
+    },
+    {
+      "word": "ĐỒNG",
+      "start_ms": 1440,
+      "end_ms": 1780
+    },
+    {
+      "word": "XU",
+      "start_ms": 1780,
+      "end_ms": 1940
+    },
+    {
+      "word": "CUỐI",
+      "start_ms": 1940,
+      "end_ms": 2120
+    },
+    {
+      "word": "CÙNG",
+      "start_ms": 2120,
+      "end_ms": 2300
+    },
+    {
+      "word": "mà",
+      "start_ms": 2300,
+      "end_ms": 2480
+    },
+    {
+      "word": "không",
+      "start_ms": 2480,
+      "end_ms": 2580
+    },
+    {
+      "word": "cần",
+      "start_ms": 2580,
+      "end_ms": 2780
+    },
+    {
+      "word": "phải",
+      "start_ms": 2780,
+      "end_ms": 3020
+    },
+    {
+      "word": "mang",
+      "start_ms": 3600,
+      "end_ms": 3680
+    },
+    {
+      "word": "theo",
+      "start_ms": 3680,
+      "end_ms": 3820
+    },
+    {
+      "word": "bất",
+      "start_ms": 3820,
+      "end_ms": 3980
+    },
+    {
+      "word": "kỳ",
+      "start_ms": 3980,
+      "end_ms": 4120
+    },
+    {
+      "word": "một",
+      "start_ms": 4120,
+      "end_ms": 4340
+    },
+    {
+      "word": "chút",
+      "start_ms": 4340,
+      "end_ms": 4560
+    },
+    {
+      "word": "cảm",
+      "start_ms": 4560,
+      "end_ms": 4740
+    },
+    {
+      "word": "giác",
+      "start_ms": 4740,
+      "end_ms": 4940
+    },
+    {
+      "word": "tội",
+      "start_ms": 4940,
+      "end_ms": 5020
+    },
+    {
+      "word": "lỗi",
+      "start_ms": 5000,
+      "end_ms": 5180
+    },
+    {
+      "word": "nào.",
+      "start_ms": 5180,
+      "end_ms": 5440
+    }
+  ],
+  "aligned_with_script": true
+}

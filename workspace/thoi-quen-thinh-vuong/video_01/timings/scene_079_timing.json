@@ -1,0 +1,88 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 79,
+  "abs_start_ms": 408280,
+  "abs_end_ms": 412500,
+  "duration_ms": 4220,
+  "word_count": 15,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "khả",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "năng",
+      "start_ms": 200,
+      "end_ms": 400
+    },
+    {
+      "word": "kiểm",
+      "start_ms": 980,
+      "end_ms": 1140
+    },
+    {
+      "word": "soát",
+      "start_ms": 1140,
+      "end_ms": 1280
+    },
+    {
+      "word": "lý",
+      "start_ms": 1280,
+      "end_ms": 1400
+    },
+    {
+      "word": "trí",
+      "start_ms": 1400,
+      "end_ms": 1740
+    },
+    {
+      "word": "của",
+      "start_ms": 1740,
+      "end_ms": 1960
+    },
+    {
+      "word": "con",
+      "start_ms": 1960,
+      "end_ms": 2060
+    },
+    {
+      "word": "người",
+      "start_ms": 2060,
+      "end_ms": 2200
+    },
+    {
+      "word": "bị",
+      "start_ms": 2200,
+      "end_ms": 2680
+    },
+    {
+      "word": "sụt",
+      "start_ms": 2680,
+      "end_ms": 3420
+    },
+    {
+      "word": "giảm",
+      "start_ms": 3420,
+      "end_ms": 3660
+    },
+    {
+      "word": "tới",
+      "start_ms": 3660,
+      "end_ms": 3880
+    },
+    {
+      "word": "hơn",
+      "start_ms": 3880,
+      "end_ms": 4040
+    },
+    {
+      "word": "50%.",
+      "start_ms": 4040,
+      "end_ms": 4220
+    }
+  ],
+  "aligned_with_script": true
+}

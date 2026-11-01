@@ -1,0 +1,88 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 39,
+  "abs_start_ms": 198320,
+  "abs_end_ms": 201760,
+  "duration_ms": 3440,
+  "word_count": 15,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Và",
+      "start_ms": 0,
+      "end_ms": 300
+    },
+    {
+      "word": "trong",
+      "start_ms": 300,
+      "end_ms": 500
+    },
+    {
+      "word": "cuộc",
+      "start_ms": 960,
+      "end_ms": 1040
+    },
+    {
+      "word": "chiến",
+      "start_ms": 1020,
+      "end_ms": 1180
+    },
+    {
+      "word": "đó,",
+      "start_ms": 1180,
+      "end_ms": 1420
+    },
+    {
+      "word": "ý",
+      "start_ms": 1420,
+      "end_ms": 1540
+    },
+    {
+      "word": "chí",
+      "start_ms": 1540,
+      "end_ms": 1800
+    },
+    {
+      "word": "của",
+      "start_ms": 1800,
+      "end_ms": 2080
+    },
+    {
+      "word": "bạn",
+      "start_ms": 2080,
+      "end_ms": 2240
+    },
+    {
+      "word": "chắc",
+      "start_ms": 2240,
+      "end_ms": 2400
+    },
+    {
+      "word": "chắn",
+      "start_ms": 2400,
+      "end_ms": 2660
+    },
+    {
+      "word": "là",
+      "start_ms": 2660,
+      "end_ms": 2800
+    },
+    {
+      "word": "bên",
+      "start_ms": 2800,
+      "end_ms": 3000
+    },
+    {
+      "word": "thất",
+      "start_ms": 3000,
+      "end_ms": 3200
+    },
+    {
+      "word": "bại.",
+      "start_ms": 3200,
+      "end_ms": 3440
+    }
+  ],
+  "aligned_with_script": true
+}

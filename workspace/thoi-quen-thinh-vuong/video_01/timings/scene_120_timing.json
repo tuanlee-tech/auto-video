@@ -1,0 +1,153 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 120,
+  "abs_start_ms": 635320,
+  "abs_end_ms": 641440,
+  "duration_ms": 6120,
+  "word_count": 28,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Khoản",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "tiền",
+      "start_ms": 700,
+      "end_ms": 780
+    },
+    {
+      "word": "này",
+      "start_ms": 760,
+      "end_ms": 900
+    },
+    {
+      "word": "phải",
+      "start_ms": 900,
+      "end_ms": 1000
+    },
+    {
+      "word": "được",
+      "start_ms": 1000,
+      "end_ms": 1220
+    },
+    {
+      "word": "đặt",
+      "start_ms": 1580,
+      "end_ms": 1660
+    },
+    {
+      "word": "ở",
+      "start_ms": 1660,
+      "end_ms": 1840
+    },
+    {
+      "word": "một",
+      "start_ms": 1840,
+      "end_ms": 1960
+    },
+    {
+      "word": "nơi",
+      "start_ms": 1960,
+      "end_ms": 2120
+    },
+    {
+      "word": "an",
+      "start_ms": 2120,
+      "end_ms": 2300
+    },
+    {
+      "word": "toàn",
+      "start_ms": 2300,
+      "end_ms": 2580
+    },
+    {
+      "word": "tuyệt",
+      "start_ms": 2580,
+      "end_ms": 2820
+    },
+    {
+      "word": "đối,",
+      "start_ms": 2820,
+      "end_ms": 3020
+    },
+    {
+      "word": "thanh",
+      "start_ms": 3020,
+      "end_ms": 3220
+    },
+    {
+      "word": "khoản",
+      "start_ms": 3220,
+      "end_ms": 3360
+    },
+    {
+      "word": "cao,",
+      "start_ms": 3360,
+      "end_ms": 3560
+    },
+    {
+      "word": "và",
+      "start_ms": 3560,
+      "end_ms": 3980
+    },
+    {
+      "word": "không",
+      "start_ms": 3980,
+      "end_ms": 4120
+    },
+    {
+      "word": "bao",
+      "start_ms": 4120,
+      "end_ms": 4260
+    },
+    {
+      "word": "giờ",
+      "start_ms": 4260,
+      "end_ms": 4480
+    },
+    {
+      "word": "được",
+      "start_ms": 4480,
+      "end_ms": 4580
+    },
+    {
+      "word": "phép",
+      "start_ms": 4580,
+      "end_ms": 4760
+    },
+    {
+      "word": "mang",
+      "start_ms": 4760,
+      "end_ms": 5020
+    },
+    {
+      "word": "đi",
+      "start_ms": 5020,
+      "end_ms": 5220
+    },
+    {
+      "word": "đầu",
+      "start_ms": 5220,
+      "end_ms": 5420
+    },
+    {
+      "word": "tư",
+      "start_ms": 5420,
+      "end_ms": 5680
+    },
+    {
+      "word": "mạo",
+      "start_ms": 5680,
+      "end_ms": 5880
+    },
+    {
+      "word": "hiểm.",
+      "start_ms": 5880,
+      "end_ms": 6120
+    }
+  ],
+  "aligned_with_script": true
+}

@@ -1,0 +1,98 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 34,
+  "abs_start_ms": 173040,
+  "abs_end_ms": 176200,
+  "duration_ms": 3160,
+  "word_count": 17,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "bạn",
+      "start_ms": 0,
+      "end_ms": 140
+    },
+    {
+      "word": "lại",
+      "start_ms": 140,
+      "end_ms": 240
+    },
+    {
+      "word": "bùng",
+      "start_ms": 240,
+      "end_ms": 460
+    },
+    {
+      "word": "nổ",
+      "start_ms": 460,
+      "end_ms": 580
+    },
+    {
+      "word": "trong",
+      "start_ms": 580,
+      "end_ms": 780
+    },
+    {
+      "word": "những",
+      "start_ms": 780,
+      "end_ms": 940
+    },
+    {
+      "word": "cơn",
+      "start_ms": 940,
+      "end_ms": 1080
+    },
+    {
+      "word": "mua",
+      "start_ms": 1080,
+      "end_ms": 1380
+    },
+    {
+      "word": "sắm",
+      "start_ms": 1380,
+      "end_ms": 1620
+    },
+    {
+      "word": "trả",
+      "start_ms": 1620,
+      "end_ms": 1740
+    },
+    {
+      "word": "đũa",
+      "start_ms": 1740,
+      "end_ms": 1900
+    },
+    {
+      "word": "(Revenge",
+      "start_ms": 1900,
+      "end_ms": 2140
+    },
+    {
+      "word": "Spending)",
+      "start_ms": 2140,
+      "end_ms": 2260
+    },
+    {
+      "word": "không",
+      "start_ms": 2260,
+      "end_ms": 2560
+    },
+    {
+      "word": "thể",
+      "start_ms": 2560,
+      "end_ms": 2760
+    },
+    {
+      "word": "cưỡng",
+      "start_ms": 2760,
+      "end_ms": 2980
+    },
+    {
+      "word": "lại.",
+      "start_ms": 2980,
+      "end_ms": 3160
+    }
+  ],
+  "aligned_with_script": true
+}

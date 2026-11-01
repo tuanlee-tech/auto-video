@@ -1,0 +1,168 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 174,
+  "abs_start_ms": 917780,
+  "abs_end_ms": 924600,
+  "duration_ms": 6820,
+  "word_count": 31,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Quy",
+      "start_ms": 0,
+      "end_ms": 80
+    },
+    {
+      "word": "tắc",
+      "start_ms": 80,
+      "end_ms": 240
+    },
+    {
+      "word": "một:NẾU",
+      "start_ms": 240,
+      "end_ms": 440
+    },
+    {
+      "word": "tôi",
+      "start_ms": 440,
+      "end_ms": 700
+    },
+    {
+      "word": "nhận",
+      "start_ms": 700,
+      "end_ms": 840
+    },
+    {
+      "word": "được",
+      "start_ms": 840,
+      "end_ms": 1020
+    },
+    {
+      "word": "một",
+      "start_ms": 1020,
+      "end_ms": 1240
+    },
+    {
+      "word": "khoản",
+      "start_ms": 1240,
+      "end_ms": 1440
+    },
+    {
+      "word": "tiền",
+      "start_ms": 1440,
+      "end_ms": 1580
+    },
+    {
+      "word": "thưởng,tiền",
+      "start_ms": 1580,
+      "end_ms": 1680
+    },
+    {
+      "word": "làm",
+      "start_ms": 1680,
+      "end_ms": 1900
+    },
+    {
+      "word": "thêm",
+      "start_ms": 1900,
+      "end_ms": 2280
+    },
+    {
+      "word": "ngoài",
+      "start_ms": 2720,
+      "end_ms": 2840
+    },
+    {
+      "word": "dự",
+      "start_ms": 2840,
+      "end_ms": 3040
+    },
+    {
+      "word": "kiến,THÌ",
+      "start_ms": 3040,
+      "end_ms": 3280
+    },
+    {
+      "word": "ngay",
+      "start_ms": 3280,
+      "end_ms": 3500
+    },
+    {
+      "word": "lập",
+      "start_ms": 3500,
+      "end_ms": 3660
+    },
+    {
+      "word": "tức",
+      "start_ms": 3660,
+      "end_ms": 3880
+    },
+    {
+      "word": "70%",
+      "start_ms": 3880,
+      "end_ms": 4160
+    },
+    {
+      "word": "số",
+      "start_ms": 4160,
+      "end_ms": 4420
+    },
+    {
+      "word": "tiền",
+      "start_ms": 4420,
+      "end_ms": 4520
+    },
+    {
+      "word": "đó",
+      "start_ms": 4520,
+      "end_ms": 4740
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 4740,
+      "end_ms": 4840
+    },
+    {
+      "word": "chuyển",
+      "start_ms": 4840,
+      "end_ms": 5080
+    },
+    {
+      "word": "thẳng",
+      "start_ms": 5520,
+      "end_ms": 5720
+    },
+    {
+      "word": "vào",
+      "start_ms": 5720,
+      "end_ms": 5860
+    },
+    {
+      "word": "Quỹ",
+      "start_ms": 5860,
+      "end_ms": 6020
+    },
+    {
+      "word": "đầu",
+      "start_ms": 6020,
+      "end_ms": 6180
+    },
+    {
+      "word": "tư",
+      "start_ms": 6180,
+      "end_ms": 6320
+    },
+    {
+      "word": "dài",
+      "start_ms": 6320,
+      "end_ms": 6560
+    },
+    {
+      "word": "hạn",
+      "start_ms": 6560,
+      "end_ms": 6820
+    }
+  ],
+  "aligned_with_script": true
+}

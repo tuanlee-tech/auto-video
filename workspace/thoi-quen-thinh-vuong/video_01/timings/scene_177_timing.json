@@ -1,0 +1,178 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 177,
+  "abs_start_ms": 930140,
+  "abs_end_ms": 938680,
+  "duration_ms": 8540,
+  "word_count": 33,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "THÌ",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "tôi",
+      "start_ms": 200,
+      "end_ms": 400
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 400,
+      "end_ms": 534
+    },
+    {
+      "word": "giữ",
+      "start_ms": 534,
+      "end_ms": 734
+    },
+    {
+      "word": "nguyên",
+      "start_ms": 734,
+      "end_ms": 1134
+    },
+    {
+      "word": "mức",
+      "start_ms": 1134,
+      "end_ms": 1334
+    },
+    {
+      "word": "sống",
+      "start_ms": 1334,
+      "end_ms": 1601
+    },
+    {
+      "word": "của",
+      "start_ms": 1601,
+      "end_ms": 1801
+    },
+    {
+      "word": "Con",
+      "start_ms": 1801,
+      "end_ms": 2002
+    },
+    {
+      "word": "số",
+      "start_ms": 2002,
+      "end_ms": 2135
+    },
+    {
+      "word": "vận",
+      "start_ms": 2135,
+      "end_ms": 2335
+    },
+    {
+      "word": "hành",
+      "start_ms": 2335,
+      "end_ms": 2602
+    },
+    {
+      "word": "tối",
+      "start_ms": 2602,
+      "end_ms": 2802
+    },
+    {
+      "word": "thiểu",
+      "start_ms": 2802,
+      "end_ms": 3136
+    },
+    {
+      "word": "trong",
+      "start_ms": 3136,
+      "end_ms": 3469
+    },
+    {
+      "word": "ít",
+      "start_ms": 3469,
+      "end_ms": 3603
+    },
+    {
+      "word": "nhất",
+      "start_ms": 3603,
+      "end_ms": 3870
+    },
+    {
+      "word": "6",
+      "start_ms": 3870,
+      "end_ms": 4003
+    },
+    {
+      "word": "tháng",
+      "start_ms": 4003,
+      "end_ms": 4337
+    },
+    {
+      "word": "tiếp",
+      "start_ms": 4337,
+      "end_ms": 4604
+    },
+    {
+      "word": "theo,để",
+      "start_ms": 4604,
+      "end_ms": 5004
+    },
+    {
+      "word": "triệt",
+      "start_ms": 5004,
+      "end_ms": 5338
+    },
+    {
+      "word": "tiêu",
+      "start_ms": 5338,
+      "end_ms": 5604
+    },
+    {
+      "word": "hoàn",
+      "start_ms": 5604,
+      "end_ms": 5871
+    },
+    {
+      "word": "toàn",
+      "start_ms": 5871,
+      "end_ms": 6138
+    },
+    {
+      "word": "căn",
+      "start_ms": 6138,
+      "end_ms": 6338
+    },
+    {
+      "word": "bệnh",
+      "start_ms": 6338,
+      "end_ms": 6605
+    },
+    {
+      "word": "Lối",
+      "start_ms": 6605,
+      "end_ms": 6805
+    },
+    {
+      "word": "sống",
+      "start_ms": 6805,
+      "end_ms": 7072
+    },
+    {
+      "word": "leo",
+      "start_ms": 7072,
+      "end_ms": 7272
+    },
+    {
+      "word": "thang",
+      "start_ms": 7272,
+      "end_ms": 7606
+    },
+    {
+      "word": "(Lifestyle",
+      "start_ms": 7606,
+      "end_ms": 8206
+    },
+    {
+      "word": "Creep).",
+      "start_ms": 8206,
+      "end_ms": 8540
+    }
+  ],
+  "aligned_with_script": true
+}

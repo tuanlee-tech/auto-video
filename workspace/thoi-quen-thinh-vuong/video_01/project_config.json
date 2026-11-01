@@ -1,0 +1,20 @@
+{
+  "project_name": "video_01",
+  "channel_id": "thoi-quen-thinh-vuong",
+  "project_dir": "e:/auto-video/workspace/thoi-quen-thinh-vuong/video_01",
+  "voice_name": "Hải Đăng",
+  "fps": 60,
+  "width": 1920,
+  "height": 1080,
+  "aspect_ratio": "16:9",
+  "min_beat_duration": 2.5,
+  "max_beat_duration": 5.5,
+  "bgm_file": "deep_contemplative.wav",
+  "bgm_mode": "dual",
+  "bgm_track_1": "deep_contemplative.wav",
+  "bgm_track_2": "hopeful_awakening.wav",
+  "bgm_transition_scene_id": 40,
+  "bgm_volume_ducked": 0.08,
+  "bgm_volume_normal": 0.22,
+  "character_name": "stickman"
+}

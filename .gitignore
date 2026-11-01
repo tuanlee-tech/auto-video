@@ -18,6 +18,7 @@ __pycache__/
 *.mov
 workspace/**/out/
 workspace/**/videos/*.mp4
+workspace/**/audio/*.wav
 
 # Python environments
 venv/

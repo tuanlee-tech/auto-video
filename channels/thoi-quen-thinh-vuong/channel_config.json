@@ -1,0 +1,36 @@
+{
+  "channel_id": "thoi-quen-thinh-vuong",
+  "name": "Thói Quen Thịnh Vượng (@thoi-quen-thinh-vuong)",
+  "slogan": "Hành động nhỏ, Tự chủ lớn",
+  "secondary_slogan": "Xây dựng hệ thống, Chinh phục tự do",
+  "description": "Kênh khoa học thần kinh & tâm lý học hành vi ứng dụng vào tài chính cá nhân và lối sống tự chủ. Hành động nhỏ, nhất quán hàng ngày để tạo dựng sự tự chủ tài chính và tự do cuộc sống.",
+  "aspect_ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "default_voice": "Hải Đăng",
+  "character_tag": "@stickman",
+  "character_reference_image": "characters/stickman_master.png",
+  "wardrobe_rule": "10-Outfit Collection (GEMINI.md)",
+  "art_style": "Simple Ways of Life: 2D Cel-shaded doodle stickman, bold black ink outlines, clean white paper canvas background, yellow highlighter text accents, high contrast",
+  "lighting_style": "Cinematic Hybrid: Cold teal-gray shadows for problems, warm amber glow for solutions",
+  "content_pillars": [
+    "Thói Quen Quản Lý Dòng Tiền (Financial Micro-Habits)",
+    "Tâm Lý Học Hành Vi & Khoa Học Thần Kinh (Behavioral Neuroscience)",
+    "Thiết Lập Cuộc Sống Tự Động (Autopilot Living)"
+  ],
+  "intro_welcome_patterns": [
+    "Hôm nay, hãy cùng {channel_name} giải mã {topic} ngay sau đây.",
+    "Xin chào, tôi là {character_name} từ {channel_name}. Hôm nay tôi sẽ cùng bạn bóc tách từng bước...",
+    "Chào mừng bạn quay trở lại với {channel_name} – nơi chúng ta biến những hành động nhỏ thành sự tự chủ lớn.",
+    "Nếu bạn đã sẵn sàng xây dựng hệ thống tự động, chào mừng bạn đến với {channel_name}."
+  ],
+  "outro_catchphrase": "Hành động nhỏ, nhất quán hàng ngày để tạo dựng sự tự chủ tài chính và tự do cuộc sống. Keep learning, keep growing, and keep it simple.",
+  "prohibitions": {
+    "silent_video": true,
+    "no_character_speech": true,
+    "no_background_music": true,
+    "no_watermarks": true,
+    "no_text_overlays": true
+  }
+}

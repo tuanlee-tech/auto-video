@@ -1,0 +1,128 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 24,
+  "abs_start_ms": 124340,
+  "abs_end_ms": 130420,
+  "duration_ms": 6080,
+  "word_count": 23,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Họ",
+      "start_ms": 0,
+      "end_ms": 340
+    },
+    {
+      "word": "phát",
+      "start_ms": 340,
+      "end_ms": 440
+    },
+    {
+      "word": "hiện",
+      "start_ms": 440,
+      "end_ms": 640
+    },
+    {
+      "word": "ra",
+      "start_ms": 640,
+      "end_ms": 900
+    },
+    {
+      "word": "rằng:Khi",
+      "start_ms": 1300,
+      "end_ms": 1380
+    },
+    {
+      "word": "một",
+      "start_ms": 1340,
+      "end_ms": 1520
+    },
+    {
+      "word": "người",
+      "start_ms": 1520,
+      "end_ms": 1980
+    },
+    {
+      "word": "liên",
+      "start_ms": 1980,
+      "end_ms": 2320
+    },
+    {
+      "word": "tục",
+      "start_ms": 2860,
+      "end_ms": 2940
+    },
+    {
+      "word": "rơi",
+      "start_ms": 2940,
+      "end_ms": 3100
+    },
+    {
+      "word": "vào",
+      "start_ms": 3100,
+      "end_ms": 3200
+    },
+    {
+      "word": "trạng",
+      "start_ms": 3200,
+      "end_ms": 3420
+    },
+    {
+      "word": "thái",
+      "start_ms": 3420,
+      "end_ms": 3680
+    },
+    {
+      "word": "thiếu",
+      "start_ms": 3680,
+      "end_ms": 4280
+    },
+    {
+      "word": "thốn,dù",
+      "start_ms": 4280,
+      "end_ms": 4440
+    },
+    {
+      "word": "là",
+      "start_ms": 4440,
+      "end_ms": 4640
+    },
+    {
+      "word": "thiếu",
+      "start_ms": 4640,
+      "end_ms": 4820
+    },
+    {
+      "word": "thời",
+      "start_ms": 4820,
+      "end_ms": 5040
+    },
+    {
+      "word": "gian",
+      "start_ms": 5040,
+      "end_ms": 5300
+    },
+    {
+      "word": "hay",
+      "start_ms": 5300,
+      "end_ms": 5440
+    },
+    {
+      "word": "thiếu",
+      "start_ms": 5440,
+      "end_ms": 5660
+    },
+    {
+      "word": "tiền",
+      "start_ms": 5660,
+      "end_ms": 5820
+    },
+    {
+      "word": "bạc",
+      "start_ms": 5820,
+      "end_ms": 6080
+    }
+  ],
+  "aligned_with_script": true
+}

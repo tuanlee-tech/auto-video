@@ -1,0 +1,98 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 102,
+  "abs_start_ms": 547760,
+  "abs_end_ms": 551380,
+  "duration_ms": 3620,
+  "word_count": 17,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Bạn",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "không",
+      "start_ms": 200,
+      "end_ms": 380
+    },
+    {
+      "word": "thể",
+      "start_ms": 380,
+      "end_ms": 600
+    },
+    {
+      "word": "quản",
+      "start_ms": 1000,
+      "end_ms": 1080
+    },
+    {
+      "word": "lý",
+      "start_ms": 1080,
+      "end_ms": 1280
+    },
+    {
+      "word": "một",
+      "start_ms": 1280,
+      "end_ms": 1420
+    },
+    {
+      "word": "thứ",
+      "start_ms": 1420,
+      "end_ms": 1600
+    },
+    {
+      "word": "mà",
+      "start_ms": 1600,
+      "end_ms": 1800
+    },
+    {
+      "word": "bạn",
+      "start_ms": 2180,
+      "end_ms": 2260
+    },
+    {
+      "word": "không",
+      "start_ms": 2240,
+      "end_ms": 2400
+    },
+    {
+      "word": "thể",
+      "start_ms": 2400,
+      "end_ms": 2520
+    },
+    {
+      "word": "đo",
+      "start_ms": 2520,
+      "end_ms": 2620
+    },
+    {
+      "word": "lường",
+      "start_ms": 2620,
+      "end_ms": 2900
+    },
+    {
+      "word": "một",
+      "start_ms": 2900,
+      "end_ms": 3120
+    },
+    {
+      "word": "cách",
+      "start_ms": 3120,
+      "end_ms": 3320
+    },
+    {
+      "word": "chính",
+      "start_ms": 3320,
+      "end_ms": 3520
+    },
+    {
+      "word": "xác.",
+      "start_ms": 3520,
+      "end_ms": 3620
+    }
+  ],
+  "aligned_with_script": true
+}

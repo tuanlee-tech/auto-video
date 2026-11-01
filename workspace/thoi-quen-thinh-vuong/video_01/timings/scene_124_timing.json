@@ -1,0 +1,133 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 124,
+  "abs_start_ms": 660040,
+  "abs_end_ms": 665020,
+  "duration_ms": 4980,
+  "word_count": 24,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Điều",
+      "start_ms": 0,
+      "end_ms": 120
+    },
+    {
+      "word": "thứ",
+      "start_ms": 120,
+      "end_ms": 300
+    },
+    {
+      "word": "tư:",
+      "start_ms": 300,
+      "end_ms": 420
+    },
+    {
+      "word": "Triển",
+      "start_ms": 420,
+      "end_ms": 620
+    },
+    {
+      "word": "khai",
+      "start_ms": 620,
+      "end_ms": 720
+    },
+    {
+      "word": "triệt",
+      "start_ms": 720,
+      "end_ms": 900
+    },
+    {
+      "word": "để",
+      "start_ms": 900,
+      "end_ms": 1080
+    },
+    {
+      "word": "\"Quy",
+      "start_ms": 1740,
+      "end_ms": 1860
+    },
+    {
+      "word": "tắc",
+      "start_ms": 1860,
+      "end_ms": 1980
+    },
+    {
+      "word": "Hai",
+      "start_ms": 1980,
+      "end_ms": 2200
+    },
+    {
+      "word": "Chiếc",
+      "start_ms": 2200,
+      "end_ms": 2340
+    },
+    {
+      "word": "Hộp\"",
+      "start_ms": 2340,
+      "end_ms": 2500
+    },
+    {
+      "word": "(The",
+      "start_ms": 2500,
+      "end_ms": 2660
+    },
+    {
+      "word": "Two-Box",
+      "start_ms": 2660,
+      "end_ms": 2860
+    },
+    {
+      "word": "System)",
+      "start_ms": 2860,
+      "end_ms": 3000
+    },
+    {
+      "word": "để",
+      "start_ms": 3000,
+      "end_ms": 3240
+    },
+    {
+      "word": "tiêu",
+      "start_ms": 3240,
+      "end_ms": 3440
+    },
+    {
+      "word": "tiền",
+      "start_ms": 3440,
+      "end_ms": 3680
+    },
+    {
+      "word": "không",
+      "start_ms": 4120,
+      "end_ms": 4220
+    },
+    {
+      "word": "còn",
+      "start_ms": 4220,
+      "end_ms": 4360
+    },
+    {
+      "word": "cảm",
+      "start_ms": 4360,
+      "end_ms": 4540
+    },
+    {
+      "word": "giác",
+      "start_ms": 4540,
+      "end_ms": 4700
+    },
+    {
+      "word": "tội",
+      "start_ms": 4700,
+      "end_ms": 4860
+    },
+    {
+      "word": "lỗi.",
+      "start_ms": 4860,
+      "end_ms": 4980
+    }
+  ],
+  "aligned_with_script": true
+}

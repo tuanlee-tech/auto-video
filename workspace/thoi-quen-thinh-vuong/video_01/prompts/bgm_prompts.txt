@@ -1,0 +1,9 @@
+# AUTO VIDEO STUDIO - AI BGM GENERATION PROMPTS (MusicFX / MusicGen)
+
+[PART 1 - OPENING & TENSION] (Mood: deep_contemplative):
+Cinematic documentary background music, deep contemplative atmosphere, minimalist dark ambient synth drone, subtle deep sub-bass pulse, cold tension, 80 bpm, no vocals, high quality film score
+
+[PART 2 - RESOLUTION & AWAKENING] (Mood: hopeful_awakening):
+Cinematic documentary background music, hopeful awakening atmosphere, warm acoustic piano and inspiring ambient swell, gentle sunlight, emotional resolution, hopeful cinematic strings, no vocals, high quality film score
+
+Transition Scene: Scene 18

@@ -1,0 +1,128 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 169,
+  "abs_start_ms": 888200,
+  "abs_end_ms": 893760,
+  "duration_ms": 5560,
+  "word_count": 23,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Bạn",
+      "start_ms": 0,
+      "end_ms": 220
+    },
+    {
+      "word": "sẽ",
+      "start_ms": 700,
+      "end_ms": 780
+    },
+    {
+      "word": "không",
+      "start_ms": 760,
+      "end_ms": 960
+    },
+    {
+      "word": "bao",
+      "start_ms": 960,
+      "end_ms": 1060
+    },
+    {
+      "word": "giờ",
+      "start_ms": 1060,
+      "end_ms": 1220
+    },
+    {
+      "word": "còn",
+      "start_ms": 1220,
+      "end_ms": 1460
+    },
+    {
+      "word": "phải",
+      "start_ms": 1460,
+      "end_ms": 1640
+    },
+    {
+      "word": "nhận",
+      "start_ms": 1640,
+      "end_ms": 2360
+    },
+    {
+      "word": "những",
+      "start_ms": 2360,
+      "end_ms": 2580
+    },
+    {
+      "word": "thông",
+      "start_ms": 2800,
+      "end_ms": 2900
+    },
+    {
+      "word": "báo",
+      "start_ms": 2900,
+      "end_ms": 3000
+    },
+    {
+      "word": "nhắc",
+      "start_ms": 3000,
+      "end_ms": 3200
+    },
+    {
+      "word": "nợ",
+      "start_ms": 3200,
+      "end_ms": 3340
+    },
+    {
+      "word": "gây",
+      "start_ms": 3340,
+      "end_ms": 3540
+    },
+    {
+      "word": "stress,",
+      "start_ms": 3540,
+      "end_ms": 3800
+    },
+    {
+      "word": "hay",
+      "start_ms": 3800,
+      "end_ms": 3960
+    },
+    {
+      "word": "bị",
+      "start_ms": 3960,
+      "end_ms": 4100
+    },
+    {
+      "word": "phạt",
+      "start_ms": 4100,
+      "end_ms": 4260
+    },
+    {
+      "word": "phí",
+      "start_ms": 4260,
+      "end_ms": 4440
+    },
+    {
+      "word": "thanh",
+      "start_ms": 4440,
+      "end_ms": 4640
+    },
+    {
+      "word": "toán",
+      "start_ms": 5000,
+      "end_ms": 5180
+    },
+    {
+      "word": "chậm",
+      "start_ms": 5180,
+      "end_ms": 5380
+    },
+    {
+      "word": "trễ.",
+      "start_ms": 5380,
+      "end_ms": 5560
+    }
+  ],
+  "aligned_with_script": true
+}

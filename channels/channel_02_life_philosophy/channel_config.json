@@ -1,0 +1,19 @@
+{
+  "channel_id": "channel_02_life_philosophy",
+  "name": "Triết Lý Cuộc Sống",
+  "description": "Video chiêm nghiệm triết học, nghệ thuật sống và bài học nhân sinh sâu sắc",
+  "aspect_ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "default_voice": "Thiện Minh",
+  "character_tag": "@philosopher",
+  "lighting_style": "Atmospheric Tungsten, Moody Chiaroscuro, Rain droplets, warm wooden tones",
+  "prohibitions": {
+    "silent_video": true,
+    "no_character_speech": true,
+    "no_background_music": true,
+    "no_watermarks": true,
+    "no_text_overlays": true
+  }
+}

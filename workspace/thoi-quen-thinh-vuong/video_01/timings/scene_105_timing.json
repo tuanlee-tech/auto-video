@@ -1,0 +1,73 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 105,
+  "abs_start_ms": 567300,
+  "abs_end_ms": 569660,
+  "duration_ms": 2360,
+  "word_count": 12,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "nếu",
+      "start_ms": 0,
+      "end_ms": 160
+    },
+    {
+      "word": "toàn",
+      "start_ms": 160,
+      "end_ms": 320
+    },
+    {
+      "word": "bộ",
+      "start_ms": 320,
+      "end_ms": 460
+    },
+    {
+      "word": "mọi",
+      "start_ms": 460,
+      "end_ms": 660
+    },
+    {
+      "word": "nguồn",
+      "start_ms": 660,
+      "end_ms": 860
+    },
+    {
+      "word": "thu",
+      "start_ms": 860,
+      "end_ms": 1020
+    },
+    {
+      "word": "nhập",
+      "start_ms": 1020,
+      "end_ms": 1180
+    },
+    {
+      "word": "phụ",
+      "start_ms": 1180,
+      "end_ms": 1320
+    },
+    {
+      "word": "của",
+      "start_ms": 1320,
+      "end_ms": 1420
+    },
+    {
+      "word": "bạn",
+      "start_ms": 1860,
+      "end_ms": 2080
+    },
+    {
+      "word": "biến",
+      "start_ms": 2080,
+      "end_ms": 2180
+    },
+    {
+      "word": "mất.",
+      "start_ms": 2180,
+      "end_ms": 2360
+    }
+  ],
+  "aligned_with_script": true
+}

@@ -1,0 +1,163 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 186,
+  "abs_start_ms": 979360,
+  "abs_end_ms": 985320,
+  "duration_ms": 5960,
+  "word_count": 30,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Đó",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "là",
+      "start_ms": 200,
+      "end_ms": 380
+    },
+    {
+      "word": "cảm",
+      "start_ms": 380,
+      "end_ms": 600
+    },
+    {
+      "word": "giác",
+      "start_ms": 600,
+      "end_ms": 760
+    },
+    {
+      "word": "bạn",
+      "start_ms": 760,
+      "end_ms": 920
+    },
+    {
+      "word": "thức",
+      "start_ms": 920,
+      "end_ms": 1100
+    },
+    {
+      "word": "dậy",
+      "start_ms": 1100,
+      "end_ms": 1280
+    },
+    {
+      "word": "mỗi",
+      "start_ms": 1280,
+      "end_ms": 1480
+    },
+    {
+      "word": "buổi",
+      "start_ms": 1480,
+      "end_ms": 1720
+    },
+    {
+      "word": "sáng",
+      "start_ms": 1720,
+      "end_ms": 1900
+    },
+    {
+      "word": "với",
+      "start_ms": 1900,
+      "end_ms": 2500
+    },
+    {
+      "word": "một",
+      "start_ms": 2500,
+      "end_ms": 2780
+    },
+    {
+      "word": "tâm",
+      "start_ms": 2780,
+      "end_ms": 2920
+    },
+    {
+      "word": "trí",
+      "start_ms": 2920,
+      "end_ms": 3040
+    },
+    {
+      "word": "hoàn",
+      "start_ms": 3040,
+      "end_ms": 3300
+    },
+    {
+      "word": "toàn",
+      "start_ms": 3300,
+      "end_ms": 3440
+    },
+    {
+      "word": "thanh",
+      "start_ms": 3440,
+      "end_ms": 3680
+    },
+    {
+      "word": "thản,",
+      "start_ms": 3680,
+      "end_ms": 3940
+    },
+    {
+      "word": "không",
+      "start_ms": 3940,
+      "end_ms": 4080
+    },
+    {
+      "word": "có",
+      "start_ms": 4080,
+      "end_ms": 4300
+    },
+    {
+      "word": "bất",
+      "start_ms": 4300,
+      "end_ms": 4380
+    },
+    {
+      "word": "kỳ",
+      "start_ms": 4380,
+      "end_ms": 4560
+    },
+    {
+      "word": "một",
+      "start_ms": 4560,
+      "end_ms": 4760
+    },
+    {
+      "word": "chủ",
+      "start_ms": 4760,
+      "end_ms": 4960
+    },
+    {
+      "word": "nợ",
+      "start_ms": 4960,
+      "end_ms": 5100
+    },
+    {
+      "word": "nào",
+      "start_ms": 5100,
+      "end_ms": 5280
+    },
+    {
+      "word": "đè",
+      "start_ms": 5280,
+      "end_ms": 5380
+    },
+    {
+      "word": "nặng",
+      "start_ms": 5380,
+      "end_ms": 5640
+    },
+    {
+      "word": "lên",
+      "start_ms": 5640,
+      "end_ms": 5780
+    },
+    {
+      "word": "vai.",
+      "start_ms": 5780,
+      "end_ms": 5960
+    }
+  ],
+  "aligned_with_script": true
+}

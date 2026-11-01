@@ -1,0 +1,168 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 93,
+  "abs_start_ms": 490800,
+  "abs_end_ms": 498000,
+  "duration_ms": 7200,
+  "word_count": 31,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Thứ",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "hai,",
+      "start_ms": 840,
+      "end_ms": 920
+    },
+    {
+      "word": "gỡ",
+      "start_ms": 860,
+      "end_ms": 1000
+    },
+    {
+      "word": "các",
+      "start_ms": 1000,
+      "end_ms": 1140
+    },
+    {
+      "word": "ứng",
+      "start_ms": 1140,
+      "end_ms": 1320
+    },
+    {
+      "word": "dụng",
+      "start_ms": 1320,
+      "end_ms": 1560
+    },
+    {
+      "word": "mua",
+      "start_ms": 1560,
+      "end_ms": 1920
+    },
+    {
+      "word": "sắm",
+      "start_ms": 1920,
+      "end_ms": 2100
+    },
+    {
+      "word": "và",
+      "start_ms": 2100,
+      "end_ms": 2280
+    },
+    {
+      "word": "ứng",
+      "start_ms": 2280,
+      "end_ms": 2600
+    },
+    {
+      "word": "dụng",
+      "start_ms": 2600,
+      "end_ms": 2720
+    },
+    {
+      "word": "đồ",
+      "start_ms": 2720,
+      "end_ms": 2940
+    },
+    {
+      "word": "ăn",
+      "start_ms": 2940,
+      "end_ms": 3100
+    },
+    {
+      "word": "nhanh",
+      "start_ms": 3100,
+      "end_ms": 3300
+    },
+    {
+      "word": "ra",
+      "start_ms": 3780,
+      "end_ms": 3860
+    },
+    {
+      "word": "khỏi",
+      "start_ms": 3860,
+      "end_ms": 4100
+    },
+    {
+      "word": "màn",
+      "start_ms": 4100,
+      "end_ms": 4440
+    },
+    {
+      "word": "hình",
+      "start_ms": 4900,
+      "end_ms": 4980
+    },
+    {
+      "word": "chính,",
+      "start_ms": 4960,
+      "end_ms": 5140
+    },
+    {
+      "word": "chỉ",
+      "start_ms": 5140,
+      "end_ms": 5300
+    },
+    {
+      "word": "cài",
+      "start_ms": 5300,
+      "end_ms": 5480
+    },
+    {
+      "word": "đặt",
+      "start_ms": 5480,
+      "end_ms": 5620
+    },
+    {
+      "word": "lại",
+      "start_ms": 5620,
+      "end_ms": 5820
+    },
+    {
+      "word": "khi",
+      "start_ms": 5820,
+      "end_ms": 6020
+    },
+    {
+      "word": "thực",
+      "start_ms": 6020,
+      "end_ms": 6260
+    },
+    {
+      "word": "sự",
+      "start_ms": 6260,
+      "end_ms": 6500
+    },
+    {
+      "word": "có",
+      "start_ms": 6500,
+      "end_ms": 6580
+    },
+    {
+      "word": "nhu",
+      "start_ms": 6580,
+      "end_ms": 6740
+    },
+    {
+      "word": "cầu",
+      "start_ms": 6740,
+      "end_ms": 6900
+    },
+    {
+      "word": "cụ",
+      "start_ms": 6900,
+      "end_ms": 7020
+    },
+    {
+      "word": "thể.",
+      "start_ms": 7020,
+      "end_ms": 7200
+    }
+  ],
+  "aligned_with_script": true
+}

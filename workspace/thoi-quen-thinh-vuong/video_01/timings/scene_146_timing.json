@@ -1,0 +1,103 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 146,
+  "abs_start_ms": 779940,
+  "abs_end_ms": 783380,
+  "duration_ms": 3440,
+  "word_count": 18,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Sự",
+      "start_ms": 0,
+      "end_ms": 200
+    },
+    {
+      "word": "phân",
+      "start_ms": 200,
+      "end_ms": 360
+    },
+    {
+      "word": "tách",
+      "start_ms": 360,
+      "end_ms": 460
+    },
+    {
+      "word": "tâm",
+      "start_ms": 460,
+      "end_ms": 640
+    },
+    {
+      "word": "lý",
+      "start_ms": 640,
+      "end_ms": 860
+    },
+    {
+      "word": "này",
+      "start_ms": 860,
+      "end_ms": 1020
+    },
+    {
+      "word": "mang",
+      "start_ms": 1020,
+      "end_ms": 1200
+    },
+    {
+      "word": "lại",
+      "start_ms": 1200,
+      "end_ms": 1540
+    },
+    {
+      "word": "cho",
+      "start_ms": 1840,
+      "end_ms": 1920
+    },
+    {
+      "word": "bạn",
+      "start_ms": 1920,
+      "end_ms": 2140
+    },
+    {
+      "word": "một",
+      "start_ms": 2140,
+      "end_ms": 2260
+    },
+    {
+      "word": "cảm",
+      "start_ms": 2260,
+      "end_ms": 2400
+    },
+    {
+      "word": "giác",
+      "start_ms": 2400,
+      "end_ms": 2580
+    },
+    {
+      "word": "nhẹ",
+      "start_ms": 2580,
+      "end_ms": 2760
+    },
+    {
+      "word": "nhõm",
+      "start_ms": 2760,
+      "end_ms": 2960
+    },
+    {
+      "word": "vô",
+      "start_ms": 2960,
+      "end_ms": 3080
+    },
+    {
+      "word": "bờ",
+      "start_ms": 3080,
+      "end_ms": 3340
+    },
+    {
+      "word": "bến.",
+      "start_ms": 3340,
+      "end_ms": 3440
+    }
+  ],
+  "aligned_with_script": true
+}

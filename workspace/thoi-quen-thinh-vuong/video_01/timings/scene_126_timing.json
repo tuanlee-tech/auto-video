@@ -1,0 +1,73 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 126,
+  "abs_start_ms": 672040,
+  "abs_end_ms": 675340,
+  "duration_ms": 3300,
+  "word_count": 12,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "trong",
+      "start_ms": 0,
+      "end_ms": 240
+    },
+    {
+      "word": "lòng",
+      "start_ms": 240,
+      "end_ms": 420
+    },
+    {
+      "word": "họ",
+      "start_ms": 420,
+      "end_ms": 700
+    },
+    {
+      "word": "lại",
+      "start_ms": 960,
+      "end_ms": 1100
+    },
+    {
+      "word": "dấy",
+      "start_ms": 1100,
+      "end_ms": 1400
+    },
+    {
+      "word": "lên",
+      "start_ms": 1400,
+      "end_ms": 1860
+    },
+    {
+      "word": "cảm",
+      "start_ms": 1860,
+      "end_ms": 2380
+    },
+    {
+      "word": "giác",
+      "start_ms": 2380,
+      "end_ms": 2560
+    },
+    {
+      "word": "tội",
+      "start_ms": 2560,
+      "end_ms": 2760
+    },
+    {
+      "word": "lỗi",
+      "start_ms": 2760,
+      "end_ms": 2980
+    },
+    {
+      "word": "vàdằn",
+      "start_ms": 2980,
+      "end_ms": 3160
+    },
+    {
+      "word": "vặt.",
+      "start_ms": 3160,
+      "end_ms": 3300
+    }
+  ],
+  "aligned_with_script": true
+}

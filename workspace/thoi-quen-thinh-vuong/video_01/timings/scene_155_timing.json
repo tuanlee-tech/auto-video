@@ -1,0 +1,108 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 155,
+  "abs_start_ms": 823440,
+  "abs_end_ms": 828240,
+  "duration_ms": 4800,
+  "word_count": 19,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Điều",
+      "start_ms": 0,
+      "end_ms": 240
+    },
+    {
+      "word": "thứ",
+      "start_ms": 240,
+      "end_ms": 460
+    },
+    {
+      "word": "năm:",
+      "start_ms": 1100,
+      "end_ms": 1200
+    },
+    {
+      "word": "Thiết",
+      "start_ms": 1200,
+      "end_ms": 1320
+    },
+    {
+      "word": "lập",
+      "start_ms": 1320,
+      "end_ms": 1500
+    },
+    {
+      "word": "Cỗ",
+      "start_ms": 1500,
+      "end_ms": 1660
+    },
+    {
+      "word": "máy",
+      "start_ms": 1660,
+      "end_ms": 1860
+    },
+    {
+      "word": "Dòng",
+      "start_ms": 1860,
+      "end_ms": 2120
+    },
+    {
+      "word": "tiền",
+      "start_ms": 2120,
+      "end_ms": 2280
+    },
+    {
+      "word": "Tự",
+      "start_ms": 2280,
+      "end_ms": 2520
+    },
+    {
+      "word": "động",
+      "start_ms": 2520,
+      "end_ms": 2760
+    },
+    {
+      "word": "(Autopilot",
+      "start_ms": 2760,
+      "end_ms": 2920
+    },
+    {
+      "word": "Engine)",
+      "start_ms": 2920,
+      "end_ms": 3300
+    },
+    {
+      "word": "và",
+      "start_ms": 3300,
+      "end_ms": 3560
+    },
+    {
+      "word": "quy",
+      "start_ms": 3560,
+      "end_ms": 3680
+    },
+    {
+      "word": "tắc",
+      "start_ms": 3680,
+      "end_ms": 3860
+    },
+    {
+      "word": "phản",
+      "start_ms": 3860,
+      "end_ms": 4000
+    },
+    {
+      "word": "xạ",
+      "start_ms": 4000,
+      "end_ms": 4240
+    },
+    {
+      "word": "\"If-Then\".",
+      "start_ms": 4240,
+      "end_ms": 4800
+    }
+  ],
+  "aligned_with_script": true
+}

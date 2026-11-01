@@ -1,0 +1,98 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 2,
+  "abs_start_ms": 5480,
+  "abs_end_ms": 9060,
+  "duration_ms": 3580,
+  "word_count": 17,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Chúng",
+      "start_ms": 0,
+      "end_ms": 80
+    },
+    {
+      "word": "ta",
+      "start_ms": 60,
+      "end_ms": 200
+    },
+    {
+      "word": "ai",
+      "start_ms": 200,
+      "end_ms": 360
+    },
+    {
+      "word": "cũng",
+      "start_ms": 360,
+      "end_ms": 440
+    },
+    {
+      "word": "từng",
+      "start_ms": 440,
+      "end_ms": 680
+    },
+    {
+      "word": "trải",
+      "start_ms": 680,
+      "end_ms": 880
+    },
+    {
+      "word": "qua",
+      "start_ms": 880,
+      "end_ms": 1020
+    },
+    {
+      "word": "cảm",
+      "start_ms": 1020,
+      "end_ms": 1220
+    },
+    {
+      "word": "giác",
+      "start_ms": 1220,
+      "end_ms": 1400
+    },
+    {
+      "word": "quen",
+      "start_ms": 1400,
+      "end_ms": 1600
+    },
+    {
+      "word": "thuộc",
+      "start_ms": 1600,
+      "end_ms": 1840
+    },
+    {
+      "word": "này",
+      "start_ms": 1840,
+      "end_ms": 2000
+    },
+    {
+      "word": "vào",
+      "start_ms": 2000,
+      "end_ms": 2280
+    },
+    {
+      "word": "những",
+      "start_ms": 2280,
+      "end_ms": 2380
+    },
+    {
+      "word": "ngày",
+      "start_ms": 2380,
+      "end_ms": 2560
+    },
+    {
+      "word": "cuối",
+      "start_ms": 2560,
+      "end_ms": 2780
+    },
+    {
+      "word": "tháng.",
+      "start_ms": 2780,
+      "end_ms": 3020
+    }
+  ],
+  "aligned_with_script": true
+}

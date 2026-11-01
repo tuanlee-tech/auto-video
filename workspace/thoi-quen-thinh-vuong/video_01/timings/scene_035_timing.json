@@ -1,0 +1,143 @@
+{
+  "audio_file": "master_narration.wav",
+  "scene_id": 35,
+  "abs_start_ms": 176200,
+  "abs_end_ms": 183220,
+  "duration_ms": 7020,
+  "word_count": 26,
+  "model": "base",
+  "engine": "faster-whisper",
+  "words": [
+    {
+      "word": "Bộ",
+      "start_ms": 0,
+      "end_ms": 560
+    },
+    {
+      "word": "não",
+      "start_ms": 560,
+      "end_ms": 660
+    },
+    {
+      "word": "con",
+      "start_ms": 660,
+      "end_ms": 880
+    },
+    {
+      "word": "người",
+      "start_ms": 880,
+      "end_ms": 1060
+    },
+    {
+      "word": "không",
+      "start_ms": 1060,
+      "end_ms": 1280
+    },
+    {
+      "word": "được",
+      "start_ms": 1280,
+      "end_ms": 1420
+    },
+    {
+      "word": "tiến",
+      "start_ms": 1420,
+      "end_ms": 1640
+    },
+    {
+      "word": "hóa",
+      "start_ms": 1640,
+      "end_ms": 1860
+    },
+    {
+      "word": "để",
+      "start_ms": 1860,
+      "end_ms": 2040
+    },
+    {
+      "word": "cảm",
+      "start_ms": 2040,
+      "end_ms": 2240
+    },
+    {
+      "word": "thấy",
+      "start_ms": 2240,
+      "end_ms": 2460
+    },
+    {
+      "word": "hạnh",
+      "start_ms": 3020,
+      "end_ms": 3380
+    },
+    {
+      "word": "phúc",
+      "start_ms": 3380,
+      "end_ms": 3680
+    },
+    {
+      "word": "khi",
+      "start_ms": 3680,
+      "end_ms": 4240
+    },
+    {
+      "word": "nhìn",
+      "start_ms": 4240,
+      "end_ms": 4480
+    },
+    {
+      "word": "thấy",
+      "start_ms": 4480,
+      "end_ms": 4600
+    },
+    {
+      "word": "một",
+      "start_ms": 4600,
+      "end_ms": 4800
+    },
+    {
+      "word": "con",
+      "start_ms": 5320,
+      "end_ms": 5480
+    },
+    {
+      "word": "số",
+      "start_ms": 5480,
+      "end_ms": 5720
+    },
+    {
+      "word": "đứng",
+      "start_ms": 5720,
+      "end_ms": 5800
+    },
+    {
+      "word": "yên",
+      "start_ms": 5780,
+      "end_ms": 5980
+    },
+    {
+      "word": "trong",
+      "start_ms": 5980,
+      "end_ms": 6240
+    },
+    {
+      "word": "tài",
+      "start_ms": 6240,
+      "end_ms": 6380
+    },
+    {
+      "word": "khoản",
+      "start_ms": 6380,
+      "end_ms": 6600
+    },
+    {
+      "word": "tiết",
+      "start_ms": 6600,
+      "end_ms": 6900
+    },
+    {
+      "word": "kiệm.",
+      "start_ms": 6900,
+      "end_ms": 7020
+    }
+  ],
+  "aligned_with_script": true
+}
