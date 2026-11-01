@@ -1,7 +1,7 @@
 # Auto Flow Studio: AI Video & Image Generator
 
 <p align="center">
-  <img src="src/icons/128.png" alt="Auto Flow Logo" width="96" height="96" />
+  <img src="docs/icons/128.png" alt="Auto Flow Logo" width="96" height="96" />
 </p>
 
 <p align="center">

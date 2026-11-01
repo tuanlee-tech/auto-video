@@ -1,8 +1,24 @@
 # Dependencies & caches
 node_modules/
+remotion-studio/node_modules/
+remotion-studio/public/project_assets/
+remotion-studio/current_props.json
 .vscode/
 .idea/
 *.log
 *.tmp
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc
+
+# Heavy video render outputs (Prevents GitHub Remote 100MB limit issues)
+*.mp4
+*.mkv
+*.mov
+workspace/**/out/
+workspace/**/videos/*.mp4
+
+# Python environments
+venv/
+.env
