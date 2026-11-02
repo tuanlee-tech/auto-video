@@ -40,6 +40,12 @@ Trong Masterclass chuyên sâu này, Thói Quen Thịnh Vượng sẽ cùng bạ
 💡 HÀNH ĐỘNG NHỎ HÔM NAY:
 Hãy chọn ra đúng 1 hành động: Ngồi xuống tính toán "Con số vận hành tối thiểu" hoặc cài đặt một lệnh chuyển tiền tự động đầu tiên cho kỳ lương tới. Sự thịnh vượng không đến từ những bước nhảy vọt mơ hồ, mà tích lũy từ những thói quen nhỏ hàng ngày.
 
+🎵 BẢN QUYỀN ÂM NHẠC / MUSIC ATTRIBUTION:
+_______________________________________
+Music track: A Better Future by Aventure
+Source: https://freetouse.com/music
+_______________________________________
+
 🔔 Đăng ký kênh "Thói Quen Thịnh Vượng" để không bỏ lỡ các video khoa học hành vi và tài chính tự chủ mỗi tuần!
 📌 Kênh chính thức: @thoi-quen-thinh-vuong
 🎬 Video tiếp theo: "Tại Sao Não Bộ Luôn Muốn Bạn Tiêu Tiền? (Cách Dừng Bốc Đồng)"

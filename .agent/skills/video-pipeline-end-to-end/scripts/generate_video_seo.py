@@ -70,10 +70,18 @@ def generate_video_seo(project_dir, channel_dir=None):
     # 2. Channel info
     channel_name = "Thói Quen Thịnh Vượng"
     channel_handle = "@thoiquenthinhvuong"
+    music_attribution = """🎵 BẢN QUYỀN ÂM NHẠC / MUSIC ATTRIBUTION:
+_______________________________________
+Music track: A Better Future by Aventure
+Source: https://freetouse.com/music
+_______________________________________"""
+
     if channel_dir and os.path.exists(os.path.join(channel_dir, "channel_config.json")):
         with open(os.path.join(channel_dir, "channel_config.json"), 'r', encoding='utf-8') as f:
             c_cfg = json.load(f)
             channel_name = c_cfg.get("name", channel_name).split('(')[0].strip()
+            if "default_bgm" in c_cfg and "attribution" in c_cfg["default_bgm"]:
+                music_attribution = c_cfg["default_bgm"]["attribution"]
 
     # 3. High-CTR Titles (< 60 chars)
     titles = [
@@ -124,6 +132,8 @@ Hãy thiết lập ngay "Quy tắc 2 chiếc hộp" cho tài khoản ngân hàng
 
 🔔 Đăng ký kênh "{channel_name}" để không bỏ lỡ các video khoa học hành vi và tài chính tự chủ mỗi tuần!
 📌 Kênh chính thức: {channel_handle}
+
+{music_attribution}
 
 #ThoiQuenThinhVuong #TaiChinhCaNhan #TietKiemTien #QuanLyTaiChinh #TamLyTaiChinh #AtomicHabits #AutopilotLiving
 ---

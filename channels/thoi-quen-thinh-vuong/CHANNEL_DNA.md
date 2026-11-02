@@ -109,11 +109,15 @@ Agent có thể linh hoạt chọn 1 trong 5 Option chuẩn dưới đây tùy t
 
 ## 6. Nhận Diện Hình Ảnh & Quy Chuẩn Nhân Vật `@stickman`
 
+* **Nguyên tắc cốt lõi: Tách biệt Nhân vật khỏi Bối cảnh (Decouple Character from Scene)**:
+  - **Hero Persona Scenes (15% – 25%)**: Chỉ xuất hiện `@stickman` ở các mốc dẫn chuyện quan trọng (Mở đầu, kết luận, nhận thức bản thân, cao trào).
+  - **Concept B-Roll Scenes (75% – 85%)**: Tập trung 100% vào việc minh họa trực quan đối tượng/khái niệm/phép ẩn dụ của kịch bản (mô hình não bộ, hạch Dopamine, 2 chiếc hộp pha lê phân dòng tiền, thẻ tín dụng đóng băng, đồng hồ cát, cỗ máy bánh răng... **TUYỆT ĐỐI KHÔNG CÓ STICKMAN**).
+  - **Nhịp thở phân cảnh (Cinematic Pacing)**: Mỗi cảnh kéo dài **12 – 18 giây** (50 – 75 từ), quy mô **55 – 75 scenes/video**. Tuyệt đối không cắt vụn 3-5 giây.
 * **Phong cách cốt lõi**: **Simple Ways of Life Style** (2D Cel-shaded doodle stickman, nét viền đen dày dặn `bold black ink outlines`, đầu tròn trứng trắng không vẽ tóc và không vẽ mũi, biểu cảm linh hoạt).
 * **Không gian (Background)**:
   * Video: 3D Cinematic Hybrid (Gam màu lạnh u tối cho vấn đề -> Ấm áp hy vọng cho giải pháp).
   * Thumbnail / Logo / Banner: Nền giấy trắng sạch sẽ (`#FFFFFF` + Dotted grid), hộp highlight vàng dạ quang (`#FFE600`), chữ in hoa đen dày dặn tương phản cực cao trên YouTube Dark Mode.
-* **Bảng 10 Trang Phục Chuẩn (Chọn theo ngữ cảnh)**:
+* **Bảng 10 Trang Phục Chuẩn (Dành riêng cho Hero Scenes)**:
   * *Outfit #3 (`modern dark blazer and white crewneck t-shirt`)*: Dùng cho cảnh phân tích tài chính, xây dựng hệ thống, giải pháp công nghệ, xuất hiện trên Logo & Thumbnail chính.
   * *Outfit #5 (`navy hooded outdoor windbreaker jacket, backpack on shoulders`)*: Dùng cho cảnh hành trình, leo núi, vượt qua thử thách, xuất hiện trên Banner kênh.
   * *Outfit #4 (`overworked wrinkled white dress shirt with loosened tie`)*: Dùng cho cảnh áp lực nợ nần, kiệt sức vì công việc, hết tiền cuối tháng.

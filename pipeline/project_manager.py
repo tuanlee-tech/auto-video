@@ -324,6 +324,7 @@ class ProjectManager:
             and not f.endswith("_cleaned.mp4") 
             and not f.endswith("_raw_backup.mp4")
             and not f.endswith(".temp.mp4")
+            and not os.path.exists(os.path.join(video_dir, f"{os.path.splitext(f)[0]}_raw_backup.mp4"))
         ]
         if not video_files:
             print(f"[ProjectManager] No raw videos found to clean in {video_dir}")
@@ -381,23 +382,33 @@ class ProjectManager:
 
         if os.path.exists(src_audio):
             for f in os.listdir(src_audio):
-                shutil.copy2(os.path.join(src_audio, f), os.path.join(target_audio, f))
+                p = os.path.join(src_audio, f)
+                if os.path.isfile(p):
+                    shutil.copy2(p, os.path.join(target_audio, f))
 
         if os.path.exists(src_images):
             for f in os.listdir(src_images):
-                shutil.copy2(os.path.join(src_images, f), os.path.join(target_images, f))
+                p = os.path.join(src_images, f)
+                if os.path.isfile(p):
+                    shutil.copy2(p, os.path.join(target_images, f))
 
         if os.path.exists(src_videos):
             for f in os.listdir(src_videos):
-                shutil.copy2(os.path.join(src_videos, f), os.path.join(target_videos, f))
+                p = os.path.join(src_videos, f)
+                if os.path.isfile(p):
+                    shutil.copy2(p, os.path.join(target_videos, f))
 
         if os.path.exists(src_timings):
             for f in os.listdir(src_timings):
-                shutil.copy2(os.path.join(src_timings, f), os.path.join(target_timings, f))
+                p = os.path.join(src_timings, f)
+                if os.path.isfile(p):
+                    shutil.copy2(p, os.path.join(target_timings, f))
 
         if os.path.exists(src_bgm):
             for f in os.listdir(src_bgm):
-                shutil.copy2(os.path.join(src_bgm, f), os.path.join(target_bgm, f))
+                p = os.path.join(src_bgm, f)
+                if os.path.isfile(p):
+                    shutil.copy2(p, os.path.join(target_bgm, f))
 
         # Copy manifest
         manifest_path = os.path.join(cfg.project_dir, "manifest.json")

@@ -12,6 +12,7 @@ class SceneBeat:
     duration_frames: int = 0
     is_video_slot: bool = False
     fixed_duration: Optional[int] = None  # 4, 6, 8, 10 seconds for Omni Flash 1.1
+    scene_type: str = "hero"  # "hero", "metaphor", "infographic", "environment"
     outfit_id: int = 1
     outfit_name: str = ""
     prompt: str = ""

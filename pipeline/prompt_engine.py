@@ -16,8 +16,9 @@ def generate_project_prompts(
     Generates streamlined prompt files strictly formatted for Auto Flow Studio extension:
     - prompts_img_list.txt: All scenes (including 4-panel storyboard grids for AIV slots).
     - prompt_aiv_list.txt: AIV scenes only, used when referencing the storyboard image in Video tab.
-    - Clean paragraph per scene, separated by newlines, with NO headers or tags.
-    - Permanently cleans up and stops generating flow_prompts.csv and storyboards.json.
+    - Decoupled Character System:
+      * Hero scenes (~25-30%): prompts start with @stickman.
+      * Concept/Metaphor/Infographic scenes (~70-75%): pure cinematic B-roll without stickman.
     """
     os.makedirs(prompts_dir, exist_ok=True)
 
@@ -42,10 +43,8 @@ def generate_project_prompts(
         if beat.is_video_slot:
             target_dur = beat.fixed_duration or 6
             storyboard_img_prompt = build_storyboard_motion_prompt(
-                text=beat.spoken_text,
-                outfit_id=beat.outfit_id,
-                target_duration=target_dur,
-                scene_id=beat.scene_id
+                beat=beat,
+                target_duration=target_dur
             )
             beat.prompt = storyboard_img_prompt
             beat.storyboard_prompt = storyboard_img_prompt
@@ -53,18 +52,12 @@ def generate_project_prompts(
 
             # Video prompt for Video Tab (references the generated storyboard image)
             aiv_video_prompt = build_aiv_video_prompt(
-                text=beat.spoken_text,
-                outfit_id=beat.outfit_id,
-                target_duration=target_dur,
-                scene_id=beat.scene_id
+                beat=beat,
+                target_duration=target_dur
             )
             aiv_prompt_blocks.append(f"[{beat.scene_id:03d}] ({target_dur}s AIV):\n{aiv_video_prompt.strip()}")
         else:
-            single_img_prompt = build_single_scene_prompt(
-                text=beat.spoken_text,
-                outfit_id=beat.outfit_id,
-                scene_id=beat.scene_id
-            )
+            single_img_prompt = build_single_scene_prompt(beat=beat)
             beat.prompt = single_img_prompt
             img_prompt_blocks.append(single_img_prompt.strip())
 
@@ -76,5 +69,8 @@ def generate_project_prompts(
     with open(aiv_prompts_path, "w", encoding="utf-8") as f:
         f.write("\n\n".join(aiv_prompt_blocks) + "\n")
 
-    print(f"[PromptEngine] Cleanly exported prompt lists for extension:\n  - {img_prompts_path} ({len(img_prompt_blocks)} image scenes)\n  - {aiv_prompts_path} ({len(aiv_prompt_blocks)} AIV scenes)")
+    hero_count = sum(1 for b in beats if b.scene_type == "hero")
+    broll_count = len(beats) - hero_count
+    print(f"[PromptEngine] Cleanly exported prompt lists for extension:\n  - {img_prompts_path} ({len(img_prompt_blocks)} scenes)\n  - {aiv_prompts_path} ({len(aiv_prompt_blocks)} AIV scenes)")
+    print(f"               Hero Stickman prompts: {hero_count} | Pure Concept B-Roll prompts: {broll_count}")
     return beats

@@ -20,8 +20,8 @@ export const BackgroundMusic: React.FC<BackgroundMusicProps> = ({
   const track2 = bgmConfig?.track_2;
   const mode = bgmConfig?.mode || (track2 ? 'dual' : 'single');
 
-  const volDucked = bgmConfig?.volume_ducked ?? manifest.bgm_volume_ducked ?? 0.14;
-  const volNormal = bgmConfig?.volume_normal ?? manifest.bgm_volume_normal ?? 0.32;
+  const volDucked = bgmConfig?.volume_ducked ?? manifest.bgm_volume_ducked ?? 0.04;
+  const volNormal = bgmConfig?.volume_normal ?? manifest.bgm_volume_normal ?? 0.12;
   const fadeInFrames = bgmConfig?.fade_in_frames ?? 60;
   const fadeOutFrames = bgmConfig?.fade_out_frames ?? 120;
 

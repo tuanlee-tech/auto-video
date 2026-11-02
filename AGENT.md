@@ -151,6 +151,10 @@ Khi sinh prompt cho Video AI hoặc Storyboard:
 6. **CẤM TAG CẢM XÚC TRONG TTS (`No Emotion Tags`)**:
    - Cấm dùng `[thở dài]`, `[hắng giọng]`, `[cười]` trong kịch bản và TTS.
    - Tạo toàn bộ giọng đọc liền mạch trong 1 lần duy nhất (`master_narration.wav`) để giữ trọn hơi thở tự nhiên, dồn dập, sau đó dùng `faster-whisper` bóc tách timestamps chuẩn từng mili-giây.
+7. **TÁCH BIỆT NHÂN VẬT KHỎI B-ROLL & NHỊP THỞ ĐIỆN ẢNH (`Decouple Character & Cinematic Pacing`)**:
+   - **Hero Persona (15-25%)**: Chỉ dùng `@stickman` ở các cảnh dẫn truyện trọng yếu (Hook, Outro, câu hỏi tự vấn, khoảnh khắc thức tỉnh).
+   - **Concept B-Roll (75-85%)**: Tập trung 100% vào đối tượng, cơ chế não bộ, sơ đồ tài chính, phép ẩn dụ điện ảnh (não bộ Dopamine, 2 chiếc hộp phân dòng tiền, thẻ tín dụng đóng băng, đồng hồ cát...). **TUYỆT ĐỐI KHÔNG NHÉT STICKMAN VÀO B-ROLL**.
+   - **Nhịp thở phân cảnh**: Mỗi cảnh kéo dài **12 – 18 giây** (50 – 75 từ), quy mô **55 – 75 scenes/video**. Tuyệt đối không cắt vụn 3-5 giây gây chóng mặt.
 
 ---
 
@@ -176,7 +180,7 @@ Trước khi bàn giao video hoặc code cho người dùng, Agent **bắt buộ
 - [ ] **2. Không có khoảng lặng chết 1–2s**: Nhịp thoại liền mạch tự nhiên từ master take.
 - [ ] **3. Chuyển cảnh Cross-Dissolve hòa trộn mượt mà**: Cảnh cũ `1 -> 0` và cảnh mới `0 -> 1` cùng lúc trong 18 frame, master audio đọc liên tục không gián đoạn.
 - [ ] **4. Phụ đề tĩnh lặng Karaoke Active-Speech**: Định vị bằng word timestamps từ faster-whisper.
-- [ ] **5. Prompt hình ảnh sạch**: Không có chữ tiếng Việt, không ngoặc kép, luôn có `@stickman`.
+- [ ] **5. Tách biệt Nhân vật khỏi B-Roll**: @stickman chỉ xuất hiện ở 15-25% Hero scenes; 75-85% B-roll thuần túy không có nhân vật, thời lượng mỗi cảnh 12-18s.
 - [ ] **6. Không Hardcode**: Toàn bộ dữ liệu đọc dynamic từ `manifest.json` và cấu hình project.
 - [ ] **7. Cầu Nối Post-Hook Chuẩn Xác**: Sau 15–30s Hook bắt buộc có câu cầu nối định danh kênh (Intro Welcome) dẫn vào nội dung chính; cuối video chỉ có Outro Slogan, tuyệt đối không đặt câu chào mừng ở cuối.
 

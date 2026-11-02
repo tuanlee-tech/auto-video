@@ -18,28 +18,38 @@ Khác với các công cụ tạo video AI thông thường (sinh ảnh trước
 
 ---
 
-## 2. Quy Tắc Nhân Vật Nhất Quán & Thẻ `@stickman`
+## 2. Quy Tắc Nhân Vật Nhất Quán & Tách Biệt B-Roll (Decouple Character from Scene)
 
-Hệ thống sử dụng **Bảng sưu tập trang phục 10 ô (10-Outfit Wardrobe Sheet)** làm ảnh tham chiếu Master đã được nạp vào **Character Library** của tiện ích Auto Flow Studio với định danh là `@stickman`.
+Hệ thống tuân thủ nghiêm ngặt nguyên tắc **"Tách biệt Nhân vật khỏi Bối cảnh" (Decouple Character from Scene)** theo chuẩn Điện ảnh:
+- **Tỷ lệ phân bổ**: **15% – 25% Hero Persona** (Nhân vật dẫn chuyện `@stickman`) và **75% – 85% Concept B-Roll thuần túy** (Vật thể, sơ đồ, phép ẩn dụ điện ảnh — **TUYỆT ĐỐI KHÔNG NHÉT STICKMAN**).
+- **Nhịp thở phân cảnh (Cinematic Pacing)**: Mỗi phân cảnh kéo dài **12 – 18 giây** (tương đương 50 – 75 từ). Đối với video 17 – 20 phút, tổng số phân cảnh tối ưu chỉ từ **55 – 75 scenes**. **TUYỆT ĐỐI CẤM CẮT VỤN 3-5 GIÂY** làm gián đoạn cảm xúc và gây chóng mặt cho người xem.
 
-### Quy tắc viết Prompt:
-* **Bắt buộc**: Mọi prompt sinh ảnh minh họa đều phải bắt đầu bằng thẻ **`@stickman`**.
-* **Cú pháp chuẩn**:
+### A. Phân Cảnh Hero Persona (Có thẻ `@stickman` — 15-25%):
+Dùng cho cảnh Hook mở đầu, kết luận Outro, khoảnh khắc tự vấn hoặc chuyển giao cảm xúc cá nhân. Sử dụng ảnh tham chiếu Master trong **Character Library** định danh là `@stickman`.
+* **Cú pháp Prompt**:
   ```text
   @stickman [TÊN BỘ TRANG PHỤC TƯƠNG ỨNG], [HÀNH ĐỘNG & BIỂU CẢM], [BỐI CẢNH 3D ĐIỆN ẢNH & ÁNH SÁNG], 16:9.
   ```
+* **Bảng 10 Trang Phục Chuẩn**:
+  1. `@stickman wearing his dark tailored trench coat and burgundy turtleneck...`: Dùng cho cảnh chiêm nghiệm triết học, suy nghĩ sâu sắc, đứng trước câu hỏi lớn.
+  2. `@stickman in his sharp black business suit with tie, carrying a briefcase...`: Dùng cho cảnh kiếm tiền, đàm phán tài chính, đầu tư, thị trường chứng khoán.
+  3. `@stickman in his modern dark blazer and white crewneck t-shirt...`: Dùng cho cảnh khởi nghiệp, làm việc sáng tạo, phân tích sơ đồ hệ thống.
+  4. `@stickman wearing his overworked wrinkled white dress shirt with loosened tie...`: Dùng cho cảnh tăng ca kiệt sức, áp lực deadline, ngập trong nợ nần và hóa đơn.
+  5. `@stickman in his navy hooded outdoor windbreaker jacket, backpack on shoulders...`: Dùng cho cảnh đối mặt giông bão, kiên trì theo đuổi mục tiêu (hải đăng, ngọn núi).
+  6. `@stickman in his casual minimalist blue t-shirt and dark chinos...`: Dùng cho sinh hoạt hàng ngày, lối sống tối giản, mua sắm cơ bản.
+  7. `@stickman wearing a cozy knitted cardigan and reading glasses, holding an open book...`: Dùng cho cảnh tiếp thu kiến thức, đọc sách, nghiên cứu.
+  8. `@stickman wearing his black athletic gym sportswear and running hoodie...`: Dùng cho cảnh rèn luyện kỷ luật, thói quen thể thao, dậy sớm, Dopamine Detox.
+  9. `@stickman in oversized warm brown knit sweater, holding a steaming coffee mug...`: Dùng cho cảnh bình yên tại nhà, thói quen sáng/tối, an tâm tài chính.
+  10. `@stickman wrapped comfortably in a warm folded orange knit blanket...`: Dùng cho cảnh yếu đuối tâm lý, hoang mang, cần được chữa lành và đồng cảm.
 
-### Bảng 10 Trang Phục Chuẩn (Agents cần chọn đúng theo ngữ cảnh):
-1. `@stickman wearing his dark tailored trench coat and burgundy turtleneck...`: Dùng cho cảnh chiêm nghiệm triết học, suy nghĩ sâu sắc, đứng trước câu hỏi lớn.
-2. `@stickman in his sharp black business suit with tie, carrying a briefcase...`: Dùng cho cảnh kiếm tiền, đàm phán tài chính, đầu tư, thị trường chứng khoán.
-3. `@stickman in his modern dark blazer and white crewneck t-shirt...`: Dùng cho cảnh khởi nghiệp, làm việc sáng tạo, phân tích sơ đồ hệ thống.
-4. `@stickman wearing his overworked wrinkled white dress shirt with loosened tie...`: Dùng cho cảnh tăng ca kiệt sức, áp lực deadline, ngập trong nợ nần và hóa đơn.
-5. `@stickman in his navy hooded outdoor windbreaker jacket, backpack on shoulders...`: Dùng cho cảnh đối mặt giông bão, kiên trì theo đuổi mục tiêu (hải đăng, ngọn núi).
-6. `@stickman in his casual minimalist blue t-shirt and dark chinos...`: Dùng cho sinh hoạt hàng ngày, lối sống tối giản, mua sắm cơ bản.
-7. `@stickman wearing a cozy knitted cardigan and reading glasses, holding an open book...`: Dùng cho cảnh tiếp thu kiến thức, đọc sách, nghiên cứu.
-8. `@stickman wearing his black athletic gym sportswear and running hoodie...`: Dùng cho cảnh rèn luyện kỷ luật, thói quen thể thao, dậy sớm, Dopamine Detox.
-9. `@stickman in oversized warm brown knit sweater, holding a steaming coffee mug...`: Dùng cho cảnh bình yên tại nhà, thói quen sáng/tối, an tâm tài chính.
-10. `@stickman wrapped comfortably in a warm folded orange knit blanket...`: Dùng cho cảnh yếu đuối tâm lý, hoang mang, cần được chữa lành và đồng cảm.
+### B. Phân Cảnh Concept B-Roll (KHÔNG CÓ STICKMAN — 75-85%):
+Tập trung 100% vào việc **minh họa chân thực, sống động đúng thực thể/khái niệm/phép ẩn dụ** đang được nhắc tới trong lời thoại:
+* **Infographic & Blueprint B-Roll**: Mô hình 3D não bộ trong suốt với các luồng xung thần kinh Dopamine phát sáng giữa hạch hạnh nhân và vỏ não; sơ đồ dòng tiền 2 chiếc hộp pha lê; màn hình ứng dụng ngân hàng giao diện tối giản với công tắc chuyển tiền tự động; biểu đồ baseline chi phí sinh hoạt.
+* **Metaphorical B-Roll**: Con heo đất vỡ vụn dưới ánh đèn lạnh; đồng hồ cát bằng đồng cổ với dòng cát vàng tích lũy; thẻ tín dụng bị đóng băng trong khối đá pha lê (ma sát 48h); cỗ máy bánh răng cơ học tự động phân phối tiền vàng; ngọn lửa trại nguyên thủy trong hang đá; ngọn hải đăng sừng sững giữa đêm bão.
+* **Cú pháp Prompt**:
+  ```text
+  [CHI TIẾT MÔ HÌNH VẬT THỂ / SƠ ĐỒ 3D / PHÉP ẨN DỤ ĐIỆN ẢNH], Set in [BỐI CẢNH 3D ĐIỆN ẢNH & ÁNH SÁNG], 16:9 landscape, cinematic depth of field, chiaroscuro lighting, volumetric atmosphere, photorealistic 3D render, no human figures, no characters, no watermarks, no logos, no text overlays, no speech bubbles.
+  ```
 
 ---
 
@@ -104,13 +114,24 @@ Hệ thống sử dụng **Bảng sưu tập trang phục 10 ô (10-Outfit Wardr
 ## 10. Hệ Thống Nhạc Nền Tự Động (Smart Mood BGM & Audio Ducking)
 
 Hệ thống hỗ trợ cơ chế phối nhạc thông minh kết hợp cả hai phương thức:
-1. **Smart Mood Library & Dual-Track Crossfade**:
+1. **Nhạc nền mặc định Kênh & Ghi công bản quyền (Default BGM & Mandatory Attribution)**:
+   - **BGM Mặc định**: `a_better_future.wav` (*A Better Future by Aventure* - Modern Chill Corporate Technology Beat).
+   - **Âm lượng chuẩn Documentary**: `volume_ducked: 0.035` (~ -29dB) khi có giọng đọc; `volume_normal: 0.09` (~ -21dB) khi ngắt câu.
+   - **BẮT BUỘC CHÈN MUSIC ATTRIBUTION VÀO SEO**: Mọi video của kênh `thoi-quen-thinh-vuong` khi đóng gói file SEO (`SEO_VIDEO.md`) đều **BẮT BUỘC TỰ ĐỘNG CHÈN** đoạn credit FreeToUse sau đây vào phần mô tả YouTube:
+     ```text
+     🎵 BẢN QUYỀN ÂM NHẠC / MUSIC ATTRIBUTION:
+     _______________________________________
+     Music track: A Better Future by Aventure
+     Source: https://freetouse.com/music
+     _______________________________________
+     ```
+2. **Smart Mood Library & Dual-Track Crossfade (Tùy biến nâng cao)**:
    - Tự động phân tích Emotion Arc của kịch bản (mở đầu u tối/suy tư -> kết thúc thức tỉnh/bình yên).
    - Tự động chọn 2 track nhạc đối ứng (Part 1 và Part 2) từ kho nhạc sạch bản quyền và tạo chuyển tiếp (cross-fade 120 frames) tại phân cảnh đổi chiều cảm xúc.
-2. **AI Generative BGM (MusicFX / MusicGen Prompts)**:
+3. **AI Generative BGM (MusicFX / MusicGen Prompts)**:
    - Tự động xuất `bgm_prompts.txt` trong thư mục `prompts/` để phục vụ tạo nhạc nền độc bản qua Google MusicFX (0 credit) hoặc MusicGen.
-3. **Audio Ducking thời gian thực**:
-   - Dựa vào mốc thời gian từng từ của Faster-Whisper, nhạc nền tự động giảm xuống `-22dB` (`volume: 0.08`) khi nhân vật cất tiếng nói, và tự động nổi nhẹ lên (`volume: 0.22`) ở những khoảng lặng giữa các câu để tăng sức hút điện ảnh.
+4. **Audio Ducking thời gian thực**:
+   - Dựa vào mốc thời gian từng từ của Faster-Whisper, nhạc nền tự động giảm xuống `-29dB` (`volume: 0.035`) khi nhân vật cất tiếng nói, và tự động nổi nhẹ lên (`volume: 0.09`) ở những khoảng lặng giữa các câu để tăng sức hút điện ảnh.
 
 ---
 

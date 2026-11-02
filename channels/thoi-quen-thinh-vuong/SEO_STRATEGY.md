@@ -64,3 +64,16 @@ thói quen thịnh vượng, thoi quen thinh vuong, tâm lý tài chính, tam ly
   ```text
   Các nguyên tắc thiết kế môi trường sống, quy tắc If-Then và tự động hóa công việc/tài chính để đạt sự tự chủ mà không phụ thuộc vào động lực nhất thời.
   ```
+
+---
+
+### 5. Tiêu Chuẩn Âm Nhạc & Bản Quyền Mặc Định (Channel Audio Attribution)
+* **BGM Mặc định**: `a_better_future.wav` (*A Better Future by Aventure*)
+* **Khối bản quyền bắt buộc có trong mọi mô tả video**:
+  ```text
+  🎵 BẢN QUYỀN ÂM NHẠC / MUSIC ATTRIBUTION:
+  _______________________________________
+  Music track: A Better Future by Aventure
+  Source: https://freetouse.com/music
+  _______________________________________
+  ```

@@ -32,5 +32,13 @@
     "no_background_music": true,
     "no_watermarks": true,
     "no_text_overlays": true
+  },
+  "default_bgm": {
+    "track": "a_better_future.wav",
+    "track_name": "A Better Future by Aventure",
+    "source_url": "https://freetouse.com/music",
+    "volume_ducked": 0.035,
+    "volume_normal": 0.09,
+    "attribution": "🎵 BẢN QUYỀN ÂM NHẠC / MUSIC ATTRIBUTION:\n_______________________________________\nMusic track: A Better Future by Aventure\nSource: https://freetouse.com/music\n_______________________________________"
   }
 }
