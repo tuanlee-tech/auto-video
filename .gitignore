@@ -26,3 +26,5 @@ venv/
 
 # Graphify cache
 graphify-out/cache/
+graphify-out/*.lock
+graphify-out/.*.lock
