@@ -7,6 +7,7 @@ from pipeline.wardrobe import (
     build_aiv_video_prompt,
     select_outfit_and_mood
 )
+from pipeline.prompts_catalog import SCENE_PROMPTS_DATA
 
 def generate_project_prompts(
     beats: List[SceneBeat],
@@ -46,7 +47,13 @@ def generate_project_prompts(
     aiv_prompt_blocks = []
 
     for beat in beats:
-        if beat.scene_type == "hero":
+        # Check if master curated catalog has dedicated director prompts for this scene
+        catalog_entry = SCENE_PROMPTS_DATA.get(beat.scene_id)
+        if catalog_entry:
+            beat.scene_type = catalog_entry.get("scene_type", beat.scene_type)
+            if catalog_entry.get("outfit_id"):
+                beat.outfit_id = catalog_entry["outfit_id"]
+        elif beat.scene_type == "hero":
             oid, oinfo = select_outfit_and_mood(beat.spoken_text, beat.scene_id)
             beat.outfit_id = oid
             beat.outfit_name = oinfo["name"]
@@ -59,7 +66,9 @@ def generate_project_prompts(
             # Choose optimal fixed duration for Omni Flash 1.1 (4s, 6s, 8s, 10s) based on speech
             if not beat.fixed_duration:
                 speech_dur = getattr(beat, "duration_sec", 6.0) or 6.0
-                if speech_dur >= 10.0:
+                if catalog_entry and catalog_entry.get("fixed_duration"):
+                    beat.fixed_duration = catalog_entry["fixed_duration"]
+                elif speech_dur >= 10.0:
                     beat.fixed_duration = 10
                 elif speech_dur >= 7.0:
                     beat.fixed_duration = 8
@@ -69,18 +78,24 @@ def generate_project_prompts(
                     beat.fixed_duration = 4
             target_dur = beat.fixed_duration
 
-            storyboard_img_prompt = build_storyboard_motion_prompt(
-                beat=beat,
-                target_duration=target_dur
-            )
+            if catalog_entry and catalog_entry.get("img_prompt"):
+                storyboard_img_prompt = catalog_entry["img_prompt"]
+            else:
+                storyboard_img_prompt = build_storyboard_motion_prompt(
+                    beat=beat,
+                    target_duration=target_dur
+                )
             beat.prompt = storyboard_img_prompt
             beat.storyboard_prompt = storyboard_img_prompt
             img_prompt_blocks.append(storyboard_img_prompt.strip())
 
-            aiv_video_prompt = build_aiv_video_prompt(
-                beat=beat,
-                target_duration=target_dur
-            )
+            if catalog_entry and catalog_entry.get("aiv_prompt"):
+                aiv_video_prompt = catalog_entry["aiv_prompt"]
+            else:
+                aiv_video_prompt = build_aiv_video_prompt(
+                    beat=beat,
+                    target_duration=target_dur
+                )
             aiv_prompt_blocks.append(f"[{beat.scene_id:03d}] ({target_dur}s AIV):\n{aiv_video_prompt.strip()}")
         else:
             # Full Image Mode: Single, complete 16:9 cinematic image
@@ -88,7 +103,10 @@ def generate_project_prompts(
             beat.fixed_duration = None
             beat.storyboard_prompt = None
             beat.asset_type = "image"
-            single_img_prompt = build_single_scene_prompt(beat=beat)
+            if catalog_entry and catalog_entry.get("img_prompt"):
+                single_img_prompt = catalog_entry["img_prompt"]
+            else:
+                single_img_prompt = build_single_scene_prompt(beat=beat)
             beat.prompt = single_img_prompt
             img_prompt_blocks.append(single_img_prompt.strip())
 
