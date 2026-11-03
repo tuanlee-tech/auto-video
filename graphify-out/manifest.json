@@ -29,12 +29,6 @@
     "ast_hash": "d8f404154ba7f49d2bf9307aa1ddb0ee",
     "semantic_hash": ""
   },
-  "download_freetouse.py": {
-    "mtime": 1793634096.392367,
-    "seen": 1793634665.104839,
-    "ast_hash": "9bf484e5551e8c091d05352c422e33f4",
-    "semantic_hash": ""
-  },
   "google-flow-extension/_locales/bn/messages.json": {
     "mtime": 1793442874.72852,
     "seen": 1793634665.104839,
@@ -282,15 +276,15 @@
     "semantic_hash": ""
   },
   "pipeline/project_manager.py": {
-    "mtime": 1793635201.2413807,
-    "seen": 1793635283.6794462,
-    "ast_hash": "5e69ecf4ff5f4733c7dcb900f9a3cd49",
+    "mtime": 1793714216.7705083,
+    "seen": 1793714341.8599625,
+    "ast_hash": "196cdf162e4c7c53422fa93bb0df6d4d",
     "semantic_hash": ""
   },
   "pipeline/prompt_engine.py": {
-    "mtime": 1793636104.6789117,
-    "seen": 1793636291.0676877,
-    "ast_hash": "f08a37e7db6284bc6a9013e61a78ea4a",
+    "mtime": 1793714273.551094,
+    "seen": 1793714341.8599625,
+    "ast_hash": "cb2d3ec759eef8e7f8b656c74e1cb407",
     "semantic_hash": ""
   },
   "pipeline/script_parser.py": {
@@ -318,9 +312,9 @@
     "semantic_hash": ""
   },
   "pipeline/wardrobe.py": {
-    "mtime": 1793636081.382446,
-    "seen": 1793636291.0676877,
-    "ast_hash": "2f95dda53e373119dc32367fb134ab5d",
+    "mtime": 1793714163.93908,
+    "seen": 1793714341.8599625,
+    "ast_hash": "f11ecc1901ac45906793fdcb9f8cc7e7",
     "semantic_hash": ""
   },
   "pipeline/whisper_engine.py": {
@@ -426,15 +420,15 @@
     "semantic_hash": ""
   },
   "run_pipeline.py": {
-    "mtime": 1793547777.90157,
-    "seen": 1793634665.104839,
-    "ast_hash": "96e5b577ef1b8f65b2019bf756231b03",
+    "mtime": 1793714238.021885,
+    "seen": 1793714341.8599625,
+    "ast_hash": "8157aee1f7662300e361a2566e91d470",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/manifest.json": {
-    "mtime": 1793636158.4110825,
-    "seen": 1793636291.0676877,
-    "ast_hash": "921a7e0e1fc5241567f7ae067d1e273e",
+    "mtime": 1793714276.893778,
+    "seen": 1793714341.8599625,
+    "ast_hash": "74b9e490c07df396dc20501f47b4fda1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/project_config.json": {
@@ -444,573 +438,573 @@
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/master_timing.json": {
-    "mtime": 1793552865.746178,
-    "seen": 1793634665.104839,
-    "ast_hash": "852e7ed8b4297a09f293d7c4d824dc57",
+    "mtime": 1793713891.6071286,
+    "seen": 1793714341.8599625,
+    "ast_hash": "aa546baa5547be37e4887c20457fae70",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_001_timing.json": {
-    "mtime": 1793552865.6870704,
-    "seen": 1793634665.104839,
+    "mtime": 1793713891.5663586,
+    "seen": 1793714341.8599625,
     "ast_hash": "30020b4b3afd9e60a6e48bf08141f3d1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_002_timing.json": {
-    "mtime": 1793552865.6870704,
-    "seen": 1793634665.104839,
-    "ast_hash": "92754a1c2031a72af0e039845a419937",
+    "mtime": 1793713891.5673585,
+    "seen": 1793714341.8599625,
+    "ast_hash": "969f7de93c7f3821b92abcdfb5623a68",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_003_timing.json": {
-    "mtime": 1793552865.6880696,
-    "seen": 1793634665.104839,
-    "ast_hash": "538ebb856b982092d5f19a58ec693018",
+    "mtime": 1793713891.5673585,
+    "seen": 1793714341.8599625,
+    "ast_hash": "3de3734c13ad17637ea150078e782826",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_004_timing.json": {
-    "mtime": 1793552865.6880696,
-    "seen": 1793634665.104839,
-    "ast_hash": "c5412c3fe0a56aa9824925d8872aa59d",
+    "mtime": 1793713891.5683587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e25363232551a1310b70901a9723a5ac",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_005_timing.json": {
-    "mtime": 1793552865.68907,
-    "seen": 1793634665.104839,
-    "ast_hash": "7d874669b39167c2156ae1eb358c0963",
+    "mtime": 1793713891.5683587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "c379d88a347a11df2afbc07ac81e5ab7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_006_timing.json": {
-    "mtime": 1793552865.68907,
-    "seen": 1793634665.104839,
-    "ast_hash": "74e01efca8c01a54f8e21b845f62e034",
+    "mtime": 1793713891.5683587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e062695a81d6f641cad35360e1d6bdea",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_007_timing.json": {
-    "mtime": 1793552865.690071,
-    "seen": 1793634665.104839,
-    "ast_hash": "93299b910b48559bfc4fb8cc733be81e",
+    "mtime": 1793713891.5693586,
+    "seen": 1793714341.8599625,
+    "ast_hash": "65597de5588404677a3ffdf63c2138d7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_008_timing.json": {
-    "mtime": 1793552865.690071,
-    "seen": 1793634665.104839,
-    "ast_hash": "cafb8b825e973d842f165b6a4b753ede",
+    "mtime": 1793713891.5693586,
+    "seen": 1793714341.8599625,
+    "ast_hash": "6a3d1bc37d22e1c22d242279fb383b56",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_009_timing.json": {
-    "mtime": 1793552865.690071,
-    "seen": 1793634665.104839,
-    "ast_hash": "d44072e41397af23fc8f1ea1baecec89",
+    "mtime": 1793713891.5703585,
+    "seen": 1793714341.8599625,
+    "ast_hash": "deacadd45b90878070621c02f42b7831",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_010_timing.json": {
-    "mtime": 1793552865.6910715,
-    "seen": 1793634665.104839,
-    "ast_hash": "d729616c80c3a86113ccf1685b3454d8",
+    "mtime": 1793713891.5703585,
+    "seen": 1793714341.8599625,
+    "ast_hash": "1e233aa831abed497b462f6e257f7296",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_011_timing.json": {
-    "mtime": 1793552865.6910715,
-    "seen": 1793634665.104839,
-    "ast_hash": "5266ab1eaf36b6ac6bca59ed46eaca92",
+    "mtime": 1793713891.5713599,
+    "seen": 1793714341.8599625,
+    "ast_hash": "3009f08b8a377ee4d4f0402c8007cc24",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_012_timing.json": {
-    "mtime": 1793552865.6910715,
-    "seen": 1793634665.104839,
-    "ast_hash": "86aea9421a0677f1a948164c96bc94ac",
+    "mtime": 1793713891.5713599,
+    "seen": 1793714341.8599625,
+    "ast_hash": "6c321b877c79c5a5dcf9b28b5f4ff786",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_013_timing.json": {
-    "mtime": 1793552865.6920702,
-    "seen": 1793634665.104839,
-    "ast_hash": "f6a13eeecc46f2c1d934002458c78f33",
+    "mtime": 1793713891.5713599,
+    "seen": 1793714341.8599625,
+    "ast_hash": "794fffc39f12b17b5230a2b4ba974feb",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_014_timing.json": {
-    "mtime": 1793552865.6920702,
-    "seen": 1793634665.104839,
-    "ast_hash": "187cb4921cb0bff63d55ab776d8f6568",
+    "mtime": 1793713891.5713599,
+    "seen": 1793714341.8599625,
+    "ast_hash": "4d6fc5ac227441bc8edcc85aaf8a20fb",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_015_timing.json": {
-    "mtime": 1793552865.6920702,
-    "seen": 1793634665.104839,
-    "ast_hash": "d843f4f7d8a27908640153615d2e7620",
+    "mtime": 1793713891.572359,
+    "seen": 1793714341.8599625,
+    "ast_hash": "4d3b66874fc70ab960870e13ac68bb4e",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_016_timing.json": {
-    "mtime": 1793552865.6930704,
-    "seen": 1793634665.104839,
-    "ast_hash": "ed63d03e4c915db0272a596e9f9033bf",
+    "mtime": 1793713891.572359,
+    "seen": 1793714341.8599625,
+    "ast_hash": "db3b0e28cd76ccc25647d40126672920",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_017_timing.json": {
-    "mtime": 1793552865.6930704,
-    "seen": 1793634665.104839,
-    "ast_hash": "0445fb1cf8d4fdc915822466eb04dbe3",
+    "mtime": 1793713891.5733595,
+    "seen": 1793714341.8599625,
+    "ast_hash": "b0b3a6ec9de39b172b9138675c18e3f2",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_018_timing.json": {
-    "mtime": 1793552865.6930704,
-    "seen": 1793634665.104839,
-    "ast_hash": "d0d1e3a7317e94e953eb8d6382c83cb5",
+    "mtime": 1793713891.5743606,
+    "seen": 1793714341.8599625,
+    "ast_hash": "188cfc81c5335916a0816434dce0b47a",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_019_timing.json": {
-    "mtime": 1793552865.6940703,
-    "seen": 1793634665.104839,
-    "ast_hash": "e19ac66aa1863a41ccb79a9253720b14",
+    "mtime": 1793713891.5753603,
+    "seen": 1793714341.8599625,
+    "ast_hash": "74f84634808f0be8d806e97e6a775ea7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_020_timing.json": {
-    "mtime": 1793552865.6940703,
-    "seen": 1793634665.104839,
-    "ast_hash": "bfd4dd1ad9b7fe55e2fc844be2807222",
+    "mtime": 1793713891.5753603,
+    "seen": 1793714341.8599625,
+    "ast_hash": "79420e8edc5fbcaa3987d36da71f7a78",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_021_timing.json": {
-    "mtime": 1793552865.6940703,
-    "seen": 1793634665.104839,
-    "ast_hash": "2bb6625db3300b0c5ccbca0189f097a1",
+    "mtime": 1793713891.5763607,
+    "seen": 1793714341.8599625,
+    "ast_hash": "b8eeb054aa870feb71dd2ecd252d2276",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_022_timing.json": {
-    "mtime": 1793552865.6940703,
-    "seen": 1793634665.104839,
-    "ast_hash": "4c8bdea67afc468af6622cd66b0e2ec9",
+    "mtime": 1793713891.5763607,
+    "seen": 1793714341.8599625,
+    "ast_hash": "692d263c792d357c6c0c04dc0e9e4f3b",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_023_timing.json": {
-    "mtime": 1793552865.6950698,
-    "seen": 1793634665.104839,
-    "ast_hash": "f1a5608bc1b02cf3d7418b7bda0b3fdc",
+    "mtime": 1793713891.5763607,
+    "seen": 1793714341.8599625,
+    "ast_hash": "f5697e434955eecf3114f0ec764f8be1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_024_timing.json": {
-    "mtime": 1793552865.6950698,
-    "seen": 1793634665.104839,
-    "ast_hash": "87ca073a466a530706224af94ae15408",
+    "mtime": 1793713891.5773602,
+    "seen": 1793714341.8599625,
+    "ast_hash": "7aa5532585c6bb0ca825311ccb63c9ef",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_025_timing.json": {
-    "mtime": 1793552865.6950698,
-    "seen": 1793634665.104839,
-    "ast_hash": "d19c251bb31a7c667fd2e92ae3aeb509",
+    "mtime": 1793713891.5773602,
+    "seen": 1793714341.8599625,
+    "ast_hash": "33f65ecc0d5d8cd7e9edcd733cf860bf",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_026_timing.json": {
-    "mtime": 1793552865.6950698,
-    "seen": 1793634665.104839,
-    "ast_hash": "76a9120975b5521cd60e8dd3854c383b",
+    "mtime": 1793713891.5783603,
+    "seen": 1793714341.8599625,
+    "ast_hash": "77a02d4b14c1f7d1aa5dba1771bf17ff",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_027_timing.json": {
-    "mtime": 1793552865.6950698,
-    "seen": 1793634665.104839,
-    "ast_hash": "f2a5480c06ee419fdd3d4c06ffc09fc7",
+    "mtime": 1793713891.5783603,
+    "seen": 1793714341.8599625,
+    "ast_hash": "022b27456087c97785261d860eeae309",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_028_timing.json": {
-    "mtime": 1793552865.6960702,
-    "seen": 1793634665.104839,
-    "ast_hash": "f3504b72ac3837a4279392c73b452d81",
+    "mtime": 1793713891.57936,
+    "seen": 1793714341.8599625,
+    "ast_hash": "897b45a0aae4c0bb9c761c626e818a94",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_029_timing.json": {
-    "mtime": 1793552865.6962276,
-    "seen": 1793634665.104839,
-    "ast_hash": "d4fb69001c7ceff53073e43a677a9b02",
+    "mtime": 1793713891.57936,
+    "seen": 1793714341.8599625,
+    "ast_hash": "a3f7c836218e4475895f4345bf3ff5ae",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_030_timing.json": {
-    "mtime": 1793552865.6962276,
-    "seen": 1793634665.104839,
-    "ast_hash": "e7d6f33d2a4cc2b7c7df4f2e70b40092",
+    "mtime": 1793713891.5803587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "98964b416cb74d0bc3acf26c7bce6018",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_031_timing.json": {
-    "mtime": 1793552865.6962276,
-    "seen": 1793634665.104839,
-    "ast_hash": "b0e8d9584231491f4298092a8037ec22",
+    "mtime": 1793713891.5803587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "9022615a21435f02d7999bdeba1ed418",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_032_timing.json": {
-    "mtime": 1793552865.6962276,
-    "seen": 1793634665.104839,
-    "ast_hash": "2315e058f23472b3ba9aac6fcbb6c26d",
+    "mtime": 1793713891.5803587,
+    "seen": 1793714341.8599625,
+    "ast_hash": "5ad4f97ff38c54329043ae1bda59495d",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_033_timing.json": {
-    "mtime": 1793552865.69723,
-    "seen": 1793634665.104839,
-    "ast_hash": "5fd5353938106298d15bf0d97ce10aa9",
+    "mtime": 1793713891.5813591,
+    "seen": 1793714341.8599625,
+    "ast_hash": "47601c142c2bbfb656dbb078f4d74ccb",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_034_timing.json": {
-    "mtime": 1793552865.69723,
-    "seen": 1793634665.104839,
-    "ast_hash": "537ec81661890d88bad04455d0db71d2",
+    "mtime": 1793713891.5813591,
+    "seen": 1793714341.8599625,
+    "ast_hash": "797d8259b8d7b05dda3d6f418d4ad9c3",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_035_timing.json": {
-    "mtime": 1793552865.69723,
-    "seen": 1793634665.104839,
-    "ast_hash": "320a6de7f5972e142f56abf6062fad15",
+    "mtime": 1793713891.5813591,
+    "seen": 1793714341.8599625,
+    "ast_hash": "680b882e9a0c5ce7a18e99996dce141a",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_036_timing.json": {
-    "mtime": 1793552865.69723,
-    "seen": 1793634665.104839,
-    "ast_hash": "cecb0a61161006fa7e1d95b071fe1201",
+    "mtime": 1793713891.5823586,
+    "seen": 1793714341.8599625,
+    "ast_hash": "c50a66bb13348f8f50a629174a6d21ff",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_037_timing.json": {
-    "mtime": 1793552865.6982296,
-    "seen": 1793634665.104839,
-    "ast_hash": "67262866233f8491736d4c68b751a7a4",
+    "mtime": 1793713891.5823586,
+    "seen": 1793714341.8599625,
+    "ast_hash": "43004787919baa57ad4bd4c368e69157",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_038_timing.json": {
-    "mtime": 1793552865.6982296,
-    "seen": 1793634665.104839,
-    "ast_hash": "1f0c3b55e229a72a9f53fe28a1ef0390",
+    "mtime": 1793713891.5823586,
+    "seen": 1793714341.8599625,
+    "ast_hash": "c385b5a854ac3f20e9d6213f18807a51",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_039_timing.json": {
-    "mtime": 1793552865.6982296,
-    "seen": 1793634665.104839,
-    "ast_hash": "df5192b3717fd4e8c7ce86ca9aaec153",
+    "mtime": 1793713891.583359,
+    "seen": 1793714341.8599625,
+    "ast_hash": "fe1d1f4c1ea326587f18b55996f0c2b1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_040_timing.json": {
-    "mtime": 1793552865.6982296,
-    "seen": 1793634665.104839,
-    "ast_hash": "efce1674f604eb759a587617c9f899a6",
+    "mtime": 1793713891.583359,
+    "seen": 1793714341.8599625,
+    "ast_hash": "db0425c3cc115ed10e9519d59ec8930b",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_041_timing.json": {
-    "mtime": 1793552865.6992297,
-    "seen": 1793634665.104839,
-    "ast_hash": "d8f4bfb9decbf936272a7a278e1af528",
+    "mtime": 1793713891.583359,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e3654ac510cead71592146764bb3679e",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_042_timing.json": {
-    "mtime": 1793552865.6992297,
-    "seen": 1793634665.104839,
-    "ast_hash": "6d280dac26c2273e443281c4bd96cc95",
+    "mtime": 1793713891.58436,
+    "seen": 1793714341.8599625,
+    "ast_hash": "b29ac96657ee55fe0dbfba5a6fefb20a",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_043_timing.json": {
-    "mtime": 1793552865.6992297,
-    "seen": 1793634665.104839,
-    "ast_hash": "cb5e396ee14f844d16f91d1200b95cf3",
+    "mtime": 1793713891.58436,
+    "seen": 1793714341.8599625,
+    "ast_hash": "1a90615435f2068cf20571c496f64756",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_044_timing.json": {
-    "mtime": 1793552865.6992297,
-    "seen": 1793634665.104839,
-    "ast_hash": "ce86293e56e6005fcf48205104fbe916",
+    "mtime": 1793713891.58436,
+    "seen": 1793714341.8599625,
+    "ast_hash": "23c1efafdacde2b56bf245dc2570c029",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_045_timing.json": {
-    "mtime": 1793552865.6992297,
-    "seen": 1793634665.104839,
-    "ast_hash": "30c5c49c0bcc7e08210c85fb33b583fb",
+    "mtime": 1793713891.5853589,
+    "seen": 1793714341.8599625,
+    "ast_hash": "a4fbbb78dc9c890bfda569eb74eaa3b7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_046_timing.json": {
-    "mtime": 1793552865.7002294,
-    "seen": 1793634665.104839,
-    "ast_hash": "617727e54d48973fbee8467c8ecaf078",
+    "mtime": 1793713891.5853589,
+    "seen": 1793714341.8599625,
+    "ast_hash": "8d331f57084936d8e4a0d30ce6cc06dc",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_047_timing.json": {
-    "mtime": 1793552865.7002294,
-    "seen": 1793634665.104839,
-    "ast_hash": "eb958154023cb6f828d8d096a89e9203",
+    "mtime": 1793713891.5863588,
+    "seen": 1793714341.8599625,
+    "ast_hash": "a45e587500bce4c45be6d1faa39a2277",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_048_timing.json": {
-    "mtime": 1793552865.7002294,
-    "seen": 1793634665.104839,
-    "ast_hash": "00bbe9ffe98b184ca356416f769a255a",
+    "mtime": 1793713891.5863588,
+    "seen": 1793714341.8599625,
+    "ast_hash": "51a9095b0756f2767853d9bd382d95e3",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_049_timing.json": {
-    "mtime": 1793552865.701229,
-    "seen": 1793634665.104839,
-    "ast_hash": "4d67763e58949bf363e9a9b8e79f3ec6",
+    "mtime": 1793713891.5863588,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e5ba8c13f877845da9545df909502040",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_050_timing.json": {
-    "mtime": 1793552865.701229,
-    "seen": 1793634665.104839,
-    "ast_hash": "e5f69a8b8c94e5fc557ae75cf71fc303",
+    "mtime": 1793713891.5873597,
+    "seen": 1793714341.8599625,
+    "ast_hash": "77942ddfc7cebb44699b83a285ba0d3a",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_051_timing.json": {
-    "mtime": 1793552865.7022295,
-    "seen": 1793634665.104839,
-    "ast_hash": "4cb8c02fa77ab19ca3f2764adbf9ff9f",
+    "mtime": 1793713891.5881228,
+    "seen": 1793714341.8599625,
+    "ast_hash": "10bc0d5b42ca4e62cf79594a59ee19f7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_052_timing.json": {
-    "mtime": 1793552865.7022295,
-    "seen": 1793634665.104839,
-    "ast_hash": "a49c0ef653e972428f8990a3fb709648",
+    "mtime": 1793713891.5881228,
+    "seen": 1793714341.8599625,
+    "ast_hash": "d0f4f506b84006e98b1937eb3b56fbe3",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_053_timing.json": {
-    "mtime": 1793552865.7022295,
-    "seen": 1793634665.104839,
-    "ast_hash": "6d452f86341e754a97e5a9717d8991ad",
+    "mtime": 1793713891.5891283,
+    "seen": 1793714341.8599625,
+    "ast_hash": "1ab20f7ed926f55ce280921c3317f25d",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_054_timing.json": {
-    "mtime": 1793552865.7032292,
-    "seen": 1793634665.104839,
-    "ast_hash": "d2ad321eca6ed1ff3053a76dd4873b96",
+    "mtime": 1793713891.5891283,
+    "seen": 1793714341.8599625,
+    "ast_hash": "ddc558a74262b4a3f06c2d4907a523bd",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_055_timing.json": {
-    "mtime": 1793552865.7032292,
-    "seen": 1793634665.104839,
-    "ast_hash": "e2a453ae7dc5ee67d52764f611e5fd0c",
+    "mtime": 1793713891.5891283,
+    "seen": 1793714341.8599625,
+    "ast_hash": "8e59fa5c74a1eab04ffe0b47fb9610b9",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_056_timing.json": {
-    "mtime": 1793552865.7032292,
-    "seen": 1793634665.104839,
-    "ast_hash": "ad4749e1f23fadab5c7e69e8821d28f4",
+    "mtime": 1793713891.590128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "c2ae1a6bf8301001c09fe00803df0bab",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_057_timing.json": {
-    "mtime": 1793552865.704229,
-    "seen": 1793634665.104839,
-    "ast_hash": "efe06b50750ce7f839fe0ff253c7f39c",
+    "mtime": 1793713891.590128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "1659277f2773d7626f89958618ad860e",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_058_timing.json": {
-    "mtime": 1793552865.704229,
-    "seen": 1793634665.104839,
-    "ast_hash": "02e7b4064476b8f5f6b0a129986d3a15",
+    "mtime": 1793713891.5911279,
+    "seen": 1793714341.8599625,
+    "ast_hash": "bb40625628bfc4fc99fdfa1eaa95f2d5",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_059_timing.json": {
-    "mtime": 1793552865.704229,
-    "seen": 1793634665.104839,
-    "ast_hash": "3aa5cfe036bf7d881305633338d7e260",
+    "mtime": 1793713891.5911279,
+    "seen": 1793714341.8599625,
+    "ast_hash": "7a285d1fe02c92f018eeb15f5cbb1e4f",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_060_timing.json": {
-    "mtime": 1793552865.705229,
-    "seen": 1793634665.104839,
-    "ast_hash": "0e87f508e2867eefa42515c465ddd743",
+    "mtime": 1793713891.5921278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "5524989a41e7f2d7dd7151b9875f99ab",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_061_timing.json": {
-    "mtime": 1793552865.705229,
-    "seen": 1793634665.104839,
-    "ast_hash": "64a849e91ede60e2164dc81e97f651a3",
+    "mtime": 1793713891.5921278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "6b42b593b51ff76d97633663834fd2e6",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_062_timing.json": {
-    "mtime": 1793552865.705229,
-    "seen": 1793634665.104839,
-    "ast_hash": "52b770e8a69f34ad0a2405a408071d58",
+    "mtime": 1793713891.5921278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "9e3088697525e5a5f3f7921be1cd9921",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_063_timing.json": {
-    "mtime": 1793552865.7062604,
-    "seen": 1793634665.104839,
-    "ast_hash": "d764649229ee43a7446a9ed8aa31cdfc",
+    "mtime": 1793713891.5931277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "4822690a2cd98d8c61fe927e4823e31d",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_064_timing.json": {
-    "mtime": 1793552865.7063754,
-    "seen": 1793634665.104839,
-    "ast_hash": "27260afc84f361fe31137b6705dcd985",
+    "mtime": 1793713891.5931277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "029499c1fe3c694d1de9c658c59ac406",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_065_timing.json": {
-    "mtime": 1793552865.7063754,
-    "seen": 1793634665.104839,
-    "ast_hash": "8adf9b4332a2cf180a7726f223ba1015",
+    "mtime": 1793713891.5931277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "9a118ff98784854fac9468f61d41a103",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_066_timing.json": {
-    "mtime": 1793552865.7063754,
-    "seen": 1793634665.104839,
-    "ast_hash": "5002d9b7c60f3e00a8c6272ea48d8c65",
+    "mtime": 1793713891.594128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "d3d3be76a4e8b5ae51fa62537b26123f",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_067_timing.json": {
-    "mtime": 1793552865.707375,
-    "seen": 1793634665.104839,
-    "ast_hash": "568ffac64532b390efe68eaae42b27ba",
+    "mtime": 1793713891.594128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "ac5fec034d8dd5247f9799d8b98929b0",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_068_timing.json": {
-    "mtime": 1793552865.707375,
-    "seen": 1793634665.104839,
-    "ast_hash": "5415cb4fc796fa42c9e7cf5e48ff533c",
+    "mtime": 1793713891.594128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "2923822e1e79214b4fec881df0bd3c9b",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_069_timing.json": {
-    "mtime": 1793552865.707375,
-    "seen": 1793634665.104839,
-    "ast_hash": "1a7d484f01a3e768dd1a14c6bb824de5",
+    "mtime": 1793713891.5951276,
+    "seen": 1793714341.8599625,
+    "ast_hash": "42420ad851d5660ded03600f9347a7b2",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_070_timing.json": {
-    "mtime": 1793552865.707375,
-    "seen": 1793634665.104839,
-    "ast_hash": "29322f1f83dc7f3c83886e568424998b",
+    "mtime": 1793713891.5951276,
+    "seen": 1793714341.8599625,
+    "ast_hash": "0b3d47274bacc35e4b2be75ed9a3a0bb",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_071_timing.json": {
-    "mtime": 1793552865.707375,
-    "seen": 1793634665.104839,
-    "ast_hash": "60ea576bb61d37568f7a18c721519559",
+    "mtime": 1793713891.5961277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "59c9ae8e77a1bd851d1acfbea4e15745",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_072_timing.json": {
-    "mtime": 1793552865.7083757,
-    "seen": 1793634665.104839,
-    "ast_hash": "031e1b562e59c78a4a44b56838544309",
+    "mtime": 1793713891.5961277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "7b5a8813ea166f171ed0a0a29a791ddd",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_073_timing.json": {
-    "mtime": 1793552865.7083757,
-    "seen": 1793634665.104839,
-    "ast_hash": "449b7c8d23a491649aa0708cd3a8861b",
+    "mtime": 1793713891.5961277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "148d7d2f1d7fbb6e57271c2c4216c1c4",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_074_timing.json": {
-    "mtime": 1793552865.7083757,
-    "seen": 1793634665.104839,
-    "ast_hash": "7d1a9f88664904d582b41e10370acaf5",
+    "mtime": 1793713891.597128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "4715e1d8a60d567ea36918e04e805602",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_075_timing.json": {
-    "mtime": 1793552865.7083757,
-    "seen": 1793634665.104839,
-    "ast_hash": "f1d98f24e0c74769745734c1adeb5dee",
+    "mtime": 1793713891.597128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "3de60189eba052601d1d89de0ea5abc5",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_076_timing.json": {
-    "mtime": 1793552865.7093756,
-    "seen": 1793634665.104839,
-    "ast_hash": "4f78fb01a5abc0ffcf08f865a23847f7",
+    "mtime": 1793713891.5981276,
+    "seen": 1793714341.8599625,
+    "ast_hash": "857227c357ca560d9fcebb90338a02b3",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_077_timing.json": {
-    "mtime": 1793552865.7093756,
-    "seen": 1793634665.104839,
-    "ast_hash": "e6c00a48a201d7ba9bc06e4e0b4cda86",
+    "mtime": 1793713891.5981276,
+    "seen": 1793714341.8599625,
+    "ast_hash": "b29c657ebfe4d80291e30402f827c1af",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_078_timing.json": {
-    "mtime": 1793552865.7093756,
-    "seen": 1793634665.104839,
-    "ast_hash": "0f22a96345f0f2ebfe6a4b4ef1b9fa6a",
+    "mtime": 1793713891.5991278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "3349f72d17c69dd31c478fed0802dff7",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_079_timing.json": {
-    "mtime": 1793552865.7093756,
-    "seen": 1793634665.104839,
-    "ast_hash": "20abb4835b6e76271d23394e9d584ef4",
+    "mtime": 1793713891.5991278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "865d3bdf173e1ea7d34c0571447fedc1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_080_timing.json": {
-    "mtime": 1793552865.7103758,
-    "seen": 1793634665.104839,
-    "ast_hash": "d34f511d529ad79f0b2547ead6a2e9c0",
+    "mtime": 1793713891.5991278,
+    "seen": 1793714341.8599625,
+    "ast_hash": "ebb9217579c4d7e57d9a1c54a28be731",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_081_timing.json": {
-    "mtime": 1793552865.7103758,
-    "seen": 1793634665.104839,
-    "ast_hash": "1e9e580021560405e326a02e310c0775",
+    "mtime": 1793713891.6001277,
+    "seen": 1793714341.8599625,
+    "ast_hash": "6a9b79512d96faa6e45b06e7b7b5f729",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_082_timing.json": {
-    "mtime": 1793552865.7103758,
-    "seen": 1793634665.104839,
-    "ast_hash": "b715b7842c956ad43fa2653cb829a0c6",
+    "mtime": 1793713891.6011314,
+    "seen": 1793714341.8599625,
+    "ast_hash": "137e8b5970e77cce83e0397ecc2b0a14",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_083_timing.json": {
-    "mtime": 1793552865.7103758,
-    "seen": 1793634665.104839,
-    "ast_hash": "4262338fb68deb04da8a4b7cbd453b6c",
+    "mtime": 1793713891.602128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "d323d4353e810cc64285c790ad047f66",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_084_timing.json": {
-    "mtime": 1793552865.7103758,
-    "seen": 1793634665.104839,
-    "ast_hash": "2746f2979098a90c6c5975262aa69b11",
+    "mtime": 1793713891.602128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e7dd56b7ec91b13c435435e1efe29836",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_085_timing.json": {
-    "mtime": 1793552865.7113755,
-    "seen": 1793634665.104839,
-    "ast_hash": "d66296d5e65b4d8f238cae04b4358a40",
+    "mtime": 1793713891.602128,
+    "seen": 1793714341.8599625,
+    "ast_hash": "58bb783a2f38379316b02d8d84482b06",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_086_timing.json": {
-    "mtime": 1793552865.7113755,
-    "seen": 1793634665.104839,
-    "ast_hash": "b9049b5ec7f3c5134d49cd78e15acb08",
+    "mtime": 1793713891.6031296,
+    "seen": 1793714341.8599625,
+    "ast_hash": "e2b251a0ac7fd2ba615dc0b22c38c8c2",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_087_timing.json": {
-    "mtime": 1793552865.7113755,
-    "seen": 1793634665.104839,
-    "ast_hash": "93c776e93bb990e42bea62080cc15969",
+    "mtime": 1793713891.6031296,
+    "seen": 1793714341.8599625,
+    "ast_hash": "48f482f68640910c809965f24b9b65eb",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_088_timing.json": {
-    "mtime": 1793552865.7113755,
-    "seen": 1793634665.104839,
-    "ast_hash": "7470b4829a1dc54211af29b1cbb29d2a",
+    "mtime": 1793713891.604129,
+    "seen": 1793714341.8599625,
+    "ast_hash": "fb73b0d3300f7fb9964f7ea0985747e2",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_089_timing.json": {
-    "mtime": 1793552865.712376,
-    "seen": 1793634665.104839,
-    "ast_hash": "34d5f8bc1a3fdb928bc8d9659849c01e",
+    "mtime": 1793713891.604129,
+    "seen": 1793714341.8599625,
+    "ast_hash": "dc87a0e699fa6be82cf31d3413cad818",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_090_timing.json": {
-    "mtime": 1793552865.712376,
-    "seen": 1793634665.104839,
-    "ast_hash": "4fdd595f485fbc9597e454df4092ee93",
+    "mtime": 1793713891.6051288,
+    "seen": 1793714341.8599625,
+    "ast_hash": "7806d418df3bb24923e84ef80ebc86f1",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_091_timing.json": {
-    "mtime": 1793552865.712376,
-    "seen": 1793634665.104839,
-    "ast_hash": "dc54d84a2ba7bf6f478878991854a78b",
+    "mtime": 1793713891.6051288,
+    "seen": 1793714341.8599625,
+    "ast_hash": "16002bedf0982dca78e335bdce15d97e",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_092_timing.json": {
-    "mtime": 1793552865.712376,
-    "seen": 1793634665.104839,
-    "ast_hash": "324c085e72dbf5ec216c4f792edfc4ce",
+    "mtime": 1793713891.6051288,
+    "seen": 1793714341.8599625,
+    "ast_hash": "0c758912b110d6a0455ba570b6c9ef47",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_093_timing.json": {
-    "mtime": 1793552865.7133758,
-    "seen": 1793634665.104839,
-    "ast_hash": "7db59d15f90df3349bfff718522f00d5",
+    "mtime": 1793713891.6061287,
+    "seen": 1793714341.8599625,
+    "ast_hash": "d61176dad403ace73e730429374141e0",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_094_timing.json": {
-    "mtime": 1793552865.7133758,
-    "seen": 1793634665.104839,
-    "ast_hash": "83d856e2047f255619d60e70b0b0b4b6",
+    "mtime": 1793713891.6061287,
+    "seen": 1793714341.8599625,
+    "ast_hash": "d54d1d30c9c6f2ce3e16ac54c40c28e9",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/timings/scene_095_timing.json": {
@@ -1842,15 +1836,15 @@
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/prompts/prompt_aiv_list.txt": {
-    "mtime": 1793636158.4070823,
-    "seen": 1793636291.0676877,
-    "ast_hash": "8bc486618302691ab7e212c97bf3db53",
+    "mtime": 1793714276.8576436,
+    "seen": 1793714341.8609622,
+    "ast_hash": "1f132cfda00da26bcc1265710312b9e3",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/prompts/prompts_img_list.txt": {
-    "mtime": 1793636158.4060826,
-    "seen": 1793636291.0676877,
-    "ast_hash": "ee1d6f953eb1fe8770aa09b63dd03eac",
+    "mtime": 1793714276.8576436,
+    "seen": 1793714341.8609622,
+    "ast_hash": "62bbbe7f89c824b8d20be98ea3b31d3c",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/script.txt": {
@@ -2043,1182 +2037,6 @@
     "mtime": 1793473729.7137108,
     "seen": 1793634665.1058397,
     "ast_hash": "776e8205ae33f18a0b85264deb0f0dca",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/100_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629645.8513181,
-    "seen": 1793634665.1058397,
-    "ast_hash": "afec57e404539f3cae28ef1f6603622b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/101_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629667.5000913,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0e203aae40a4fb0be80ef20a09749c33",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/102_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629672.9447134,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b6fb6b9a5ddfc34143e5f70ea40fefdb",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/103_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629679.1077821,
-    "seen": 1793634665.1058397,
-    "ast_hash": "312a7314c23d1fb3126f09660529b232",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/104_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629693.3830683,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2b4b34fbbcc3aa4f0abe37487a67c040",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/105_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629698.3472502,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5a911bdf7e78af9f06dc1354a8128cf2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/106_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629702.9798093,
-    "seen": 1793634665.1058397,
-    "ast_hash": "9c221b954de391bce6d7bb4a2352b263",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/107_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793629718.4801204,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3394204e50465f2f7d26d5755ff3de8f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/108_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629724.7193322,
-    "seen": 1793634665.1058397,
-    "ast_hash": "151515e49f7c1ad30e05de944c97e919",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/109_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793629731.4395647,
-    "seen": 1793634665.1058397,
-    "ast_hash": "38243a6f89b82760527d5b7575d7c713",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/10_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628683.0605235,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3c40e2de7a9c80c5faf59ea45e3d02ad",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/110_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629757.6459544,
-    "seen": 1793634665.1058397,
-    "ast_hash": "05c44f5b00cf3e1b4dac4783b61dda2c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/111_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629752.454162,
-    "seen": 1793634665.1058397,
-    "ast_hash": "04d770aaaf5cbcc95eaf1e9d90f02501",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/112_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629759.164181,
-    "seen": 1793634665.1058397,
-    "ast_hash": "8cf0d53b88eef9641d88380f00192a59",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/113_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629781.2878072,
-    "seen": 1793634665.1058397,
-    "ast_hash": "67826720ed43743d63a33a4b5290421c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/114_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629796.3137245,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f021b96b659c2070a21033462b94129e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/115_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793629786.3729696,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ef0d77d32e3d44a962cd6faecfe5324e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/116_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629817.33275,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4888d67c11e51ec3c6a4f6700bcd53c2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/117_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629815.0256279,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b2e457a609c9607d59092f6d7297425b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/118_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629821.2426243,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f8b18b451570fd718d87ab791fcde0f7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/119_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629842.0961962,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0c27b73d9fd26b3b8c04c8c56e23b7ac",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/11_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793628692.1958568,
-    "seen": 1793634665.1058397,
-    "ast_hash": "1341c336e1d253b6c68d85480d6c7507",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/120_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629844.3881505,
-    "seen": 1793634665.1058397,
-    "ast_hash": "bfacff16a6fd3dea0d9f8e06cd869a67",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/121_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629849.184246,
-    "seen": 1793634665.1058397,
-    "ast_hash": "17fbb17ac2722af963d81c7133fef4f1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/122_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629879.3808916,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e8365d05fa23d6109f1a7ba48f4ca04a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/123_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793629884.028538,
-    "seen": 1793634665.1058397,
-    "ast_hash": "8a59807bcb811b0079f9941e7daf627f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/124_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629874.5308466,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f7565dd6cf6f0574bcb1b54eda18ef0c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/125_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629915.885516,
-    "seen": 1793634665.1058397,
-    "ast_hash": "37c52abac9f89a22e390c944be1783d7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/126_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629915.9595027,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4633c49de09bda84f67a87754e2f193e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/127_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793629915.8398817,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2eba604be5239ba25ae50b6188a05d36",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/128_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629938.9364557,
-    "seen": 1793634665.1058397,
-    "ast_hash": "bffa349d45af0ab36d0e59bb89c9481c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/129_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629967.274419,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2f5ca68c0d4f402127ef13fc72653909",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/12_stickman_wearing_his_cozy_kni_s1.jpg": {
-    "mtime": 1793628702.1950893,
-    "seen": 1793634665.1058397,
-    "ast_hash": "37d3a128796d9040ff889361679bd56a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/130_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629951.4962704,
-    "seen": 1793634665.1058397,
-    "ast_hash": "7e60b079c369128cce99e56155c80795",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/131_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629997.5039053,
-    "seen": 1793634665.1058397,
-    "ast_hash": "d08cd6192e26ff4d927ed9058667fa49",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/132_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629979.6772573,
-    "seen": 1793634665.1058397,
-    "ast_hash": "191dc7ff1ada0bbfb70c6bb79b69ef99",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/133_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629997.5039053,
-    "seen": 1793634665.1058397,
-    "ast_hash": "dab513f32dd888cf2a434c0afe97c78e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/134_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629998.747825,
-    "seen": 1793634665.1058397,
-    "ast_hash": "43f935faa21e5757965304afe1257c70",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/135_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630049.9361885,
-    "seen": 1793634665.1058397,
-    "ast_hash": "00a4ccefd155382005c7bfa6401eae7f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/136_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630063.0857177,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ca4249b68616e1316f519b8be02da301",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/137_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630026.556788,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0a6a0125d66f9b12fcc5f7b4e7f4cba2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/138_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630063.0977144,
-    "seen": 1793634665.1058397,
-    "ast_hash": "39da3c7aedc609bc7b510a5b39106782",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/139_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630086.7274446,
-    "seen": 1793634665.1058397,
-    "ast_hash": "604a1596928bae3722e1fa2bfca6a0bc",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/13_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793628710.3476107,
-    "seen": 1793634665.1058397,
-    "ast_hash": "7d635646bac14462a74106248b604ba8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/140_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793630099.1870832,
-    "seen": 1793634665.1058397,
-    "ast_hash": "680a9a1a0e9517bc0e91d33f6138c285",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/141_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630111.4432547,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b430d8bbc6cd44678607b02760e822d1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/142_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793630138.0721908,
-    "seen": 1793634665.1058397,
-    "ast_hash": "22f628d37b402d1fbd99167268eaf23b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/143_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630126.9663963,
-    "seen": 1793634665.1058397,
-    "ast_hash": "964cde76a67006bb3d854d3dd299d486",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/144_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630138.0721908,
-    "seen": 1793634665.1058397,
-    "ast_hash": "83cc9f8085225dfec8ac064ee10c2181",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/145_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630156.1036818,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fc2d3e3a7d488db1382d5c7419a9c8cc",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/146_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630178.9360678,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ed8d5356ee585973ef0cd1eaa98dcb9f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/147_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630178.28921,
-    "seen": 1793634665.1058397,
-    "ast_hash": "cc35b703d7807aefabfc2c4669e53b88",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/148_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630192.9919555,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e46d6dc2343512d20b56930487d0c14b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/149_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630203.8423612,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4ebe64843eee7f0a50328fdea6b0eb95",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/14_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793628720.3803465,
-    "seen": 1793634665.1058397,
-    "ast_hash": "47f34f0718603ec7726394a301531582",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/150_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793630220.2634814,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5c541505d915032ca1a482f65dd963a9",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/151_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630220.3670013,
-    "seen": 1793634665.1058397,
-    "ast_hash": "15c555d3d82ec15d7f8a050e93403382",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/152_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630222.2231004,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a0f97ac6fba46b8e56e7399608b459d6",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/153_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630244.5110314,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c9c64f7f478c00d8f9c25aaec8d6d5a1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/154_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793630257.0764203,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c387d979475d6c4f15a07080c71c3805",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/155_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793630273.4831567,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b920163c66b5304c4e6673ac50a7820a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/156_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793630275.0023694,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a2263d5e756f41c112810693b1256f8a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/157_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630320.7129345,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ddf7ab0c2b0bd708cbde74b098975f58",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/158_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630321.444147,
-    "seen": 1793634665.1058397,
-    "ast_hash": "72603d205519c27e8d575ff0a71586e8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/159_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630321.444147,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fa99231faa2044475d9d201676f715ae",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/15_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793628728.8206599,
-    "seen": 1793634665.1058397,
-    "ast_hash": "535e247cc4b508e9689ad5a3a40c410a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/160_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793630320.844957,
-    "seen": 1793634665.1058397,
-    "ast_hash": "687347f861184f0409babbaedf2b0828",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/161_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630347.9150872,
-    "seen": 1793634665.1058397,
-    "ast_hash": "9336f8d4cc0f2595f46c7ac4f2370c20",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/162_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630376.1199453,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f6300daefcbb778d3d1a1562d72a5df6",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/163_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630376.08695,
-    "seen": 1793634665.1058397,
-    "ast_hash": "8c96a32948637c2aab73c87e9e339fad",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/164_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793630377.2626987,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6c464a66b75d671ca64f5f651426596f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/165_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630377.9262958,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ee5649f2228ea0b32b094384e6e13cdb",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/166_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630379.5012372,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b67b50d2f2e53e2eab48631e1a6df43e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/167_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793630412.7837062,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b1bf19da38a99912cbaa6bccf8a53c93",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/168_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793630434.401402,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2083015c10c7a6338269d068b87a6cfd",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/169_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630413.559491,
-    "seen": 1793634665.1058397,
-    "ast_hash": "354f1d4798d84337730e1c106c955c4a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/16_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628737.8766656,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c781117e5e67dae99ee64bdce963c1bc",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/170_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630457.047046,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c9348f380ac56a4d9ad5dd7154b2b3c8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/171_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793630457.1370332,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6122c7d83e0fdd014bd7d9da114fc8ee",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/172_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630456.8200772,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fab1711631a2f8eb3a65155c5208e656",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/173_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630526.3207788,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0b1e10dac0dfd93b54bcec6236444dfc",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/174_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630485.6446333,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e4292381ff69197339b7992cd6fed58c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/175_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630488.102281,
-    "seen": 1793634665.1058397,
-    "ast_hash": "27eb5fd1e04cc98e2d4af120de6e3195",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/176_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630527.4367201,
-    "seen": 1793634665.1058397,
-    "ast_hash": "11bc86f51dfcf92503c97bfae02ce5db",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/177_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630527.2807138,
-    "seen": 1793634665.1058397,
-    "ast_hash": "29dcb6f9349aa8bca723e9a13274cff2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/178_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630527.0947573,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c8285adf732479b5f87ae883a17b37dd",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/179_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630554.965063,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e64cf7bf539faa21f5bdcfe983b6f52f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/17_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628749.975341,
-    "seen": 1793634665.1058397,
-    "ast_hash": "27d168d10c677d04323b53e1d18585d1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/180_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793630577.0558114,
-    "seen": 1793634665.1058397,
-    "ast_hash": "bf7887c8e345ed9477930402af2385f8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/181_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793630567.8823626,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e5f62ebcef136aadde808aff24caaedf",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/182_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630595.3122194,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e31051ead315771427bada09771839a8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/183_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630595.6977766,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ac798cbe45c0eb3cdf419c5fa9444dc2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/184_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793630607.5409727,
-    "seen": 1793634665.1058397,
-    "ast_hash": "735e708188e2dc837a737143045d907a",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/185_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793630641.9909556,
-    "seen": 1793634665.1058397,
-    "ast_hash": "1c890529be9165349cf5768a6860232e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/186_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630624.8998199,
-    "seen": 1793634665.1058397,
-    "ast_hash": "70105e5888520649a4b1ed716f79e653",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/187_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630623.8934486,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f36ce414ffa5803545df91ae650b2d75",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/188_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630653.4241953,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5dc05d7d5a076f54b40e35bbb07f7eb9",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/189_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793630654.2062483,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a1f652816695fe49dd971208f8606ce4",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/18_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793628815.767715,
-    "seen": 1793634665.1058397,
-    "ast_hash": "23bb8e493923ab43365b426d09d4147b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/190_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793630672.9787977,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6972c360466f0f4544f098dfce420c55",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/191_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793630684.619841,
-    "seen": 1793634665.1058397,
-    "ast_hash": "00b774364b9f55a8917b01dfd9f1a276",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/192_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793630695.7630217,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f2124e81c9c07638843bc5f6b68bfe7e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/193_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793630707.4496033,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a26e45d70c672541fb2e5da48de7b0f8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/194_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630721.5405805,
-    "seen": 1793634665.1058397,
-    "ast_hash": "50da9a648a09ea80f71b4b376324d7d7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/195_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793630733.726894,
-    "seen": 1793634665.1058397,
-    "ast_hash": "8065081b7a00d9ecec7fee9e696d7e9d",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/196_stickman_wearing_his_cozy_kni_s1.jpg": {
-    "mtime": 1793630746.785103,
-    "seen": 1793634665.1058397,
-    "ast_hash": "93b9202dc2fa0823731750fd490b4249",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/19_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793628814.3541272,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6b5e3e10d80c64d19bd419da4f0ffb84",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/1_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793628616.3896441,
-    "seen": 1793634665.1058397,
-    "ast_hash": "13fdf1196ed779132678dca2eeaf8670",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/20_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793628838.8230455,
-    "seen": 1793634665.1058397,
-    "ast_hash": "858409d01941da6bdf46edd6c7aaa6a5",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/21_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793628847.2972627,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ac8f772c0e17c8c08cf1a17ce6d6db89",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/22_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628839.7690015,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0d24e784b3c00a1c2f5c0e6c765b04d8",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/23_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793628901.3290625,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fdd5b2dad93dfc59c9b6be982c538c61",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/24_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793628864.1722922,
-    "seen": 1793634665.1058397,
-    "ast_hash": "07351d9e423dfa27dfdc6d4c905a24ae",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/25_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628877.0225053,
-    "seen": 1793634665.1058397,
-    "ast_hash": "42c0b7018bc4062c0252e18ae9de6b16",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/26_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628892.3640974,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6a34f8adecaf8ae1df8a114881c98a42",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/27_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793628910.3775468,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f6bd34af8b5c3220fac108be1f8a5281",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/28_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793628929.9460135,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e2df66de07f8406c07632caeb5e8abba",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/29_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628929.9460135,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4cd67751642c5086269c218a2e091de7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/2_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793628606.1185715,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6755ccfd3586acd5e5e0cc83ade75f67",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/30_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793628952.2583387,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3a168ef654a5672c938c8f9f4c30c300",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/31_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628955.9572995,
-    "seen": 1793634665.1058397,
-    "ast_hash": "aa7ba22358ccc224c9cdb0d9b56d3000",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/32_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793628955.8251472,
-    "seen": 1793634665.1058397,
-    "ast_hash": "39fdfd8b11f1e582754b7f32a05f32f7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/33_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629021.450055,
-    "seen": 1793634665.1058397,
-    "ast_hash": "52cae5becd21147222cd790273670b1b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/34_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793628979.2219195,
-    "seen": 1793634665.1058397,
-    "ast_hash": "65fdf46db067c3a9148e0c8f68b8cc72",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/35_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793628990.54992,
-    "seen": 1793634665.1058397,
-    "ast_hash": "bb3c6cd177bebd797e99655bbe78b746",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/36_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629028.4800494,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c4613f29cebc79485714768a3b6ce635",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/37_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793629011.902186,
-    "seen": 1793634665.1058397,
-    "ast_hash": "23405fd69b4bac9505d5a3da03881533",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/38_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629040.1615398,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0845dce61eff45e6f4c7ca4b97e8b75b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/39_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629041.4428897,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2bd153a24f7b9a7e250eacf120dda90c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/3_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793628604.7296162,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0081455cc4913d1977b43a9eb34e3c60",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/40_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629054.6585133,
-    "seen": 1793634665.1058397,
-    "ast_hash": "adcf206465ee8b0c61bed6c1af3c705d",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/41_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793629084.8336785,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ff8b38688e3778984b8688be4ef1f094",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/42_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629072.7090726,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c5217be16f3dcee190c2256d7a274796",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/43_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629094.3963084,
-    "seen": 1793634665.1058397,
-    "ast_hash": "1f1e0359c25a6228adb99faeb8c25d55",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/44_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629099.9805195,
-    "seen": 1793634665.1058397,
-    "ast_hash": "ee83c2a16d58a0bfa156c7469e25b9cf",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/45_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793629102.965205,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5962639e0e18fd88dc11b9972ca4100f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/46_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629121.3710704,
-    "seen": 1793634665.1058397,
-    "ast_hash": "63b6f68e51e7235b02d3fcdffbd528c6",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/47_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629137.2388628,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e415311077593b4c4c2eabe3a37d659b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/48_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629130.886053,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a77271df49348dc1fb1a9331d2953355",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/49_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629146.5135484,
-    "seen": 1793634665.1058397,
-    "ast_hash": "97da67adc4f4fcc94ae131d97d3518d4",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/4_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793628629.7050915,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fc3e13f135921639199e22a760202ad7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/50_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629159.2749484,
-    "seen": 1793634665.1058397,
-    "ast_hash": "46ec7cd0503eb0b496a4e9d4f4dd4e5b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/51_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629165.289755,
-    "seen": 1793634665.1058397,
-    "ast_hash": "92a3630d7681c0d9f45a703ee2c15c46",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/52_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629178.5347838,
-    "seen": 1793634665.1058397,
-    "ast_hash": "133cb463784f27874bec8e07425efc6c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/53_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629194.0053759,
-    "seen": 1793634665.1058397,
-    "ast_hash": "65bc6fd4e3aff80664cb0c3eb413c9f7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/54_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629201.2687461,
-    "seen": 1793634665.1058397,
-    "ast_hash": "79dbf029491539fa971e79a675d803c9",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/55_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629201.216175,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e2e3aa837b77a0df94c28847924f6621",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/56_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629231.6122255,
-    "seen": 1793634665.1058397,
-    "ast_hash": "cd81b75ad741633c10e096faabebdf6c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/57_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629227.5429296,
-    "seen": 1793634665.1058397,
-    "ast_hash": "863b1dcc38a8b3d4569c2b563fb6e1c7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/58_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629227.2602234,
-    "seen": 1793634665.1058397,
-    "ast_hash": "46cbf2168d6d0ec3bdc39e95185d661e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/59_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629261.9861042,
-    "seen": 1793634665.1058397,
-    "ast_hash": "cc5ae09be9cc541969ec57f6b264b937",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/5_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793628638.372385,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3715df0ac18d25f464ab6e2176bc70b0",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/60_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629254.7259827,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3d86d3a1667584822d967c53d4769cbb",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/61_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629257.807775,
-    "seen": 1793634665.1058397,
-    "ast_hash": "124b1eb5b1c36efc016d7967b39f5e85",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/62_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629282.3179078,
-    "seen": 1793634665.1058397,
-    "ast_hash": "224d9e3de13fe171a92c97c8be6ffd44",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/63_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629294.4039047,
-    "seen": 1793634665.1058397,
-    "ast_hash": "1945cd4fbc1d02a5525b3682f00ced72",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/64_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629286.9055955,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3f8f77a7876f415cec57cda6849af017",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/65_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629310.2419186,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0cef5f62b81878b0ea8d0d7606f41126",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/66_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629314.3217826,
-    "seen": 1793634665.1058397,
-    "ast_hash": "6353abbed6bb8a4519a7f0626db7dd5d",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/67_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629321.4402447,
-    "seen": 1793634665.1058397,
-    "ast_hash": "3d92baf8a9b4cb508d9ccbe55f001087",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/68_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793629351.2390516,
-    "seen": 1793634665.1058397,
-    "ast_hash": "df451544839429beffccc1df0507898b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/69_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629343.4184797,
-    "seen": 1793634665.1058397,
-    "ast_hash": "dc2d51fc448c9a88e78a42085f6732ec",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/6_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793628647.8186243,
-    "seen": 1793634665.1058397,
-    "ast_hash": "bac76ede3786a3d02558eb4fe67277d4",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/70_stickman_wearing_his_navy_hoo_s1.jpg": {
-    "mtime": 1793629347.6774487,
-    "seen": 1793634665.1058397,
-    "ast_hash": "83da237b15ebec57db1ad5489d31a787",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/71_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629382.9248383,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e5226dcce9f8e36de10e4cae0b2b03a5",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/72_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629381.4413388,
-    "seen": 1793634665.1058397,
-    "ast_hash": "a75a26075644e49946e2bac2b09941cd",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/73_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629378.561438,
-    "seen": 1793634665.1058397,
-    "ast_hash": "80d069dbc0521c9f1c9f6ea300021577",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/74_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629406.3801167,
-    "seen": 1793634665.1058397,
-    "ast_hash": "96021cb2151d10faa34fe09f01fc28b6",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/75_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629407.958531,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5ea7e9da81310bfcd68298c6d592674d",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/76_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629409.0202732,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4974a55670d4d2dd2bd4e5b94427c254",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/77_stickman_wearing_his_black_at_s1.jpg": {
-    "mtime": 1793629446.278519,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0ca9d02207d22a29b83412556bae8334",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/78_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793629436.890567,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b05684ce452dd50196792024288997ac",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/79_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629439.0692697,
-    "seen": 1793634665.1058397,
-    "ast_hash": "8e10e0319df3fe398f776f8c8582dfe1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/7_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793628656.0571153,
-    "seen": 1793634665.1058397,
-    "ast_hash": "442f2f7ea0dbbc0255ec1a86f89cb3c0",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/80_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629464.4512818,
-    "seen": 1793634665.1058397,
-    "ast_hash": "f8d98be75286197c2e17a165cb58217f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/81_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629475.8063664,
-    "seen": 1793634665.1058397,
-    "ast_hash": "c446cdd6627329ab404ec6fc58bc14b7",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/82_stickman_wearing_his_cozy_kni_s1.jpg": {
-    "mtime": 1793629470.0949585,
-    "seen": 1793634665.1058397,
-    "ast_hash": "165370f1b9a67cd27f040a6b118e5319",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/83_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629503.5660038,
-    "seen": 1793634665.1058397,
-    "ast_hash": "195846dd1af7f5e5784b547a8c18e910",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/84_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629502.104329,
-    "seen": 1793634665.1058397,
-    "ast_hash": "d3ed1f4d9704fd86c8389a00fe43f63e",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/85_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629501.22982,
-    "seen": 1793634665.1058397,
-    "ast_hash": "165407b0e40463f6fbebe6c1cd9ddd41",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/86_stickman_wearing_his_cozy_kni_s1.jpg": {
-    "mtime": 1793629543.979398,
-    "seen": 1793634665.1058397,
-    "ast_hash": "2ba8df8b70a987a03e4667be3fdebbe2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/87_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629526.78178,
-    "seen": 1793634665.1058397,
-    "ast_hash": "0723949239a63eed609f8f126f75add3",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/88_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629533.9556181,
-    "seen": 1793634665.1058397,
-    "ast_hash": "30a4c6e60d256925b0deb7c13b5d93c1",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/89_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629553.9940152,
-    "seen": 1793634665.1058397,
-    "ast_hash": "58de0e135ae583c40ad87a29ed0726c2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/8_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793628664.8248718,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b9570a5c8e613e4a9aa2ab0ac9a4569f",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/90_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629560.413536,
-    "seen": 1793634665.1058397,
-    "ast_hash": "eb38d2e9b432566a1099e87d5afb86b2",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/91_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629564.8778424,
-    "seen": 1793634665.1058397,
-    "ast_hash": "e67a3e0b465b434dda34e25f58e21483",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/92_stickman_wearing_his_casual_m_s1.jpg": {
-    "mtime": 1793629579.3508017,
-    "seen": 1793634665.1058397,
-    "ast_hash": "5b0d016d6045f09cbb0bb313ea9c1e49",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/93_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629589.0917299,
-    "seen": 1793634665.1058397,
-    "ast_hash": "efa83cdc77e6f8f2ec12b94e0b69f8b3",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/94_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629589.3526812,
-    "seen": 1793634665.1058397,
-    "ast_hash": "d3b2632d93ad2006e62c0c05503b269c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/95_stickman_wearing_his_oversize_s1.jpg": {
-    "mtime": 1793629605.8447442,
-    "seen": 1793634665.1058397,
-    "ast_hash": "4e6aa5bcfc6b61f122ee94606435d30b",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/96_A_professional_4-panel_storybo_s1.jpg": {
-    "mtime": 1793629615.646495,
-    "seen": 1793634665.1058397,
-    "ast_hash": "19d2c4f19f0868c59cf322c1fb089292",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/97_stickman_wearing_his_sharp_bl_s1.jpg": {
-    "mtime": 1793629616.3249743,
-    "seen": 1793634665.1058397,
-    "ast_hash": "b0c119c441013f3396868ea250044cfd",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/98_stickman_wearing_his_modern_d_s1.jpg": {
-    "mtime": 1793629649.2991543,
-    "seen": 1793634665.1058397,
-    "ast_hash": "509db0030de33d7d9eabd0b445d472d9",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/99_stickman_wearing_his_dark_tai_s1.jpg": {
-    "mtime": 1793629645.8413186,
-    "seen": 1793634665.1058397,
-    "ast_hash": "893db7b91e86e6086772bf2846020fd6",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/images/9_stickman_wearing_his_overwork_s1.jpg": {
-    "mtime": 1793628674.973756,
-    "seen": 1793634665.1058397,
-    "ast_hash": "fe4ff044e856b3b01a80857d38d5e3dd",
     "semantic_hash": ""
   },
   "channels/common_assets/bgm/a_better_future.mp3": {
@@ -3447,12 +2265,6 @@
     "mtime": 1793442874.72552,
     "seen": 1793634665.1058397,
     "ast_hash": "a3484e47d846ef9dd439771f2a321f0c",
-    "semantic_hash": ""
-  },
-  "workspace/thoi-quen-thinh-vuong/video_01/bgm/Gymnopedie_No_1.mp3": {
-    "mtime": 1793633352.2520275,
-    "seen": 1793634665.1058397,
-    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
     "semantic_hash": ""
   },
   "workspace/thoi-quen-thinh-vuong/video_01/bgm/a_better_future.mp3": {

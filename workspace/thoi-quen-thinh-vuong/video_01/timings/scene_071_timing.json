@@ -1,32 +1,227 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 71,
-  "abs_start_ms": 374240,
-  "abs_end_ms": 375480,
-  "duration_ms": 1240,
-  "word_count": 4,
+  "abs_start_ms": 726960,
+  "abs_end_ms": 736960,
+  "duration_ms": 10000,
+  "word_count": 43,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "hành",
+      "word": "Và",
       "start_ms": 0,
-      "end_ms": 120
+      "end_ms": 145
     },
     {
-      "word": "vi",
-      "start_ms": 120,
-      "end_ms": 400
+      "word": "chiếc",
+      "start_ms": 145,
+      "end_ms": 507
+    },
+    {
+      "word": "hộp",
+      "start_ms": 507,
+      "end_ms": 725
+    },
+    {
+      "word": "thứ",
+      "start_ms": 725,
+      "end_ms": 942
+    },
+    {
+      "word": "hai",
+      "start_ms": 942,
+      "end_ms": 1159
+    },
+    {
+      "word": "mang",
+      "start_ms": 1159,
+      "end_ms": 1449
+    },
+    {
+      "word": "tên:",
+      "start_ms": 1449,
+      "end_ms": 1667
+    },
+    {
+      "word": "Hộp",
+      "start_ms": 1667,
+      "end_ms": 1884
+    },
+    {
+      "word": "tự",
+      "start_ms": 1884,
+      "end_ms": 2029
+    },
+    {
+      "word": "do",
+      "start_ms": 2029,
+      "end_ms": 2174
+    },
+    {
+      "word": "tuyệt",
+      "start_ms": 2174,
+      "end_ms": 2536
+    },
+    {
+      "word": "đối.",
+      "start_ms": 2536,
+      "end_ms": 2754
+    },
+    {
+      "word": "Đây",
+      "start_ms": 2754,
+      "end_ms": 2971
+    },
+    {
+      "word": "là",
+      "start_ms": 2971,
+      "end_ms": 3116
+    },
+    {
+      "word": "số",
+      "start_ms": 3116,
+      "end_ms": 3261
+    },
+    {
+      "word": "tiền",
+      "start_ms": 3261,
+      "end_ms": 3551
+    },
+    {
+      "word": "còn",
+      "start_ms": 3551,
+      "end_ms": 3768
+    },
+    {
+      "word": "lại",
+      "start_ms": 3768,
+      "end_ms": 3986
+    },
+    {
+      "word": "sau",
+      "start_ms": 3986,
+      "end_ms": 4203
+    },
+    {
+      "word": "khi",
+      "start_ms": 4203,
+      "end_ms": 4420
+    },
+    {
+      "word": "bạn",
+      "start_ms": 4420,
+      "end_ms": 4638
+    },
+    {
+      "word": "đã",
+      "start_ms": 4638,
+      "end_ms": 4783
+    },
+    {
+      "word": "hoàn",
+      "start_ms": 4783,
+      "end_ms": 5072
+    },
+    {
+      "word": "thành",
+      "start_ms": 5072,
+      "end_ms": 5435
+    },
+    {
+      "word": "nghĩa",
+      "start_ms": 5435,
+      "end_ms": 5797
+    },
+    {
+      "word": "vụ",
+      "start_ms": 5797,
+      "end_ms": 5942
+    },
+    {
+      "word": "cho",
+      "start_ms": 5942,
+      "end_ms": 6159
+    },
+    {
+      "word": "chiếc",
+      "start_ms": 6159,
+      "end_ms": 6522
+    },
+    {
+      "word": "hộp",
+      "start_ms": 6522,
+      "end_ms": 6739
+    },
+    {
+      "word": "thứ",
+      "start_ms": 6739,
+      "end_ms": 6957
+    },
+    {
+      "word": "nhất",
+      "start_ms": 6957,
+      "end_ms": 7246
+    },
+    {
+      "word": "và",
+      "start_ms": 7246,
+      "end_ms": 7391
+    },
+    {
+      "word": "đã",
+      "start_ms": 7391,
+      "end_ms": 7536
     },
     {
       "word": "thanh",
-      "start_ms": 960,
-      "end_ms": 1060
+      "start_ms": 7536,
+      "end_ms": 7899
     },
     {
-      "word": "toán.",
-      "start_ms": 1060,
-      "end_ms": 1240
+      "word": "toán",
+      "start_ms": 7899,
+      "end_ms": 8188
+    },
+    {
+      "word": "đầy",
+      "start_ms": 8188,
+      "end_ms": 8406
+    },
+    {
+      "word": "đủ",
+      "start_ms": 8406,
+      "end_ms": 8551
+    },
+    {
+      "word": "con",
+      "start_ms": 8551,
+      "end_ms": 8768
+    },
+    {
+      "word": "số",
+      "start_ms": 8768,
+      "end_ms": 8913
+    },
+    {
+      "word": "vận",
+      "start_ms": 8913,
+      "end_ms": 9130
+    },
+    {
+      "word": "hành",
+      "start_ms": 9130,
+      "end_ms": 9420
+    },
+    {
+      "word": "tối",
+      "start_ms": 9420,
+      "end_ms": 9638
+    },
+    {
+      "word": "thiểu.",
+      "start_ms": 9638,
+      "end_ms": 10000
     }
   ],
   "aligned_with_script": true

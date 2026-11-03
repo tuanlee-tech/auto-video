@@ -30,7 +30,7 @@ WARDROBE_COLLECTION = {
     4: {
         "name": "Overworked Dress Shirt",
         "description": "overworked wrinkled white dress shirt with loosened tie",
-        "keywords": ["áp lực", "hóa đơn", "nợ", "kiệt sức", "tăng ca", "deadline", "bế tắc", "lo lắng", "chi tiêu quá mức", "tiêu xài", "bốc hơi"],
+        "keywords": ["áp lực", "hóa đơn", "nợ", "kiệt sức", "tăng ca", "deadline", "bế tắc", "lo lắng", "chi tiêu quá mức", "tiêu xài", "bốc hơi", "cuối tháng", "số dư", "thắt nghẹn", "ít ỏi"],
         "default_setting": "a dim high-end corporate glass office late at night, city skyline through rainy windows, fluorescent strip lighting casting hard shadows",
         "camera_motion": "pan_left"
     },
@@ -112,6 +112,19 @@ SEMANTIC_BROLL_CATALOG = [
         "metaphor",
         "A primeval atmospheric cinematic scene: an ancient glowing campfire burning quietly on the stone floor of a prehistoric cave, casting flickering warm orange light and dancing shadows on rough textured rock walls, with glowing embers rising into the cool darkness. Volumetric light, cinematic realism",
         "ancient natural cavern opening to starry night sky"
+    ),
+    # Strict Austerity vs Spending Impulse
+    (
+        ["sổ tay", "ghi chép", "thắt lưng buộc bụng", "cà phê đắt tiền", "mua sắm quần áo", "nhịn ăn nhịn tiêu", "bóp chẹt"],
+        "metaphor",
+        "A stark, elegant cinematic still life of strict financial austerity: an antique brass fountain pen resting on an open dark leather-bound expense ledger on an aged oak desk, with handwritten financial budgets neatly organized beside a simple untouched ceramic coffee cup and folded plain linen, illuminated under a single focused pool of warm tungsten overhead spotlight",
+        "minimalist dark study room with deep chiaroscuro contrast"
+    ),
+    (
+        ["bấm thanh toán", "đơn hàng", "tự thưởng", "bữa ăn thịnh soạn", "bốc hơi một cách bí ẩn"],
+        "metaphor",
+        "A dramatic cinematic visual metaphor of impulse spending and evaporating wealth: a sleek matte black payment terminal with a glowing emerald contactless wave ring on a dark reflective surface, surrounded by luxury shopping bags and fine dining silverware, while stacks of golden currency banknotes dissolve into luminous golden vapor and swirl away into thin air under cold cinematic lighting",
+        "dark reflective studio with volumetric atmospheric mist"
     ),
     # Two-Box Cash Flow & Banking Automation
     (

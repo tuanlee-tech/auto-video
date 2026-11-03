@@ -1,17 +1,17 @@
-# Graph Report - auto-video  (2026-11-02)
+# Graph Report - auto-video  (2026-11-03)
 
 ## Corpus Check
-- 304 files · ~161,236 words
+- 303 files · ~213,498 words
 - Verdict: corpus is large enough that graph structure adds value.
 - Unclassified: 3 file(s) not represented in the graph (top: (none) 2, .css 1)
 
 ## Summary
-- 1843 nodes · 3841 edges · 113 communities (91 shown, 22 thin omitted)
+- 1841 nodes · 3841 edges · 109 communities (88 shown, 21 thin omitted)
 - Extraction: 93% EXTRACTED · 7% INFERRED · 0% AMBIGUOUS · INFERRED: 256 edges (avg confidence: 0.86)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `6d7654e3`
+- Built from commit: `f19639ed`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -40,7 +40,7 @@
 - AI Agent Master Playbook: Tự Động Phối Hợp 20 Skills Trong Auto Video Studio
 - fi
 - video_01/manifest.json
-- bgm_synthesizer.py
+- n
 - Ce
 - Auto Flow Studio: AI Video & Image Generator
 - Auto Flow Studio: AI Video & Image Generator
@@ -50,7 +50,7 @@
 - DNA KÊNH: THÓI QUEN THỊNH VƯỢNG (@stickman)
 - Libraries Map
 - CHI TIẾT THÔNG SỐ TỪNG VIDEO TRONG CHUỖI
-- bn
+- j
 - _
 - _d
 - Hn
@@ -60,14 +60,14 @@
 - FFmpeg Video Assembly
 - Postprocessing Effects
 - Ft
-- Ar
+- r
 - compilerOptions
 - Channel DNA & Branding Architect Skill
 - Drei R3F Helpers
 - Motion Canvas TypeScript Animation
 - Kênh: Thói Quen Thịnh Vượng (@stickman)
 - 3. Quy Trình Vận Hành 100% Dynamic Qua CLI
-- qa
+- jn
 - Anime.js Lightweight Animation
 - Claude Browser Automation
 - Google Gemini API
@@ -76,7 +76,7 @@
 - YouTube Data API Upload
 - N
 - $e
-- Cu
+- St
 - GSAP Animation Mastery
 - Howler.js Audio Engine
 - Lottie After Effects Export
@@ -89,34 +89,30 @@
 - Whisper SRT Extraction
 - d
 - ChannelConfig
-- _i
+- ke
 - google-flow-extension/mainworld-bridge.js
 - content/mainworld-bridge.js
 - Rive Interactive Animations
 - Satori HTML→SVG Generator
 - SVGO SVG Optimizer
 - Video Production Pipeline: End-to-End Master Skill
-- Au
+- bgm_engine.py
 - a
 - ch
-- Bu
+- ep
+- xr
 - Go
 - We
-- j
+- X
 - sf
 - Ld
 - Tài Liệu Quy Chuẩn Hệ Thống Auto Video Pipeline
-- uf
-- up
 - ga
-- en
-- xf
-- vs
+- mi
 - es-DVaKZfnQ.js
 - pt_BR-CGGSIpts.js
 - tr-52WfsZRf.js
 - Oe
-- lp
 - _h
 - ll
 - Rs
@@ -155,7 +151,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (113 total, 22 thin omitted)
+## Communities (109 total, 21 thin omitted)
 
 ### Community 0 - "__"
 Cohesion: 0.01
@@ -167,27 +163,27 @@ Nodes (50): react, react-dom, remotion, @remotion/cli, @types/react, @types/reac
 
 ### Community 2 - "adapter-CEOGdgvO.js"
 Cohesion: 0.06
-Nodes (49): an, ar(), at(), br, cr(), dr, Ee(), en() (+41 more)
+Nodes (51): an, ar(), at(), br, bt(), cr(), dr, Ee() (+43 more)
 
 ### Community 3 - "pe"
-Cohesion: 0.17
-Nodes (25): ai(), Cs(), eu(), hl(), ks(), lu(), na(), nn() (+17 more)
+Cohesion: 0.13
+Nodes (32): F(), Cs(), Cu(), ge(), el(), eu(), hl(), Hr() (+24 more)
 
 ### Community 4 - "lf"
-Cohesion: 0.09
-Nodes (63): q(), bf(), c(), d(), f(), h(), l(), df() (+55 more)
+Cohesion: 0.11
+Nodes (48): q(), bf(), c(), d(), f(), h(), l(), Kt() (+40 more)
 
 ### Community 5 - "index.ts-B45OwTZr.js"
 Cohesion: 0.10
-Nodes (35): Cn(), ct(), _e(), it(), kn(), ne, st(), xe (+27 more)
+Nodes (34): Cn(), _e(), it(), kn(), ne, st(), xe, xn() (+26 more)
 
 ### Community 6 - "n"
-Cohesion: 0.10
-Nodes (82): vt(), R(), zt(), h(), ie(), c(), i(), l() (+74 more)
+Cohesion: 0.11
+Nodes (66): vt(), R(), zt(), h(), ie(), c(), i(), l() (+58 more)
 
 ### Community 7 - "vr"
 Cohesion: 0.12
-Nodes (5): li(), op(), sp(), vr, Zu()
+Nodes (6): li(), od(), op(), sp(), vr, Zu()
 
 ### Community 8 - "index.ts-Pz8Pbha5.js"
 Cohesion: 0.10
@@ -195,11 +191,15 @@ Nodes (19): H(), Bt(), __BUILTIN_RC, D(), g(), ie(), It, Kt (+11 more)
 
 ### Community 10 - "kl"
 Cohesion: 0.11
-Nodes (17): K(), Ba(), Da(), kl(), at(), B(), De(), F() (+9 more)
+Nodes (15): K(), Ba(), Da(), kl(), B(), De(), F(), G() (+7 more)
+
+### Community 11 - "bgm_synthesizer.py"
+Cohesion: 0.17
+Nodes (12): apply_reverb(), create_reverb_ir(), generate_all_stock_bgm(), generate_pad_voice(), low_pass_filter(), make_seamless_loop(), synthesize_dark_suspense(), synthesize_deep_contemplative() (+4 more)
 
 ### Community 12 - "hu"
-Cohesion: 0.13
-Nodes (21): al(), ao(), cl(), Dn(), du(), ea(), gi(), Gu() (+13 more)
+Cohesion: 0.10
+Nodes (25): ai(), al(), Au(), cl(), cr(), du(), ea(), Gu() (+17 more)
 
 ### Community 13 - "google-flow-extension/manifest.json"
 Cohesion: 0.07
@@ -210,8 +210,8 @@ Cohesion: 0.16
 Nodes (8): apply_ken_burns(), assemble_video(), find_image_for_cut(), get_best_encoder(), hex_to_bgr(), load_and_fit_image(), overlay_watermark(), test_encoder()
 
 ### Community 15 - "re"
-Cohesion: 0.12
-Nodes (13): SceneBeat, generate_project_prompts(), classify_scene_type(), clean_script_text(), parse_script_file(), build_aiv_video_prompt(), build_broll_prompt(), build_hero_prompt() (+5 more)
+Cohesion: 0.13
+Nodes (14): resolve_project_assets(), SceneBeat, generate_project_prompts(), classify_scene_type(), clean_script_text(), parse_script_file(), build_aiv_video_prompt(), build_broll_prompt() (+6 more)
 
 ### Community 16 - "un"
 Cohesion: 0.15
@@ -234,20 +234,20 @@ Cohesion: 0.09
 Nodes (21): 1. Ma Trận 20 Skills & Cách Phối Hợp Nhuần Nhuyễn (The 6-Tier Architecture), 2. Bản Đồ Hành Động Cho AI Agent Theo Từng Loại Tác Vụ, 3. Quy Chuẩn Code Mẫu: Kết Hợp Đa Thư Viện Trong Remotion, 4. Bốn Điều Bắt Buộc Khi Tạo Video AI (Google Flow / Veo / Omni Flash), 5. Quy Chuẩn Tự Động Phối Hợp 20 Skills (Bắt Buộc Cho AI Agent), 6. Bảng Tự Kiểm Tra (Pre-Flight Self-Audit Checklist), 7. Quy Tắc Vận Hành Pipeline (Zero-Hardcoding), 8.1. Skill 1: `channel-dna-branding` — Kiến Trúc Bản Sắc Thương Hiệu & SEO Kênh (+13 more)
 
 ### Community 22 - "fi"
-Cohesion: 0.15
-Nodes (9): ci(), Er(), fi, Gc, jc(), ke(), Ot(), Us() (+1 more)
+Cohesion: 0.13
+Nodes (9): Ne(), ci(), Er(), fi, jc(), Ot(), Sc, Sr() (+1 more)
 
 ### Community 23 - "video_01/manifest.json"
 Cohesion: 0.12
 Nodes (18): aspect_ratio, audio_file, bgm, fade_in_frames, fade_out_frames, bgm_file, mode, track_1 (+10 more)
 
-### Community 24 - "bgm_synthesizer.py"
-Cohesion: 0.52
-Nodes (10): apply_reverb(), create_reverb_ir(), generate_all_stock_bgm(), generate_pad_voice(), low_pass_filter(), make_seamless_loop(), synthesize_dark_suspense(), synthesize_deep_contemplative() (+2 more)
+### Community 24 - "n"
+Cohesion: 0.23
+Nodes (14): fe(), gf(), Hf(), jd(), jf(), jl(), kf(), Lt() (+6 more)
 
 ### Community 25 - "Ce"
-Cohesion: 0.22
-Nodes (13): Be(), d(), Ce(), dh(), La(), mf(), Nh(), Oa() (+5 more)
+Cohesion: 0.17
+Nodes (16): Aa(), Be(), d(), Ce(), dh(), La(), mf(), Nh() (+8 more)
 
 ### Community 26 - "Auto Flow Studio: AI Video & Image Generator"
 Cohesion: 0.12
@@ -262,8 +262,8 @@ Cohesion: 0.12
 Nodes (15): 10. Hệ Thống Nhạc Nền Tự Động (Smart Mood BGM & Audio Ducking), 11. DNA Kênh Chính Thức: "Thói Quen Thịnh Vượng" (@thoi-quen-thinh-vuong), 12. Hai Master Workflow Skills Cấp Cao (Xem Chi Tiết Tại `AGENT.md`), 1. Triết Lý Kiến Trúc: "Master Voice & Whisper Timeline", 2. Quy Tắc Nhân Vật Nhất Quán & Tách Biệt B-Roll (Decouple Character from Scene), 3. Phong Cách Hình Ảnh "Cinematic Hybrid", 4. Quy Trình Dựng & Xuất Video Chuẩn 60 FPS (Remotion Studio), 5. Nguyên Tắc Cốt Lõi: Hoàn Toàn Dynamic - Cấm Tiệt Hardcode (+7 more)
 
 ### Community 30 - "json"
-Cohesion: 0.22
-Nodes (6): init_channel(), generate_video_seo(), slugify(), resolve_project_assets(), export_srt(), ms_to_srt()
+Cohesion: 0.26
+Nodes (5): init_channel(), generate_video_seo(), slugify(), export_srt(), ms_to_srt()
 
 ### Community 31 - "DNA KÊNH: THÓI QUEN THỊNH VƯỢNG (@stickman)"
 Cohesion: 0.13
@@ -277,17 +277,17 @@ Nodes (13): Best Practices, Complexity Levels, I. Core Video (Remotion), II. Des
 Cohesion: 0.14
 Nodes (13): BẢNG TỔNG QUAN LỊCH PHÁT SÓNG 7 VIDEO, CHI TIẾT THÔNG SỐ TỪNG VIDEO TRONG CHUỖI, HƯỚNG DẪN THỰC THI SẢN XUẤT CHO TỪNG VIDEO QUA CLI PIPELINE, Kênh: Thói Quen Thịnh Vượng (@thoi-quen-thinh-vuong), LỊCH NỘI DUNG 7 VIDEO ĐẦU TIÊN (EDITORIAL CALENDAR), MA TRẬN PHÂN PHỐI 3 TRỤ CỘT & VÒNG LẶP ĐIỀU HƯỚNG (BINGE-WATCHING LOOP), VIDEO 01 (Mở Màn - Masterclass Tài Chính Đỉnh Cao), VIDEO 02 (Giải Mã Thần Kinh Học Về Tiền Bạc) (+5 more)
 
-### Community 34 - "bn"
-Cohesion: 0.18
-Nodes (10): be(), bn(), Me(), Mt(), rn(), _t(), Fe(), Ne() (+2 more)
+### Community 34 - "j"
+Cohesion: 0.19
+Nodes (14): be(), bn(), ct(), G(), j(), Me(), Mt(), nn() (+6 more)
 
 ### Community 35 - "_"
-Cohesion: 0.24
-Nodes (13): _, ae(), b, C(), ee(), I(), M(), ne() (+5 more)
+Cohesion: 0.23
+Nodes (14): _, ae(), b, C(), ee(), I(), M(), ne() (+6 more)
 
 ### Community 36 - "_d"
-Cohesion: 0.13
-Nodes (16): ca(), Cd(), cn(), _d(), gd(), md(), Pu(), Qs() (+8 more)
+Cohesion: 0.11
+Nodes (21): Bu(), ca(), Cd(), cn(), _d(), gd(), hd(), il() (+13 more)
 
 ### Community 37 - "Hn"
 Cohesion: 0.22
@@ -298,11 +298,11 @@ Cohesion: 0.20
 Nodes (5): di(), Do(), qi(), Wi(), yr
 
 ### Community 39 - "Xt"
-Cohesion: 0.16
-Nodes (12): fr(), gr(), ht(), Js(), Lc(), Mr, Qc(), Rn() (+4 more)
+Cohesion: 0.13
+Nodes (13): gr(), ht(), Ic(), Js(), Lc(), Mr, Qc(), Rn() (+5 more)
 
 ### Community 40 - "aligner.py"
-Cohesion: 0.28
+Cohesion: 0.29
 Nodes (5): align_audio_with_script(), build_timeline(), detect_silence_segments(), get_audio_duration(), parse_srt()
 
 ### Community 41 - "FFmpeg Video Assembly"
@@ -317,9 +317,9 @@ Nodes (11): Best Practices, Bloom, ChromaticAberration, Color Grading, Depth of 
 Cohesion: 0.17
 Nodes (4): Ft, G(), K(), x()
 
-### Community 44 - "Ar"
-Cohesion: 0.29
-Nodes (3): Ar, mr(), Rc
+### Community 44 - "r"
+Cohesion: 0.46
+Nodes (13): df(), a(), c(), d(), f(), h(), i(), k() (+5 more)
 
 ### Community 45 - "compilerOptions"
 Cohesion: 0.17
@@ -345,9 +345,9 @@ Nodes (10): 1. Thông Tin Định Danh Kênh (Channel Identity), 2. Mô Tả Kê
 Cohesion: 0.18
 Nodes (10): 1. Cấu Trúc Thư Mục Chuẩn Đa Kênh (Multi-Channel Architecture), 3. Quy Trình Vận Hành 100% Dynamic Qua CLI, 4. Cơ Chế Slot Video AI (Omni Flash 1.1 Fixed Durations), Auto Video Studio: Dynamic Video Pipeline Architecture, Bước 1: Khởi tạo project mới, Bước 2: Phân rã kịch bản (Parse), Bước 3: Sinh giọng đọc chuẩn mili-giây (Voice), Bước 4: Xuất Prompt cho Google Flow (Prompts) (+2 more)
 
-### Community 51 - "qa"
-Cohesion: 0.27
-Nodes (10): ap(), Ei(), ka(), pt(), qt(), po(), qa(), wl() (+2 more)
+### Community 51 - "jn"
+Cohesion: 0.28
+Nodes (9): ff(), jn(), pt(), qt(), Mn(), qa(), Wf(), xf() (+1 more)
 
 ### Community 52 - "Anime.js Lightweight Animation"
 Cohesion: 0.20
@@ -378,12 +378,12 @@ Cohesion: 0.20
 Nodes (10): ae(), Gt(), ht(), I(), M(), O(), R(), _t() (+2 more)
 
 ### Community 59 - "$e"
-Cohesion: 0.14
-Nodes (24): d, bo, Cn, Co(), Ct, ds(), $e(), eo() (+16 more)
+Cohesion: 0.19
+Nodes (19): d, bo, Cn, Co(), Ct, $e(), eo(), Fc() (+11 more)
 
-### Community 60 - "Cu"
-Cohesion: 0.15
-Nodes (10): F(), Cu(), ge(), el(), Hr(), Ic(), so(), Xi() (+2 more)
+### Community 60 - "St"
+Cohesion: 0.25
+Nodes (8): fp(), ip(), ja(), at(), bt(), Le(), Ze(), St()
 
 ### Community 61 - "GSAP Animation Mastery"
 Cohesion: 0.22
@@ -402,12 +402,12 @@ Cohesion: 0.22
 Nodes (8): Basic Setup, Best Practices, Camera Animation, Drei Helpers, Physics (Rapier), Postprocessing Effects, Remotion Integration, Three.js 3D Pipeline
 
 ### Community 65 - "models.py"
-Cohesion: 0.13
-Nodes (6): analyze_script_mood(), setup_project_bgm(), decompose_timeline_to_brolls(), export_brolls_to_csv_and_json(), map_text_to_visual(), PipelineConfig
+Cohesion: 0.22
+Nodes (4): decompose_timeline_to_brolls(), export_brolls_to_csv_and_json(), map_text_to_visual(), PipelineConfig
 
 ### Community 66 - "Ae"
-Cohesion: 0.20
-Nodes (18): Ae(), bh(), Bl(), en(), gh(), gs(), ja(), bt() (+10 more)
+Cohesion: 0.23
+Nodes (17): Ae(), bh(), Bl(), Ei(), en(), gh(), gs(), ee() (+9 more)
 
 ### Community 67 - "🛠️ Chi Tiết Từng Lệnh Thực Thi"
 Cohesion: 0.22
@@ -429,9 +429,9 @@ Nodes (7): Best Practices, CLI Usage, Convert to Frames (30fps), Node.js Integra
 Cohesion: 0.33
 Nodes (5): A, af(), D(), k(), of()
 
-### Community 73 - "_i"
-Cohesion: 0.29
-Nodes (7): fe(), Fo(), _i(), Ia(), jd(), Lt(), od()
+### Community 73 - "ke"
+Cohesion: 0.19
+Nodes (14): Bi(), Bt(), Et(), Fo(), Gc, _i(), Ia(), Jt() (+6 more)
 
 ### Community 74 - "google-flow-extension/mainworld-bridge.js"
 Cohesion: 0.46
@@ -457,10 +457,6 @@ Nodes (6): Batch Processing, Best Practices, CLI Usage, Custom Config, Programma
 Cohesion: 0.29
 Nodes (6): 1. Khi Nào Kích Hoạt Kỹ Năng Này?, 2. Quy Chuẩn Video Dài & Mật Độ Tri Thức (Longform Video Architecture), 3. Quy Trình Vận Hành 2 Pha Tương Tác (Interactive 2-Phase Cycle), PHA 1: TIỀN KỲ & SINH PROMPTS (PRE-ASSET), PHA 2: HẬU KỲ 60FPS & BỘ SEO XUẤT BẢN (POST-ASSET & SEO), Video Production Pipeline: End-to-End Master Skill
 
-### Community 80 - "Au"
-Cohesion: 0.67
-Nodes (3): Au(), cr(), Yr()
-
 ### Community 81 - "a"
 Cohesion: 0.33
 Nodes (7): oe(), ho(), iu(), qd(), a(), Vd(), c()
@@ -469,21 +465,25 @@ Nodes (7): oe(), ho(), iu(), qd(), a(), Vd(), c()
 Cohesion: 0.40
 Nodes (5): ah(), ch(), ih(), lh(), rh()
 
-### Community 84 - "Bu"
-Cohesion: 0.40
-Nodes (5): Bu(), il(), ol(), sl(), Vu()
+### Community 83 - "ep"
+Cohesion: 0.33
+Nodes (6): ep(), Je(), Ql(), tp(), Za(), Zh()
+
+### Community 84 - "xr"
+Cohesion: 0.67
+Nodes (3): su(), Wu(), xr()
 
 ### Community 85 - "Go"
-Cohesion: 0.12
-Nodes (18): ep(), Fd(), fp(), Go(), io(), ip(), Je(), jh() (+10 more)
+Cohesion: 0.10
+Nodes (21): ap(), bi, cp(), Fd(), Go(), io(), jh(), jo() (+13 more)
 
 ### Community 86 - "We"
 Cohesion: 0.40
 Nodes (5): ir(), Mp(), oi(), Ue(), We
 
-### Community 88 - "j"
-Cohesion: 0.19
-Nodes (13): bt(), G(), j(), nn(), qr(), sn(), vn(), Yr() (+5 more)
+### Community 88 - "X"
+Cohesion: 0.50
+Nodes (4): vn(), yt(), X(), Ee()
 
 ### Community 89 - "sf"
 Cohesion: 0.50
@@ -493,48 +493,32 @@ Nodes (4): ef(), nf(), sf(), tf()
 Cohesion: 0.50
 Nodes (4): Ku(), Ld(), Nd(), Rd()
 
-### Community 92 - "uf"
-Cohesion: 0.67
-Nodes (3): Aa(), uf(), uh()
-
-### Community 93 - "up"
-Cohesion: 0.67
-Nodes (3): bi, $n, up()
-
 ### Community 94 - "ga"
 Cohesion: 0.67
 Nodes (3): br(), Ec(), ga()
 
-### Community 95 - "en"
-Cohesion: 0.67
-Nodes (3): fl(), rs, Vo()
-
-### Community 96 - "xf"
-Cohesion: 0.67
-Nodes (3): ff(), Wf(), xf()
-
-### Community 97 - "vs"
-Cohesion: 0.67
-Nodes (3): kp(), vs(), yp()
+### Community 95 - "mi"
+Cohesion: 0.33
+Nodes (6): ds(), fl(), fr(), mi(), rs, Vo()
 
 ### Community 101 - "Oe"
 Cohesion: 0.36
 Nodes (8): ze(), Bo(), dl(), Oe(), Ps(), tu(), $u(), Un()
 
 ## Knowledge Gaps
-- **22 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **21 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `__` connect `__` to `pe`, `lf`, `index.ts-B45OwTZr.js`, `n`, `vr`, `index.ts-Pz8Pbha5.js`, `kl`, `hu`, `_`, `fi`, `Ce`, `bn`, `_`, `_d`, `Hn`, `yr`, `Xt`, `Ft`, `Ar`, `qa`, `N`, `$e`, `Cu`, `Ae`, `d`, `_i`, `Au`, `a`, `ch`, `Bu`, `Go`, `We`, `j`, `sf`, `Ld`, `uf`, `up`, `ga`, `en`, `xf`, `vs`, `es-DVaKZfnQ.js`, `pt_BR-CGGSIpts.js`, `tr-52WfsZRf.js`, `Oe`, `lp`, `_h`, `ll`, `Rs`, `Zf`, `_`, `_`, `_`, `_`, `_`, `_`?**
-  _High betweenness centrality (0.328) - this node is a cross-community bridge._
+- **Why does `__` connect `__` to `pe`, `lf`, `index.ts-B45OwTZr.js`, `n`, `vr`, `index.ts-Pz8Pbha5.js`, `kl`, `hu`, `_`, `fi`, `n`, `Ce`, `_`, `_d`, `Hn`, `yr`, `Xt`, `Ft`, `r`, `jn`, `N`, `$e`, `St`, `Ae`, `d`, `ke`, `a`, `ch`, `ep`, `xr`, `Go`, `We`, `X`, `sf`, `Ld`, `ga`, `mi`, `es-DVaKZfnQ.js`, `pt_BR-CGGSIpts.js`, `tr-52WfsZRf.js`, `Oe`, `_h`, `ll`, `Rs`, `Zf`, `_`, `_`, `_`, `_`, `_`, `_`?**
+  _High betweenness centrality (0.310) - this node is a cross-community bridge._
 - **Are the 4 inferred relationships involving `__` (e.g. with `dh()` and `ht()`) actually correct?**
   _`__` has 4 INFERRED edges - model-reasoned connections that need verification._
 - **Should `__` be split into smaller, more focused modules?**
   _Cohesion score 0.005555555555555556 - nodes in this community are weakly interconnected._
 - **Why does `lf()` connect `lf` to `__`?**
-  _High betweenness centrality (0.037) - this node is a cross-community bridge._
+  _High betweenness centrality (0.035) - this node is a cross-community bridge._
 - **Are the 16 inferred relationships involving `kl()` (e.g. with `B()` and `C()`) actually correct?**
   _`kl()` has 16 INFERRED edges - model-reasoned connections that need verification._
 - **Should `Root.tsx` be split into smaller, more focused modules?**

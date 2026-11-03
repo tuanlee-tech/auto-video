@@ -1,132 +1,332 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 74,
-  "abs_start_ms": 384180,
-  "abs_end_ms": 389600,
-  "duration_ms": 5420,
-  "word_count": 24,
+  "abs_start_ms": 764420,
+  "abs_end_ms": 777460,
+  "duration_ms": 13040,
+  "word_count": 64,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "Tất",
+      "word": "Sự",
       "start_ms": 0,
-      "end_ms": 320
+      "end_ms": 121
     },
     {
-      "word": "cả",
-      "start_ms": 320,
-      "end_ms": 960
+      "word": "phân",
+      "start_ms": 121,
+      "end_ms": 364
     },
     {
-      "word": "những",
-      "start_ms": 960,
-      "end_ms": 1120
+      "word": "tách",
+      "start_ms": 364,
+      "end_ms": 607
     },
     {
-      "word": "thiết",
-      "start_ms": 1120,
-      "end_ms": 1240
+      "word": "tâm",
+      "start_ms": 607,
+      "end_ms": 788
     },
     {
-      "word": "kế",
-      "start_ms": 1240,
-      "end_ms": 1460
+      "word": "lý",
+      "start_ms": 788,
+      "end_ms": 910
     },
     {
-      "word": "đó",
-      "start_ms": 1460,
-      "end_ms": 1600
+      "word": "này",
+      "start_ms": 910,
+      "end_ms": 1092
     },
     {
-      "word": "được",
-      "start_ms": 1600,
-      "end_ms": 1720
+      "word": "mang",
+      "start_ms": 1092,
+      "end_ms": 1334
     },
     {
-      "word": "tính",
-      "start_ms": 1720,
-      "end_ms": 1940
+      "word": "lại",
+      "start_ms": 1334,
+      "end_ms": 1516
     },
     {
-      "word": "toán",
-      "start_ms": 1940,
-      "end_ms": 2100
-    },
-    {
-      "word": "chính",
-      "start_ms": 2100,
-      "end_ms": 2340
-    },
-    {
-      "word": "xác",
-      "start_ms": 2340,
-      "end_ms": 2520
-    },
-    {
-      "word": "để",
-      "start_ms": 2520,
-      "end_ms": 2860
-    },
-    {
-      "word": "kích",
-      "start_ms": 2860,
-      "end_ms": 3280
-    },
-    {
-      "word": "hoạt",
-      "start_ms": 3280,
-      "end_ms": 3480
-    },
-    {
-      "word": "cơn",
-      "start_ms": 3480,
-      "end_ms": 3640
-    },
-    {
-      "word": "hưng",
-      "start_ms": 3640,
-      "end_ms": 3840
-    },
-    {
-      "word": "phấn",
-      "start_ms": 3840,
-      "end_ms": 4060
-    },
-    {
-      "word": "đột",
-      "start_ms": 4060,
-      "end_ms": 4280
-    },
-    {
-      "word": "ngột",
-      "start_ms": 4280,
-      "end_ms": 4480
-    },
-    {
-      "word": "trong",
-      "start_ms": 4480,
-      "end_ms": 4700
-    },
-    {
-      "word": "não",
-      "start_ms": 4700,
-      "end_ms": 4900
-    },
-    {
-      "word": "bộ",
-      "start_ms": 4900,
-      "end_ms": 5080
-    },
-    {
-      "word": "của",
-      "start_ms": 5080,
-      "end_ms": 5280
+      "word": "cho",
+      "start_ms": 1516,
+      "end_ms": 1698
     },
     {
       "word": "bạn",
-      "start_ms": 5280,
-      "end_ms": 5420
+      "start_ms": 1698,
+      "end_ms": 1880
+    },
+    {
+      "word": "một",
+      "start_ms": 1880,
+      "end_ms": 2062
+    },
+    {
+      "word": "cảm",
+      "start_ms": 2062,
+      "end_ms": 2244
+    },
+    {
+      "word": "giác",
+      "start_ms": 2244,
+      "end_ms": 2487
+    },
+    {
+      "word": "nhẹ",
+      "start_ms": 2487,
+      "end_ms": 2669
+    },
+    {
+      "word": "nhõm",
+      "start_ms": 2669,
+      "end_ms": 2911
+    },
+    {
+      "word": "vô",
+      "start_ms": 2911,
+      "end_ms": 3033
+    },
+    {
+      "word": "bờ",
+      "start_ms": 3033,
+      "end_ms": 3154
+    },
+    {
+      "word": "bến.",
+      "start_ms": 3154,
+      "end_ms": 3336
+    },
+    {
+      "word": "Bạn",
+      "start_ms": 3336,
+      "end_ms": 3518
+    },
+    {
+      "word": "vừa",
+      "start_ms": 3518,
+      "end_ms": 3700
+    },
+    {
+      "word": "được",
+      "start_ms": 3700,
+      "end_ms": 3942
+    },
+    {
+      "word": "tận",
+      "start_ms": 3942,
+      "end_ms": 4124
+    },
+    {
+      "word": "hưởng",
+      "start_ms": 4124,
+      "end_ms": 4428
+    },
+    {
+      "word": "trọn",
+      "start_ms": 4428,
+      "end_ms": 4670
+    },
+    {
+      "word": "vẹn",
+      "start_ms": 4670,
+      "end_ms": 4852
+    },
+    {
+      "word": "vẻ",
+      "start_ms": 4852,
+      "end_ms": 4973
+    },
+    {
+      "word": "đẹp",
+      "start_ms": 4973,
+      "end_ms": 5155
+    },
+    {
+      "word": "của",
+      "start_ms": 5155,
+      "end_ms": 5337
+    },
+    {
+      "word": "cuộc",
+      "start_ms": 5337,
+      "end_ms": 5580
+    },
+    {
+      "word": "sống",
+      "start_ms": 5580,
+      "end_ms": 5823
+    },
+    {
+      "word": "hiện",
+      "start_ms": 5823,
+      "end_ms": 6065
+    },
+    {
+      "word": "tại,",
+      "start_ms": 6065,
+      "end_ms": 6247
+    },
+    {
+      "word": "vừa",
+      "start_ms": 6247,
+      "end_ms": 6429
+    },
+    {
+      "word": "vững",
+      "start_ms": 6429,
+      "end_ms": 6672
+    },
+    {
+      "word": "bước",
+      "start_ms": 6672,
+      "end_ms": 6914
+    },
+    {
+      "word": "trên",
+      "start_ms": 6914,
+      "end_ms": 7157
+    },
+    {
+      "word": "con",
+      "start_ms": 7157,
+      "end_ms": 7339
+    },
+    {
+      "word": "đường",
+      "start_ms": 7339,
+      "end_ms": 7642
+    },
+    {
+      "word": "xây",
+      "start_ms": 7642,
+      "end_ms": 7824
+    },
+    {
+      "word": "dựng",
+      "start_ms": 7824,
+      "end_ms": 8067
+    },
+    {
+      "word": "sự",
+      "start_ms": 8067,
+      "end_ms": 8188
+    },
+    {
+      "word": "thịnh",
+      "start_ms": 8188,
+      "end_ms": 8491
+    },
+    {
+      "word": "vượng",
+      "start_ms": 8491,
+      "end_ms": 8794
+    },
+    {
+      "word": "dài",
+      "start_ms": 8794,
+      "end_ms": 8976
+    },
+    {
+      "word": "hạn.",
+      "start_ms": 8976,
+      "end_ms": 9158
+    },
+    {
+      "word": "Hãy",
+      "start_ms": 9158,
+      "end_ms": 9340
+    },
+    {
+      "word": "nhớ",
+      "start_ms": 9340,
+      "end_ms": 9522
+    },
+    {
+      "word": "câu",
+      "start_ms": 9522,
+      "end_ms": 9704
+    },
+    {
+      "word": "chuyện",
+      "start_ms": 9704,
+      "end_ms": 10068
+    },
+    {
+      "word": "về",
+      "start_ms": 10068,
+      "end_ms": 10189
+    },
+    {
+      "word": "một",
+      "start_ms": 10189,
+      "end_ms": 10371
+    },
+    {
+      "word": "người",
+      "start_ms": 10371,
+      "end_ms": 10675
+    },
+    {
+      "word": "dọn",
+      "start_ms": 10675,
+      "end_ms": 10857
+    },
+    {
+      "word": "dẹp",
+      "start_ms": 10857,
+      "end_ms": 11039
+    },
+    {
+      "word": "vệ",
+      "start_ms": 11039,
+      "end_ms": 11160
+    },
+    {
+      "word": "sinh",
+      "start_ms": 11160,
+      "end_ms": 11402
+    },
+    {
+      "word": "bình",
+      "start_ms": 11402,
+      "end_ms": 11645
+    },
+    {
+      "word": "dị",
+      "start_ms": 11645,
+      "end_ms": 11766
+    },
+    {
+      "word": "tại",
+      "start_ms": 11766,
+      "end_ms": 11948
+    },
+    {
+      "word": "vùng",
+      "start_ms": 11948,
+      "end_ms": 12191
+    },
+    {
+      "word": "nông",
+      "start_ms": 12191,
+      "end_ms": 12433
+    },
+    {
+      "word": "thôn",
+      "start_ms": 12433,
+      "end_ms": 12676
+    },
+    {
+      "word": "nước",
+      "start_ms": 12676,
+      "end_ms": 12919
+    },
+    {
+      "word": "Mỹ.",
+      "start_ms": 12919,
+      "end_ms": 13040
     }
   ],
   "aligned_with_script": true

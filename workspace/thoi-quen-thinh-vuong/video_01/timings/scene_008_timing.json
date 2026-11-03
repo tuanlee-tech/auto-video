@@ -1,62 +1,302 @@
 {
   "audio_file": "master_narration.wav",
   "scene_id": 8,
-  "abs_start_ms": 35500,
-  "abs_end_ms": 37620,
-  "duration_ms": 2120,
-  "word_count": 10,
+  "abs_start_ms": 55800,
+  "abs_end_ms": 67900,
+  "duration_ms": 12100,
+  "word_count": 58,
   "model": "base",
   "engine": "faster-whisper",
   "words": [
     {
-      "word": "hay",
+      "word": "Nó",
       "start_ms": 0,
-      "end_ms": 200
+      "end_ms": 119
     },
     {
-      "word": "tự",
-      "start_ms": 200,
-      "end_ms": 380
+      "word": "cũng",
+      "start_ms": 119,
+      "end_ms": 356
     },
     {
-      "word": "thưởng",
-      "start_ms": 380,
-      "end_ms": 660
+      "word": "không",
+      "start_ms": 356,
+      "end_ms": 652
     },
     {
-      "word": "cho",
-      "start_ms": 1020,
-      "end_ms": 1100
+      "word": "phải",
+      "start_ms": 652,
+      "end_ms": 890
     },
     {
-      "word": "mình",
-      "start_ms": 1100,
-      "end_ms": 1260
+      "word": "là",
+      "start_ms": 890,
+      "end_ms": 1008
     },
     {
-      "word": "một",
-      "start_ms": 1260,
-      "end_ms": 1480
+      "word": "bài",
+      "start_ms": 1008,
+      "end_ms": 1186
     },
     {
-      "word": "bữa",
-      "start_ms": 1480,
-      "end_ms": 1620
+      "word": "toán",
+      "start_ms": 1186,
+      "end_ms": 1424
     },
     {
-      "word": "ăn",
-      "start_ms": 1620,
-      "end_ms": 1740
+      "word": "về",
+      "start_ms": 1424,
+      "end_ms": 1542
     },
     {
-      "word": "thịnh",
-      "start_ms": 1740,
-      "end_ms": 1920
+      "word": "toán",
+      "start_ms": 1542,
+      "end_ms": 1779
     },
     {
-      "word": "soạn.",
-      "start_ms": 1920,
-      "end_ms": 2120
+      "word": "học,",
+      "start_ms": 1779,
+      "end_ms": 1957
+    },
+    {
+      "word": "hay",
+      "start_ms": 1957,
+      "end_ms": 2135
+    },
+    {
+      "word": "khả",
+      "start_ms": 2135,
+      "end_ms": 2313
+    },
+    {
+      "word": "năng",
+      "start_ms": 2313,
+      "end_ms": 2550
+    },
+    {
+      "word": "làm",
+      "start_ms": 2550,
+      "end_ms": 2728
+    },
+    {
+      "word": "việc",
+      "start_ms": 2728,
+      "end_ms": 2966
+    },
+    {
+      "word": "với",
+      "start_ms": 2966,
+      "end_ms": 3144
+    },
+    {
+      "word": "các",
+      "start_ms": 3144,
+      "end_ms": 3322
+    },
+    {
+      "word": "bảng",
+      "start_ms": 3322,
+      "end_ms": 3559
+    },
+    {
+      "word": "tính",
+      "start_ms": 3559,
+      "end_ms": 3796
+    },
+    {
+      "word": "khô",
+      "start_ms": 3796,
+      "end_ms": 3974
+    },
+    {
+      "word": "khan.",
+      "start_ms": 3974,
+      "end_ms": 4211
+    },
+    {
+      "word": "Chín",
+      "start_ms": 4211,
+      "end_ms": 4449
+    },
+    {
+      "word": "mươi",
+      "start_ms": 4449,
+      "end_ms": 4686
+    },
+    {
+      "word": "phần",
+      "start_ms": 4686,
+      "end_ms": 4923
+    },
+    {
+      "word": "trăm",
+      "start_ms": 4923,
+      "end_ms": 5160
+    },
+    {
+      "word": "sự",
+      "start_ms": 5160,
+      "end_ms": 5279
+    },
+    {
+      "word": "thành",
+      "start_ms": 5279,
+      "end_ms": 5575
+    },
+    {
+      "word": "bại",
+      "start_ms": 5575,
+      "end_ms": 5753
+    },
+    {
+      "word": "về",
+      "start_ms": 5753,
+      "end_ms": 5872
+    },
+    {
+      "word": "tiền",
+      "start_ms": 5872,
+      "end_ms": 6109
+    },
+    {
+      "word": "bạc",
+      "start_ms": 6109,
+      "end_ms": 6287
+    },
+    {
+      "word": "trong",
+      "start_ms": 6287,
+      "end_ms": 6584
+    },
+    {
+      "word": "cuộc",
+      "start_ms": 6584,
+      "end_ms": 6821
+    },
+    {
+      "word": "đời",
+      "start_ms": 6821,
+      "end_ms": 6999
+    },
+    {
+      "word": "con",
+      "start_ms": 6999,
+      "end_ms": 7177
+    },
+    {
+      "word": "người",
+      "start_ms": 7177,
+      "end_ms": 7474
+    },
+    {
+      "word": "được",
+      "start_ms": 7474,
+      "end_ms": 7711
+    },
+    {
+      "word": "quyết",
+      "start_ms": 7711,
+      "end_ms": 8007
+    },
+    {
+      "word": "định",
+      "start_ms": 8007,
+      "end_ms": 8245
+    },
+    {
+      "word": "bởi",
+      "start_ms": 8245,
+      "end_ms": 8423
+    },
+    {
+      "word": "chính",
+      "start_ms": 8423,
+      "end_ms": 8719
+    },
+    {
+      "word": "cách",
+      "start_ms": 8719,
+      "end_ms": 8956
+    },
+    {
+      "word": "mà",
+      "start_ms": 8956,
+      "end_ms": 9075
+    },
+    {
+      "word": "bộ",
+      "start_ms": 9075,
+      "end_ms": 9194
+    },
+    {
+      "word": "não",
+      "start_ms": 9194,
+      "end_ms": 9372
+    },
+    {
+      "word": "sinh",
+      "start_ms": 9372,
+      "end_ms": 9609
+    },
+    {
+      "word": "học",
+      "start_ms": 9609,
+      "end_ms": 9787
+    },
+    {
+      "word": "của",
+      "start_ms": 9787,
+      "end_ms": 9965
+    },
+    {
+      "word": "chúng",
+      "start_ms": 9965,
+      "end_ms": 10261
+    },
+    {
+      "word": "ta",
+      "start_ms": 10261,
+      "end_ms": 10380
+    },
+    {
+      "word": "được",
+      "start_ms": 10380,
+      "end_ms": 10617
+    },
+    {
+      "word": "lập",
+      "start_ms": 10617,
+      "end_ms": 10795
+    },
+    {
+      "word": "trình",
+      "start_ms": 10795,
+      "end_ms": 11092
+    },
+    {
+      "word": "từ",
+      "start_ms": 11092,
+      "end_ms": 11210
+    },
+    {
+      "word": "hàng",
+      "start_ms": 11210,
+      "end_ms": 11448
+    },
+    {
+      "word": "vạn",
+      "start_ms": 11448,
+      "end_ms": 11625
+    },
+    {
+      "word": "năm",
+      "start_ms": 11625,
+      "end_ms": 11803
+    },
+    {
+      "word": "trước.",
+      "start_ms": 11803,
+      "end_ms": 12100
     }
   ],
   "aligned_with_script": true

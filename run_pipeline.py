@@ -38,9 +38,11 @@ def main():
     p_transcribe.add_argument("--model", "-m", default="base", help="Whisper model (tiny, base, small, medium)")
 
     # Command: prompts
-    p_prompts = subparsers.add_parser("prompts", help="Generate cinematic prompts & 4-panel storyboard grids")
+    p_prompts = subparsers.add_parser("prompts", help="Generate cinematic prompts (Full Image by default, or 4-panel grids with --aiv)")
     p_prompts.add_argument("--project", "-p", required=True, help="Project name")
     p_prompts.add_argument("--channel", "-c", help="Channel profile ID (optional)")
+    p_prompts.add_argument("--aiv", action="store_true", help="Enable 4-panel storyboard motion grids for AIV slots (default: first 5 scenes)")
+    p_prompts.add_argument("--aiv-count", type=int, default=5, help="Number of initial scenes to treat as AIV slots (default: 5)")
 
     # Command: match
     p_match = subparsers.add_parser("match", help="Dynamically match downloaded images & videos to scenes")
@@ -109,7 +111,7 @@ def main():
         pm.step_extract_timings(args.project, args.channel, model_name=args.model)
 
     elif args.command == "prompts":
-        pm.step_generate_prompts(args.project, args.channel)
+        pm.step_generate_prompts(args.project, args.channel, enable_aiv=args.aiv, aiv_scene_count=args.aiv_count)
 
     elif args.command == "match":
         pm.step_resolve_assets(args.project, args.channel)

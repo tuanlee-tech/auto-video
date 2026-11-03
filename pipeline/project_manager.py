@@ -236,7 +236,13 @@ class ProjectManager:
         self.save_manifest(project_name, beats, cfg, channel_id)
         return beats
 
-    def step_generate_prompts(self, project_name: str, channel_id: Optional[str] = None) -> List[SceneBeat]:
+    def step_generate_prompts(
+        self,
+        project_name: str,
+        channel_id: Optional[str] = None,
+        enable_aiv: bool = False,
+        aiv_scene_count: int = 5
+    ) -> List[SceneBeat]:
         beats = self.load_manifest(project_name, channel_id)
         if not beats:
             beats = self.step_parse_script(project_name, channel_id)
@@ -247,7 +253,7 @@ class ProjectManager:
 
         cfg = self.load_config(project_name, channel_id)
         prompts_dir = os.path.join(cfg.project_dir, "prompts")
-        beats = generate_project_prompts(beats, cfg, prompts_dir)
+        beats = generate_project_prompts(beats, cfg, prompts_dir, enable_aiv=enable_aiv, aiv_scene_count=aiv_scene_count)
         self.save_manifest(project_name, beats, cfg, channel_id)
         return beats
 
